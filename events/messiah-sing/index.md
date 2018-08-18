@@ -1,16 +1,9 @@
 ---
 title: Messiah Sing
-dates: December 17
 weight: 2
-image: 2018-12-17.296.png
-description: 52nd year of the Bay Area’s oldest Messiah Sing.
-concertdata:
-- date: Monday, December 17
-  time: 7:30pm
-  venue: mvcpa
-  tickets:
-    label: Tickets are not available yet.
 ---
+
+{{% sponsors %}} Cathy and Steve Combs, Catherine and Rob Lyman, and Ann Yvonne Walker and David Jones {{% /sponsors %}}
 
 From treasured arias to the powerful Hallelujah chorus, Handel’s ageless
 oratorio is one of the most beloved masterworks ever written. Share the

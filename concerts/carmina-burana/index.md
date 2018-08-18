@@ -1,20 +1,9 @@
 ---
-title: Carmina Burana by Carl Orff
-dates: March 16 and 17
+title: Carmina Burana
 weight: 3
-description: A bombastic masterwork with choir, soloists, Crystal Children’s Choir, two pianos and six percussionists. Plus new works by Eric Tuan, using poetry by local students
-image: 2019-03-16.296.jpg
-sponsor: John Murden
-concertdata:
-- date: Saturday, March 16
-  time: 7:30pm
-  venue: fccpa
-  tickets:
-    label: Ticket sales start on September 1.
-- date: Sunday, March 17
-  time: 3:00pm
-  venue: laumc
 ---
+
+{{% sponsor %}} John Murden {{% /sponsor %}}
 
 **Fortune, Empress of the World**  
 _PLUS new works by Eric Tuan, using poetry by talented local students_

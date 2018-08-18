@@ -1,14 +1,6 @@
 ---
 title: You’re Just in Love! Sing-Along
-dates: February 11
 weight: 3
-description: Informal sing along with a Valentine’s Day theme.
-concertdata:
-- date: Sunday, February 11
-  time: 3:00pm
-  venue: laumc
-  tickets:
-    label: Tickets are not available yet.
 ---
 
 Treat yourself and a friend or loved one to songs about — what else? — **love**,

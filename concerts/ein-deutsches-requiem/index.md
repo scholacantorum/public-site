@@ -1,17 +1,9 @@
 ---
-title: Brahms Ein deutsches Requiem
-dates: May 24
+title: Ein deutsches Requiem
 weight: 4
-description: A beloved masterwork which emphasizes transition from mourning to comfort.  Maestro Wait’s final concert with Schola Cantorum
-image: 2019-05-24.296.jpg
-sponsors: Candy Pelissero and Brian Larsen
-concertdata:
-- date: Friday, May 24
-  time: 8:00pm
-  venue: memchu
-  tickets:
-    label: This is a free concert.  Subscribers get reserved up-front seating.
 ---
+
+{{% sponsors %}} Candy Pelissero and Brian Larsen {{% /sponsors %}}
 
 **A Human Requiem**
 

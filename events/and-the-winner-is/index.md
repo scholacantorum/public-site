@@ -1,14 +1,6 @@
 ---
 title: "“And the Winner Is...” Sing-Along" 
-dates: November 11
 weight: 1
-description: Informal sing along with songs from Oscar and Emmy award winners.
-concertdata:
-- date: Sunday, November 11
-  time: 3:00pm
-  venue: laumc
-  tickets:
-    label: Tickets are not available yet.
 ---
 
 We’re all on the edge of our seat while we’re waiting for the big winners of
