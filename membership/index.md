@@ -1,3 +1,8 @@
+---
+aliases:
+    - /sing
+---
+
 # Sing with Us!
 
 ## Rehearsals
