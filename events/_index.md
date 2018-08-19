@@ -1,3 +1,3 @@
 ---
-title: Sing-Alongs and Celebrations
+title: Community Events
 ---
