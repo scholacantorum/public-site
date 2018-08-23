@@ -13,6 +13,7 @@ weight: 4
 <tr><th>Melanie Ercoli</th><td>Chair Emeritus</td></tr>
 <tr><th>Carol Daly</th></tr>
 <tr><th>Beverly Hansberry</th></tr>
+  <tr><th>Stephen Hanna</th></tr>
 <tr><th>Sharon Newton</th></tr>
 <tr><th>Larry Wray</th></tr>
 </table>
