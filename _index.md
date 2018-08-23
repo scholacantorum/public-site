@@ -32,9 +32,9 @@ The holiday season concert is more special than ever, featuring one of Schola’
 favorite composers, **John Rutter**, and his wonderful Christmas impressions —
 plus of course, our sparkling traditional audience carol sing-along!
 
-For our third concert, along with the powerful **_Carmina Burana_**, we’re
-treating you to poetry by local gifted students with commissioned choral music
-by composer Eric Tuan. The pieces are inspired by and incorporate their poetry.
+For our third concert, we sing the powerful **_Carmina Burana_** by Carl Orff,
+showcasing vocal soloists, _Crystal Children’s Choir_, two pianos and six
+percussionists.
 
 Our final concert of the season will bring both joy and tears, as we perform the
 magnificent **Brahms’s _Ein deutsches Requiem_** with _Sinfonia Schola Cantorum_.
