@@ -1,4 +1,5 @@
 ---
+title: Sing with Schola Cantorum
 aliases:
   - /sing
 menu:
