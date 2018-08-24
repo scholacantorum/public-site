@@ -1,5 +1,6 @@
 ---
 title: "“And the Winner Is...” Sing-Along" 
+short: "“And the Winner Is...”"
 weight: 1
 ---
 

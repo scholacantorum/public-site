@@ -1,5 +1,6 @@
 ---
 title: You’re Just in Love! Sing-Along
+short: You’re Just in Love!
 weight: 3
 ---
 
