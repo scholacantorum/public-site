@@ -1,5 +1,6 @@
 ---
 title: Mailing Lists
+description: Subscribe to Schola Cantorum’s postal or electronic mailing lists.
 menu:
   dropdown:
     title: Join our Mailing List

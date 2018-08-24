@@ -1,7 +1,6 @@
 ---
 title: Sing with Schola Cantorum
-aliases:
-  - /sing
+description: Schola Cantorum welcomes new members!  Here’s what you need to know.
 menu:
   main:
     title: Sing

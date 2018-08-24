@@ -1,5 +1,6 @@
 ---
 title: Press Releases
+description: Schola Cantorum’s official press releases
 menu:
   dropdown:
     weight: 60

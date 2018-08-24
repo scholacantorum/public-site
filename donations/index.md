@@ -1,9 +1,14 @@
 ---
 title: Donations
+description: |
+  As a non-profit, Schola Cantorum is dependent on the generosity of its donors.
+  Here are all the different ways you can support us:
 menu:
   main:
     title: Donate
     weight: 3
+aliases:
+- /donate
 ---
 
 ### Help us spread the Joy of Singing for all in the Silicon Valley by donating to Schola Cantorum
