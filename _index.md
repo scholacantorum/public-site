@@ -18,9 +18,9 @@ aliases:
 {{% production %}}
     Subscription sales start on September 1.
 {{% /production %}}
-{{% sandbox %}}
+{{<sandbox>}}
     {{% subscriptionform product="subscription-2018-19" price="72" desc="2018-19 Season Subscription" %}}
-{{% /sandbox %}}
+{{</sandbox>}}
 
 {{% /splitmain %}}
 
