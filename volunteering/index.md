@@ -1,3 +1,11 @@
+---
+title: Volunteer with Schola
+menu:
+  dropdown:
+    title: Volunteer Opportunities
+    weight: 30
+---
+
 # Volunteer with Schola
 
 Schola Cantorum’s wonderful and dedicated volunteers provide essential support

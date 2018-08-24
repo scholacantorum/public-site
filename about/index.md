@@ -1,5 +1,9 @@
 ---
+title: About Schola Cantorum
 layout: about
+menu:
+  dropdown:
+    weight: 10
 ---
 
 # About Schola Cantorum

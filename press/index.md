@@ -1,3 +1,10 @@
+---
+title: Press Releases
+menu:
+  dropdown:
+    weight: 60
+---
+
 # Press Releases
 
 [February 23, 2018](/press/2018-02-23.pdf):  Schola Cantorum Presents Selections

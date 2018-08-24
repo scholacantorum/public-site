@@ -1,3 +1,10 @@
+---
+title: Web Site Policies
+menu:
+  dropdown:
+    weight: 70
+---
+
 # Privacy Policy
 
 Schola Cantorum is committed to respecting the privacy of its patrons and other

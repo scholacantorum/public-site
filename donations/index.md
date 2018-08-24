@@ -1,3 +1,11 @@
+---
+title: Donations
+menu:
+  main:
+    title: Donate
+    weight: 3
+---
+
 ### Help us spread the Joy of Singing for all in the Silicon Valley by donating to Schola Cantorum
 
 Schola Cantorum is dedicated to providing great music to you and your community

@@ -1,3 +1,11 @@
+---
+title: Mailing Lists
+menu:
+  dropdown:
+    title: Join our Mailing List
+    weight: 50
+---
+
 # Mailing Lists
 
 Subscribe to our mailing lists to get Schola Cantorum news!  

@@ -1,6 +1,10 @@
 ---
 aliases:
-    - /sing
+  - /sing
+menu:
+  main:
+    title: Sing
+    weight: 4
 ---
 
 # Sing with Us!

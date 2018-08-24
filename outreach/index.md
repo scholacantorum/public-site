@@ -1,3 +1,10 @@
+---
+title: Educational Outreach
+menu:
+  dropdown:
+    weight: 40
+---
+
 # Educational Outreach
 
 <img src="/about/outreach.png" class="float-left">
