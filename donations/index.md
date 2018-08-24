@@ -61,7 +61,7 @@ Do you want to be remembered for your generosity to the joy of music for all in
 Silicon Valley?  Consider using your will to give a final gift to Schola
 Cantorum.  Donations from the estates of Schola supporters have become an
 important gift to Schola’s mission and music.  You don’t need to be wealthy to
-make a difference for Schola Cantorum.  Just call our office at (650) 254-1700
+make a difference for Schola Cantorum.  Just call our office at (650) 254‑1700
 to set up an appointment to discuss Legacy donations to Schola Cantorum.
 
  

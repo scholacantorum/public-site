@@ -21,4 +21,4 @@ opportunity to experience first hand the joy of choral singing through familiar
 rounds like “When the Saints Go Marching In” and “Swing Low Sweet Chariot.”  Our
 program may be customized by the school to best fit its needs.  For further
 information or to schedule a Schola Cantorum school assembly, please contact the
-office at (650) 254-1700 or info@scholacantorum.org.
+office at (650) 254‑1700 or info@scholacantorum.org.
