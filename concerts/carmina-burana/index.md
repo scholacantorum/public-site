@@ -8,8 +8,9 @@ weight: 3
 **Fortune, Empress of the World**  
 
 Composed by Carl Orff in the 1930s, Carmina Burana is a scenic cantata beloved
-by choirs and audiences alike.  Along with Schola Cantorum’s performance, we
-showcase vocal soloists, _Crystal Children’s Choir_, two pianos and six
-percussionists.
+by choirs and audiences alike.  The work is based on 13th century manuscripts,
+written in Latin and German, which were discovered during the renovation of a
+Bavarian monastery.  Along with the singers of Schola Cantorum, we showcase
+vocal soloists, _Crystal Children’s Choir_, two pianos and six percussionists.
 
 {{% youthnote %}}
