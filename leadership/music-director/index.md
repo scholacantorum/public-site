@@ -1,10 +1,8 @@
 ---
+title: Gregory Wait, Music Director
 weight: 1
 ---
 
-## Gregory Wait, Music Director
-
-<img src="/leadership/music-director/wait.jpg" class="float-left">
 Gregory Wait has enjoyed a richly varied musical career as a singer, conductor,
 and teacher. Named the _Billie Bennett Achilles Director of Vocal
 Studies_ on the Stanford University Music Department faculty, he also conducted
