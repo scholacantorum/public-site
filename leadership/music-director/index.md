@@ -17,6 +17,9 @@ world’s stages and concert halls. The Memorial Church Choir also commissioned
 Stanford alumnus Kirke Mechem to compose his *Missa Brevis (‘Trinity’)* as a
 tribute to his leadership.
 
+Stanford audiences will long remember his performances of Mozart’s *Requiem*
+commemorating the first and tenth anniversaries of the attacks of September 11, 2001.
+
 As tenor soloist, Mr. Wait made his mark in recital, in opera, and on the concert
 stage, having made his Carnegie Hall debut singing the *Requiem* of Alfred
 Schnittke. Hailed as “one of the leading exponents of (Benjamin) Britten’s vocal
@@ -33,14 +36,10 @@ Music Festival to Santa Fe.
 Mr. Wait is also an arranger and composer, and is frequently engaged as a lecturer
 and clinician for choral and vocal festivals.
 
-As conductor, Stanford audiences will long remember
-his performances of Mozart’s *Requiem* commemorating the first and tenth
-anniversaries of the attacks of September 11, 2001.
-
-Seven European tours as conductor of the Congregational Chamber Choir have
+Mr. Wait’s conducting of the Congregational Chamber Choir’s seven European tours has
 provided international audiences the opportunity to hear their performances
 at historic venues in England, France, Italy, Switzerland, Russia, and
-Scandinavia.  Most recently, he served a choral residency at Huazhong Univerity
+Scandinavia.  Most recently, he served a choral residency at Huazhong University
 of Science and Technology in Wuhan, China.
 
 Now in his thirtieth season as music director of Schola Cantorum, Maestro Wait has
