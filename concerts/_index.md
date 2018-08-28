@@ -7,3 +7,33 @@ menu:
     title: Concerts
     weight: 1
 ---
+
+{{% sandbox %}}
+
+<a name="subscriptions"></a>
+
+### Subscribe to Schola Cantorum’s 2018‑19 Concert Season
+
+**Enjoy the flexibility and convenience of *FLEXPass*!**
+
+When you subscribe to Schola Cantorum’s 55th Season, you’ll receive
+**_FLEXPass_** status, which includes these great benefits:
+
+* **Celebrate Season 55** with an invitation to our **subscriber-only
+  reception** at the November concert
+* **Special subscriber pricing: 16% off** at-the-door prices
+* **Convenience:** when you order by Oct. 15, your printed tickets will be
+  mailed to you in advance — _**no waiting** at will-call_
+* **Reserved up-front seating:** We will seat you close to the performers for
+  an optimal concert experience
+* **Single ticket discount: 20% off** at-the-door prices for additional tickets
+  to the November and March concerts
+* **A personally autographed program:** Maestro Gregory Wait will autograph your
+  _Ein deutsches Requiem_ program
+* **Ticket Flexibility:** Your November and March concert tickets can be used at
+  any seating of either concert.  Use one for each concert, or both at the same
+  concert.  (The December and May concert tickets are not flexible.)
+
+{{% subscriptionform product="subscription-2018-19" price="72" desc="2018-19 Season Subscription" %}}    Each FLEXPass costs $72.
+
+{{% /sandbox %}}
