@@ -12,7 +12,7 @@ menu:
 
 <a name="subscriptions"></a>
 
-### Subscribe to Schola Cantorum’s 2018‑19 Concert Season
+### Subscribe to the 2018‑19 Concert Season
 
 **Enjoy the flexibility and convenience of *FLEXPass*!**
 
