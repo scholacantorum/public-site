@@ -11,3 +11,5 @@ Would Leave You_.
 
 This is an informal sing-along led by Schola Cantorum’s Assistant Conductor,
 Dawn Reyen, with song lyrics projected on a screen.
+
+<div style="height:30px"></div>
