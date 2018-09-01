@@ -5,7 +5,7 @@ title: 2018-19 Season
 
 {{% concerttable %}}
 {{% production %}}Subscription sales start on September 1.{{% /production %}}
-{{% sandbox %}}{{% subscriptionform product="subscription-2018-19" price="72" desc="2018-19 Season Subscription" %}}<br>Subscriptions have [great benefits](/concerts/#subscriptions)!{{% /sandbox %}}
+{{% sandbox %}}{{% subscriptionform "subscription-2018-19" %}}<br>Subscriptions have [great benefits](/concerts/#subscriptions)!{{% /sandbox %}}
 {{% /concerttable %}}
 
 <img src="/greg.296.jpg" class="float-left">

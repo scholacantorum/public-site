@@ -34,6 +34,6 @@ When you subscribe to Schola Cantorum’s 55th Season, you’ll receive
   any seating of either concert.  Use one for each concert, or both at the same
   concert.  (The December and May concert tickets are not flexible.)
 
-{{% subscriptionform product="subscription-2018-19" price="72" desc="2018-19 Season Subscription" %}}    Each FLEXPass costs $72.
+{{% subscriptionform "subscription-2018-19" %}}    Each FLEXPass costs $72.
 
 {{% /sandbox %}}
