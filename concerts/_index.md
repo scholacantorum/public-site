@@ -8,8 +8,6 @@ menu:
     weight: 1
 ---
 
-{{% sandbox %}}
-
 <a name="subscriptions"></a>
 
 ### Subscribe to the 2018‑19 Concert Season
@@ -35,5 +33,3 @@ When you subscribe to Schola Cantorum’s 55th Season, you’ll receive
   concert.  (The December and May concert tickets are not flexible.)
 
 {{% subscriptionform "subscription-2018-19" %}}    Each FLEXPass costs $72.
-
-{{% /sandbox %}}
