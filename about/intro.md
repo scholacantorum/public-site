@@ -2,7 +2,7 @@
 weight: 1
 ---
 
-<img src="/about/wait-conducting.jpg" class="float-left">
+<img src="/about/wait-conducting.jpg" class="floatleft2">
 **Schola Cantorum is a unique choral arts organization with multiple community
 programs.** Its auditioned 75-voice chorus, under the baton of Gregory Wait,
 presents dynamic performances of choral masterpieces, new works by major

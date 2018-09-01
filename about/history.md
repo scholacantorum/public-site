@@ -4,7 +4,7 @@ blackfriday:
   fractions: false
 ---
 
-<img src="/about/stanton.jpg" class="float-left">
+<img src="/about/stanton.jpg" class="floatleft2">
 **Historical Highlights** Founded in 1964 by the late Royal Stanton, the chorus
 has commissioned and performed numerous premieres, including works by Alva
 Henderson, Dirk Damonte, Joseph Jennings, Libby Larsen, Kirke Mechem and

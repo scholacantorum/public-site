@@ -8,5 +8,3 @@ carols for Christmas. Join Schola Cantorum for a cozy, melodious afternoon of
 works for the holiday season. Of course, no Schola holiday concert would be
 complete without our annual holiday carol sing-along, so bring your voice with
 you!
-
-<div style="height:60px"></div>

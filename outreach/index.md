@@ -7,7 +7,7 @@ menu:
 
 # Educational Outreach
 
-<img src="/about/outreach.png" class="float-left">
+<img src="/about/outreach.png" class="floatleft">
 Schola Cantorum offers a free enrichment assembly program for 5th graders,
 entitled “What is a Chorus?”  The 40-60 minute program uses 16 Schola adult
 choristers to demonstrate the four vocal voices — soprano, alto, tenor, and
