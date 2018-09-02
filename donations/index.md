@@ -9,6 +9,7 @@ menu:
     weight: 3
 aliases:
 - /donate
+payForm: donation
 ---
 
 ### Help us spread the Joy of Singing for all in the Silicon Valley by donating to Schola Cantorum
