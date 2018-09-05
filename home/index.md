@@ -29,3 +29,5 @@ magnificent **Brahms’s _Ein deutsches Requiem_** with _Sinfonia Schola Cantoru
 This event provides one last opportunity to enjoy Schola Cantorum under the
 baton of the incomparable Gregory Wait, as he shares Brahms’s quintessential
 masterpiece in this farewell concert.
+
+View our [season brochure](/schola-55.pdf) for full details!
