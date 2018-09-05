@@ -1,6 +1,9 @@
 ---
 title: You’re Just in Love! Sing-Along
 short: You’re Just in Love!
+description: >
+  Sing along to love songs for Valentine's Day, on February 10, 2019.  This is
+  an informal sing-along with no musical experience needed.
 weight: 3
 ---
 

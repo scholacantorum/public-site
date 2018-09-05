@@ -1,5 +1,7 @@
 ---
 title: Educational Outreach
+description: >
+  Schola Cantorum offers outreach programs to help teach music in schools.
 menu:
   dropdown:
     weight: 40

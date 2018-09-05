@@ -1,5 +1,8 @@
 ---
 title: Volunteer with Schola
+description: >
+  Schola Cantorum volunteers provide essential support for our concerts,
+  programs and events.  Read about our volunteer opportunities.
 menu:
   dropdown:
     title: Volunteer Opportunities

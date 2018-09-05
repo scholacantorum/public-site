@@ -1,6 +1,9 @@
 ---
 title: "“And the Winner Is...” Sing-Along" 
 short: "“And the Winner Is...”"
+description: >
+  Sing along to favorites from Oscar and Emmy award winners on November 11,
+  2018.  This is an informal sing-along, no musical experience needed.
 weight: 1
 ---
 

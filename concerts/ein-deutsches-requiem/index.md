@@ -1,5 +1,8 @@
 ---
 title: Ein deutsches Requiem
+description: >
+  Schola Cantorum performs Brahms's Ein deutsches Requiem on May 24, 2019, in a
+  free concert at Stanford Memorial Church.
 weight: 4
 ---
 

@@ -1,5 +1,8 @@
 ---
 title: A John Rutter Christmas
+description: >
+  Schola Cantorum's holiday concert on December 16, 2018 features the Christmas
+  carols of John Rutter.
 weight: 2
 ---
 

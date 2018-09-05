@@ -1,5 +1,9 @@
 ---
 title: Messiah Sing
+description: >
+  Schola Cantorum hosts its 52nd annual Messiah Sing on December 17, 2018.
+  Bring your score or borrow one of ours, and sing along with this beloved
+  choral masterwork.
 weight: 2
 ---
 
