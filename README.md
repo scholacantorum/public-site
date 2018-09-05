@@ -1,3 +1,7 @@
+---
+noindex: true
+---
+
 # Schola Cantorum Public Web Site
 
 This repository contains the content of the
