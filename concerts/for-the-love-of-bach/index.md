@@ -3,6 +3,9 @@ title: For the Love of Bach!
 description: >
   Schola Cantorum performs Bach cantatas 29, 50, and 147 on November 3, 2018.
 weight: 1
+resources:
+- src: image.jpg
+  title: Johann Sebastian Bach
 ---
 
 {{% sponsors %}} Jim and Kenna Fenton {{% /sponsors %}}

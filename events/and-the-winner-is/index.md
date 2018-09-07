@@ -5,6 +5,9 @@ description: >
   Sing along to favorites from Oscar and Emmy award winners on November 11,
   2018.  This is an informal sing-along, no musical experience needed.
 weight: 1
+resources:
+- src: image.png
+  title: Oscar award statue
 ---
 
 We’re all on the edge of our seat while we’re waiting for the big winners of

@@ -5,6 +5,9 @@ description: >
   Sing along to love songs for Valentine's Day, on February 10, 2019.  This is
   an informal sing-along with no musical experience needed.
 weight: 3
+resources:
+- src: image.png
+  title: Cupid and hearts
 ---
 
 Treat yourself and a friend or loved one to songs about — what else? — **love**,

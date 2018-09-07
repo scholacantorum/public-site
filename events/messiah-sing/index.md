@@ -5,6 +5,9 @@ description: >
   Bring your score or borrow one of ours, and sing along with this beloved
   choral masterwork.
 weight: 2
+resources:
+- src: image.png
+  title: Gregory Wait conducting a Messiah Sing
 ---
 
 {{% sponsors %}} Cathy and Steve Combs, Catherine and Rob Lyman, and Ann Yvonne Walker and David Jones {{% /sponsors %}}

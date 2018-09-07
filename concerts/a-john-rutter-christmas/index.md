@@ -4,6 +4,9 @@ description: >
   Schola Cantorum's holiday concert on December 16, 2018 features the Christmas
   carols of John Rutter.
 weight: 2
+resources:
+- src: image.png
+  title: Santa Claus
 ---
 
 Composer, arranger, editor and conductor, John Rutter first became known for his

@@ -4,6 +4,9 @@ description: >
   Schola Cantorum performs Carmina Burana on March 16 and 17, 2019, featuring
   vocal soloists, Crystal Children's Choir, two pianos and six percussionists.
 weight: 3
+resources:
+- src: image.jpg
+  title: Carmina Burana manuscript
 ---
 
 {{% sponsor %}} John Murden {{% /sponsor %}}
