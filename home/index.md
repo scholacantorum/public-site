@@ -7,7 +7,7 @@ title: 2018-19 Season
 {{% subscriptionform "subscription-2018-19" %}}<br>Subscriptions have [great benefits](/concerts/#subscriptions)!
 {{% /concerttable %}}
 
-<img src="/greg.296.jpg" class="floatleft">
+{{% imgfloatleft "greg.296.jpg" "Gregory Wait conducting" %}}
 With this season’s stellar repertoire, we’re celebrating Gregory Wait’s
 thirtieth and final year at our podium.  We’re looking forward to lauding him
 throughout the year, as well as welcoming our incoming Music Director, to be
