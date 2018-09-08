@@ -6,7 +6,10 @@ description: |
   concerts, host sing-alongs and our popular Messiah Sing and Summer Sings, help
   teach music in schools, and support the community with music.
 resources:
-- src: ogimg.png
+- name: ogimg.png
+  src: home/ogimg.png
+- name: greg.jpg
+  src: home/greg.jpg
 aliases:
 - /home
 ---

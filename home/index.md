@@ -7,7 +7,7 @@ title: 2018-19 Season
 {{% subscriptionform "subscription-2018-19" %}}<br>Subscriptions have [great benefits](/concerts/#subscriptions)!
 {{% /concerttable %}}
 
-{{% imgfloatleft "greg.296.jpg" "Gregory Wait conducting" %}}
+{{% imgfloatleft "greg.jpg" "Gregory Wait conducting" %}}
 With this season’s stellar repertoire, we’re celebrating Gregory Wait’s
 thirtieth and final year at our podium.  We’re looking forward to lauding him
 throughout the year, as well as welcoming our incoming Music Director, to be
@@ -30,4 +30,4 @@ This event provides one last opportunity to enjoy Schola Cantorum under the
 baton of the incomparable Gregory Wait, as he shares Brahms’s quintessential
 masterpiece in this farewell concert.
 
-View our [season brochure](/schola-55.pdf) for full details!
+View our [season brochure](/home/schola-55.pdf) for full details!
