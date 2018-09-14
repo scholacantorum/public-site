@@ -26,6 +26,9 @@ donate!
 **Donate any amount online** with a credit or debit card:
 {{< donationform >}}
 
+We can also charge your card monthly, if you prefer.
+[Sign up here.](/donations-monthly)
+
 **Donate by phone.**  
 Call our office at (650) 254–1700.  If we aren’t in the office, just leave a
 message and a suggested time for us to return your call.
