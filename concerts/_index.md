@@ -23,8 +23,6 @@ When you subscribe to Schola Cantorum’s 55th Season, you’ll receive
 * **Celebrate Season 55** with an invitation to our **subscriber-only
   reception** at the November concert
 * **Special subscriber pricing: 16% off** at-the-door prices
-* **Convenience:** when you order by Oct. 15, your printed tickets will be
-  mailed to you in advance — _**no waiting** at will-call_
 * **Reserved up-front seating:** We will seat you close to the performers for
   an optimal concert experience
 * **Single ticket discount: 20% off** at-the-door prices for additional tickets
