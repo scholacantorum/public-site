@@ -16,7 +16,7 @@ payForm: donation
 
 Schola Cantorum is dedicated to providing great music to you and your community
 through concerts, kids’ educational programs, free visits to senior centers, and
-fun singing afternoons for all.  We also commission new works by living local
+fun singing afternoons for all.  We also commission new works by local
 composers.  This keeps choral music alive and growing.
 
 As a nonprofit, we’re dependent upon the generosity of our donors.  And your
