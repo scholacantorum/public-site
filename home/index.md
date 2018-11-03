@@ -3,7 +3,7 @@ headless: true
 title: 2018-19 Season
 ---
 
-{{% concerttable %}}
+{{% concerttable %}} {{% /concerttable %}}
 
 {{% imgfloatleft "greg.jpg" "Gregory Wait conducting" %}}
 With this season’s stellar repertoire, we’re celebrating Gregory Wait’s
