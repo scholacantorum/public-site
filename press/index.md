@@ -6,7 +6,19 @@ menu:
     weight: 60
 ---
 
+# Press Coverage
+
+Palo Alto Weekly, [November 2, 2018](https://www.paloaltoonline.com/morguepdf/2018/2018_11_02.paw.section1.pdf)
+(page 25):  A Vocal Leader:  Longtime Local Music Director Gregory Wait to
+Retire
+
+San Francisco Classical Voice, [October 23, 2018](https://www.sfcv.org/music-news/schola-cantorums-55th-season-will-be-gregory-waits-last):
+Schola Cantorum's 55th Season Will Be Gregory Wait's Last
+
 # Press Releases
+
+[October 29, 2018](/press/2018-10-29.pdf):  Schola Cantorum Hosts Community
+Sing-Along
 
 [February 23, 2018](/press/2018-02-23.pdf):  Schola Cantorum Presents Selections
 of the Most-Loved Choruses
