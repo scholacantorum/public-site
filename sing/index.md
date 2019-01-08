@@ -25,7 +25,7 @@ adult singers of all vocal ranges, and musical and cultural backgrounds to
 audition. Singers should be able to sight-read and learn their parts on their
 own. Some college choral experience is preferred.
 
-View our [audition brochure](/membership/audition.pdf) for full details and information.
+View our [audition brochure](/sing/audition.pdf) for full details and information.
 
 Auditions are generally held by appointment with Schola Cantorum’s Music
 Director, Gregory Wait. To schedule an audition, please call the Schola Cantorum
@@ -35,7 +35,7 @@ Each audition lasts approximately 15 minutes, and consists of:
 
 * Vocalization to determine your vocal range and voice quality
 * A brief sight-reading exercise
-* A short [solo](/membership/audition-solo.pdf) to sing for the music director.  (You may
+* A short [solo](/sing/audition-solo.pdf) to sing for the music director.  (You may
   prepare this solo in any key.)
 
 The music director will evaluate your potential as a member, in the following
