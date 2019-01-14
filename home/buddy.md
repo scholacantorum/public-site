@@ -1,5 +1,5 @@
 ---
-title: Welcome Dr. Buddy James
+title: New Artistic Director
 weight: 2
 ---
 
