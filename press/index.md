@@ -17,6 +17,8 @@ Schola Cantorum's 55th Season Will Be Gregory Wait's Last
 
 # Press Releases
 
+[January 21, 2019](/press/2019-01-21.pdf):  Schola Cantorum Hosts Valentine’s Sing-Along
+
 [October 29, 2018](/press/2018-10-29.pdf):  Schola Cantorum Hosts Community
 Sing-Along
 
