@@ -2,8 +2,8 @@
 
 <p style="font-weight:bold"><span style="display:inline-block">Friday, April 26, 2019</span> <span style="display:inline-block">from 6:30 pm to 10:30 pm</span></p>
 
-Palo Alto Hills Golf and Country Club  
-<span style="font-size:14px">3000 Alexis Drive, Palo Alto, CA  94304&nbsp;&nbsp;[<a href="https://www.google.com/maps/place/Palo+Alto+Hills+Golf+Country+Club/@37.3739227,-122.1895087,14z/data=!4m5!3m4!1s0x808fb01e86a7d2cd:0x1a86fe6a8effb0b5!8m2!3d37.3739223!4d-122.1719992" target="_blank">Map</a>]</span>
+Fremont Hills Country Club  
+<span style="font-size:14px">12889 Viscaino Place, Los Altos Hills, CA 94022&nbsp;&nbsp;[<a href="https://www.google.com/maps/place/Fremont+Hills+Country+Club/@37.3767118,-122.1628322,14z/data=!4m5!3m4!1s0x808fb069fe170007:0x1f4c3ba1f465e704!8m2!3d37.3767114!4d-122.1453173" target="_blank">Map</a>]</span>
 
 Master of Ceremonies: Jeff Applebaum  
 Sound Track: Steve Wozniak, *Sound in Motion*  
