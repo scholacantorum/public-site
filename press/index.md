@@ -17,6 +17,10 @@ Schola Cantorum's 55th Season Will Be Gregory Wait's Last
 
 # Press Releases
 
+[February 25, 2019](/press/2019-02-25.pdf):  Schola Cantorum Presents “Carmina Burana”
+
+[February 7, 2019](/press/2019-02-07.pdf):  Schola Cantorum Announces New Artistic Director
+
 [January 21, 2019](/press/2019-01-21.pdf):  Schola Cantorum Hosts Valentine’s Sing-Along
 
 [October 29, 2018](/press/2018-10-29.pdf):  Schola Cantorum Hosts Community
