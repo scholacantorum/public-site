@@ -11,6 +11,10 @@ resources:
   title: Fiesta image
 - src: logo.png
   title: Fiesta logo
+- src: deleon.jpg
+  title: DeLeon Realty logo
+- src: procopio.jpg
+  title: Procopio, Cory, Hargreaves & Savitch LLP logo
 aliases:
 - /gala
 - /gala2019
