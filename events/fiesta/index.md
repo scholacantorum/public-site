@@ -1,5 +1,5 @@
 ---
-title: Fiesta!
+title: ¡Fiesta!
 subtitle: An evening in old California
 description: >
   Our annual fundraising gala, this year celebrating our outgoing director and
