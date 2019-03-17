@@ -3,4 +3,4 @@ datetime: 2019-03-17 15:00:00
 venue: laumc
 ---
 
-{{% ticketform "ticket-2019-03-17" %}}
+Online ticket sales have closed.  Tickets are available at the door.
