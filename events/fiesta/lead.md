@@ -14,4 +14,4 @@ Portrait photography by Bob Wall
 
 $165
 
-[Register](#register) by March 31, 2019
+Registrations are closed.  This event is sold out.

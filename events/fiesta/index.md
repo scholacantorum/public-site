@@ -45,8 +45,3 @@ An essential segment of this event, of course, is our
 ***Fund&#x2011;A&#x2011;Need***.  This provides the much-needed financial
 foundation for Dr. James’s first year, as well as to continue our tradition of
 fine choral&nbsp;performances.
-
-[Register now](#register) to be at this once-in-a-lifetime event. You will play
-an important part in Schola Cantorum’s ongoing mission to bring *the Joy of
-Singing* to all in the Silicon Valley — from children to parents and
-grandparents, as a valued Schola&nbsp;supporter!
