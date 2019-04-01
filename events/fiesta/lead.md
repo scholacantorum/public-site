@@ -12,6 +12,4 @@ Seated Buffet Dining • Fund-A-Need
 Portrait photography by George Paganini  
 <span style="display:inline-block">Dress in evening wear</span> <span style="display:inline-block">or for an Old California Fiesta</span>
 
-$165
-
 Registrations are closed.  This event is sold out.
