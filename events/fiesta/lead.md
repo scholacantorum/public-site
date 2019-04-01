@@ -9,7 +9,7 @@ Master of Ceremonies: Jeff Applebaum
 Sound Track: Steve Wozniak, *Sound in Motion*  
 Silent Auction • Entertainment  
 Seated Buffet Dining • Fund-A-Need  
-Portrait photography by Bob Wall  
+Portrait photography by George Paganini  
 <span style="display:inline-block">Dress in evening wear</span> <span style="display:inline-block">or for an Old California Fiesta</span>
 
 $165
