@@ -1,6 +1,7 @@
 ---
 title: Community Events
 weight: 1
+expiryDate: 2019-04-26
 ---
 
 {{% eventtable %}}
