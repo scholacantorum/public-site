@@ -16,9 +16,8 @@ Schola Cantorum offers an opportunity for young local poets to hear their words
 put to music by the renowned composer Eric Tuan and sung by a choir of
 seventy-five voices under the direction of Schola’s artistic director, Buddy
 James. The contest is a contemporary venture of artistic collaboration and
-community, open to students who are residents of Mountain View, Los Altos, Los
-Altos Hills, Palo Alto, Sunnyvale, and Cupertino, attending grades 9 through 12
-in the fall of 2019.
+community, open to high school students who live or attend school in Santa Clara
+County.
 
 * 2019–2020 Theme: “California’s Natural Beauty”
 * Prizes are: $500 First Place; $300 Second Place; $200 Third Place. While only
