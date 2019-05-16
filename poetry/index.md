@@ -94,7 +94,7 @@ competition will be deemed to be acceptance of these conditions.
 ## Prior Contest Winners
 
 **2016**: “Love Poem in Blue” by Sonnet Phelps, set to music by Dawn Reyen.  
-**2017**: “Starry Night” by Albert Zhao, set to music by Marjorie Halloran.
+**2017**: “Starry Night” by Albert Zhao, set to music by Marjorie Halloran.  [[Recording](https://youtu.be/M705te7cR0s)]
 
 ## Contest Entry Form
 
