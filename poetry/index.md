@@ -39,17 +39,16 @@ competition will be deemed to be acceptance of these conditions.
 
 ## Important Dates
 
-* Opening date: June 1, 2019.
-* Closing date: September 27, 2019 at 11pm.  
-  Finalist will be notified by email on February 15, 2020.
+* Deadline for entries: September 27, 2019 at 11pm.
+* Finalists notified: early January, 2020.
 * Winners announced: At Schola Cantorum’s Early Spring concert “Into the West”,
-  scheduled on February 29, 2020 and on March 1, 2020.
+  on February 29, 2020 and on March 1, 2020.
 
 ## Entry Conditions and Guidelines
 
-1. The contest is free and open to all Mountain View, Sunnyvale, Palo Alto,
-   Cupertino, Los Altos and Los Altos Hills residents attending 9th, 10th, 11th
-   and 12th grades in the fall of 2019.
+1. The contest is free and open to all students attending 9th, 10th, 11th, or
+   12th grades in the fall of 2019, who live or attend school in Santa Clara
+   County, California.
 2. There is a maximum of 2 poems per entrant. All poems must be in English, be
    the original work of the author and not have been previously published or won
    another competition at the time of entry. For the purpose of this contest,
@@ -62,20 +61,21 @@ competition will be deemed to be acceptance of these conditions.
    stanzas do not count). Any rhyme scheme except free verse is allowed.  The
    evaluation of the poems will be partially based upon their ability to be
    adapted into a choral composition.
-5. All entries must be submitted online, through the form that will be available
-   on this page beginning June 1, 2019. No late entries will be accepted.
-   Entries received after the deadline will be disqualified. No postal entries
-   are accepted — sorry. We do hope you can find someone to help you with an
-   online entry — or try your school or local library.
+5. All entries must be submitted online, through
+   [this form](https://forms.gle/ipxLLhWzNPtbp9um8). No late entries will be
+   accepted.  Entries received after the deadline will be disqualified. No postal
+   entries are accepted — sorry. We do hope you can find someone to help you with
+   an online entry — or try your school or local library.
 6. Each entry must be the entrant’s/author’s original work. Should an entry be
    found to contain any plagiarized content it will be automatically
    disqualified from the competition, along with any additional work by that
    poet.
-7. Schola Cantorum reserves the right to publish, perform or broadcast, without
-   fee to the author, in part or in whole, award winning or commended entries
-   and photographs on the website, in an anthology and/or in media publications
-   or broadcasts. Copyright remains with the author thereafter. No payment or
-   reward will be made to the entrant for any such performance or publication.
+7. The author agrees to grant Schola Cantorum an irrevocable, royalty-free,
+   non-exclusive license of unlimited duration to publish, perform, display,
+   broadcast, reproduce, distribute, transmit, display, and create derivative
+   works, in part or in whole, award-winning or commended entries and photographs
+   on the Schola Cantorum website, in an anthology and/or in media publications or
+   broadcasts.
 8. Schola Cantorum also reserves the right to give entrants’ contact details to
    the media, if among the winners.
 
@@ -83,8 +83,8 @@ competition will be deemed to be acceptance of these conditions.
 
 1. The 10 finalists for the contest will be judged anonymously by Schola’s
    Directors, a local journalist, and a local Poet Laureate.
-2. Finalists will be notified via email by February 15, 2020. The judges’
-   decision is final and no correspondence will be entered into.
+2. Finalists will be notified in early January, 2020. The judges’ decision is
+   final and no correspondence will be entered into.
 3. The top three winners will be announced at Schola’s early spring concert. The
    first prize winning poem (or an excerpt of the poem) will be used in a choral
    performance at that concert. Prizes will be presented at this event. Prizes
@@ -95,3 +95,8 @@ competition will be deemed to be acceptance of these conditions.
 
 **2016**: “Love Poem in Blue” by Sonnet Phelps, set to music by Dawn Reyen.  
 **2017**: “Starry Night” by Albert Zhao, set to music by Marjorie Halloran.
+
+## Contest Entry Form
+
+To submit your poem to the contest, use
+[this form](https://forms.gle/ipxLLhWzNPtbp9um8).
