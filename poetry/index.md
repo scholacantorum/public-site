@@ -27,7 +27,7 @@ County.
 * The contest will be judged by a panel consisting of a local Poet Laureate, a
   local journalist, Schola Cantorum Directors and composer Eric Tuan. The
   submission deadline is September 27, 2019. The 10 finalists will be announced
-  on February 15, 2020. The three winning poems will be announced at Schola’s
+  in early January, 2020. The three winning poems will be announced at Schola’s
   early spring concerts which are scheduled for Saturday, February 29 and
   Sunday, March 1. The title of this Schola concert is “Into the West”. The
   music selected for performance at this concert will be choral music from and
