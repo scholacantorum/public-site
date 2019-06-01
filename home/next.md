@@ -1,16 +1,24 @@
 ---
 title: 2019–20 Season
-weight: 2
+weight: 1
 ---
 
 Our first season under the baton of our new Artistic Director,
-[Dr. Buddy James](http://www.buddyjames.org/), continues our tradition of
+[Buddy James](/leadership/artistic-director), continues our tradition of
 diverse and thrilling music.
 
-**October 2019**: Duke Ellington’s *Sacred Concert*, with big band  
-**December 2019**:  The Joys of Christmas  
-**March 2019**:  Music of West Coast composers  
-**May 2019**:  Mendelssohn’s *Elijah*
+**<i>Schola Swings</i>: Oct. 26, 27**  
+A swingin’ presentation of Duke Ellington’s famous Sacred Concerts performed
+with soloists, a tap dancer and a Big Band!
 
-And of course we’ll have our sing-alongs, Messiah sing, and other traditional
-Schola events.  Check back soon for details!
+**<i>The Joys of Christmas</i>: Dec. 15**  
+Joyous and mystical holiday music for chorus and harp, featuring a performance
+of Kirke Mechem’s *Seven Joys of Christmas*.
+
+**<i>Into the West</i>: Feb. 29, Mar. 1**  
+Music from and inspired by the Great American West Coast with music by
+Lauridsen, Whitacre and many more.
+
+**<i>The Prophet Speaks</i>: May 17**  
+Mendelssohn’s oratorio *Elijah*.  Last performed by the chorale over 30 years
+ago, this beloved masterpiece will thrill you with its beauty and drama.

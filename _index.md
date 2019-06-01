@@ -8,8 +8,9 @@ description: |
 resources:
 - name: ogimg.png
   src: home/ogimg.png
-- name: greg.jpg
-  src: home/greg.jpg
+- name: summer-sings-head.png
+  src: home/summer-sings-head.png
 aliases:
 - /home
+buyTickets: true
 ---
