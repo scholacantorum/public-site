@@ -11,7 +11,7 @@ menu:
     weight: 10
 resources:
 - src: history/image.jpg
-  title: Royal Staton, Schola Cantorum’s founder
+  title: Royal Stanton, Schola Cantorum’s founder
 - src: intro/image.jpg
   title: Gregory Wait conducting
 ---

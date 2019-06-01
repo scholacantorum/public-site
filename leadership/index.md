@@ -10,8 +10,8 @@ resources:
   title: Dawn Horst Reyen
 - src: exec-director/image.jpg
   title: Daniel Morris
-- src: music-director/image.png
-  title: Gregory Wait
+- src: artistic-director/image.png
+  title: Buddy James
 ---
 
 # Leadership
