@@ -1,5 +1,5 @@
 ---
-title: Buddy James, Artistic Director
+title: Buddy James, <i>Artistic Director</i>
 weight: 1
 ---
 

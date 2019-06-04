@@ -1,5 +1,5 @@
 ---
-title: Dawn Horst Reyen, Assistant Conductor
+title: Dawn Horst Reyen, <i>Assistant Conductor</i>
 weight: 2
 ---
 

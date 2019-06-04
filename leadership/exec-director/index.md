@@ -1,5 +1,5 @@
 ---
-title: Daniel Morris, Executive Director
+title: Daniel Morris, <i>Executive Director</i>
 weight: 3
 ---
 
