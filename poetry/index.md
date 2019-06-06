@@ -34,6 +34,9 @@ County.
   inspired by the Great American West Coast, featuring the works of composers
   Morten Lauridson, Eric Whitacre and others.
 
+Here are a [printable flyer](/poetry/flyer.pdf) and a
+[press release](/press/2019-05-21.pdf) about the contest.
+
 We recommend all entrants read the rules carefully before entering. Entry in the
 competition will be deemed to be acceptance of these conditions.
 

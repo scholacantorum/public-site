@@ -17,6 +17,10 @@ Schola Cantorum's 55th Season Will Be Gregory Wait's Last
 
 # Press Releases
 
+[May 21, 2019](/press/2019-05-21.pdf):  Schola Cantorum’s Poetry-to-Music Contest Open to High School Students
+
+[May 6, 2019](/press/2019-05-06.pdf):  Schola Cantorum’s Gregory Wait Conducts Brahms’s Requiem in Final Concert
+
 [February 26, 2019](/press/2019-02-26.pdf):  Schola Cantorum Presents “Carmina Burana”
 
 [February 7, 2019](/press/2019-02-07.pdf):  Schola Cantorum Announces New Artistic Director

@@ -18,9 +18,9 @@ through concerts, kids’ educational programs, free visits to senior centers, a
 fun singing afternoons for all.  We also commission new works by local
 composers.  This keeps choral music alive and growing.
 
-As a nonprofit, we’re dependent upon the generosity of our donors.  And your
-donations are tax deductible.  So why wait?  There are many ways that you can
-donate!
+As a nonprofit, we’re dependent upon the generosity of our donors.  And
+donations to Schola are tax deductible for most people.  So why wait?  There are
+many ways that you can donate!
 
 {{< donationform >}}
 
@@ -54,12 +54,13 @@ individuals.  For concert sponsorship details, call our office at (650)
 Donating appreciated stocks and securities to Schola Cantorum can offer you a
 tax-efficient alternative way to support Schola Cantorum’s programs.  By making
 an appreciated stock donation, **you will escape any capital gains taxes on
-those stocks**.  In addition, you can **deduct the current market value of the
-gift** for income tax purposes, just as if you had made a cash donation.  The
-after-tax cost of making your charitable gift may be less with a gift of
-appreciated stocks than with cash.  Call our office for details at (650)
-254–1700.
-<br><a href="https://stockdonator.com/stock-information/?oid=ccfc77fe" target="_blank" class="btn btn-primary">Donate Stock To Schola Cantorum</a>
+those stocks**.  In addition, if your tax circumstances permit, you can **deduct
+the current market value of the gift** for income tax purposes, just as if you
+had made a cash donation.  The after-tax cost of making your charitable gift may
+be less with a gift of appreciated stocks than with cash.  Call our office for
+details at (650) 254–1700.  <br><a
+href="https://stockdonator.com/stock-information/?oid=ccfc77fe" target="_blank"
+class="btn btn-primary">Donate Stock To Schola Cantorum</a>
 
 **Make a final gift** with the Schola Cantorum Legacy program:  
 Do you want to be remembered for your generosity to the joy of music for all in
@@ -69,7 +70,5 @@ important gift to Schola’s mission and music.  You don’t need to be wealthy 
 make a difference for Schola Cantorum.  Just call our office at (650) 254‑1700
 to set up an appointment to discuss Legacy donations to Schola Cantorum.
 
- 
-
 Schola Cantorum is a 501\(c)(3) non-profit organization.  Our tax ID number is
-94‑2597822.  Your donations are tax deductible to the full extent of the law.
+94‑2597822.
