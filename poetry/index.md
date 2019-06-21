@@ -101,5 +101,6 @@ competition will be deemed to be acceptance of these conditions.
 
 ## Contest Entry Form
 
-To submit your poem to the contest, use
-[this form](https://forms.gle/ipxLLhWzNPtbp9um8).
+To submit your poem to the contest, use [this
+form](https://forms.gle/ipxLLhWzNPtbp9um8).  If you have questions, send email
+to [poetrycontest@scholacantorum.org](mailto:poetrycontest@scholacantorum.org).
