@@ -7,46 +7,50 @@ menu:
     weight: 4
 ---
 
-# Sing with Us!
+# Sing with Schola Cantorum!
 
-## Rehearsals
+Schola Cantorum is always looking for new members to celebrate the joy of
+singing with us.  If you’re interested, come to one of our rehearsals and check
+us out.  We meet Monday nights from 7:15–10:00pm, September through May, at the
+Los Altos United Methodist Church (see [map](https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09db205b:0x3cb6a0075024dc76!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3604399!4d-122.09889)).  We’d love to meet you!
 
-Schola Cantorum rehearses Monday evenings from 7:15pm to 10:00pm at the Los
-Altos United Methodist Church
-([map](https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09db205b:0x3cb6a0075024dc76!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3604399!4d-122.09889)).
-Rehearsals run from early September to mid-December, then from January to
-mid-May or June.
+<div style="display:flex;flex-wrap:wrap"><div style="width:290px;margin-right:24px">
 
-## Auditions
+<h2>Benefits</h2>
+<ul style="padding-left:1.2em">
+<li>Four concert sets of beautiful music every season</li>
+<li>Wide variety of repertoire, from classical masterworks to popular songs</li>
+<li>Stable organization with over 50 years of history</li>
+<li>Highly respected in the community</li>
+<li>Welcoming and friendly — your new social circle</li>
+</ul>
 
-Schola Cantorum welcomes new members to carry on its tradition of bringing the
-finest classical and sacred music to the South Bay Area since 1964. We invite
-adult singers of all vocal ranges, and musical and cultural backgrounds to
-audition. Singers should be able to sight-read and learn their parts on their
-own. Some college choral experience is preferred.
+</div><div style="width:290px">
 
-View our [audition brochure](/sing/audition.pdf) for full details and information.
+<h2>Responsibilities</h2>
 
-Auditions are generally held by appointment with Schola Cantorum’s Music
-Director, Gregory Wait. To schedule an audition, please call the Schola Cantorum
-office at (650) 254–1700.
+<ul style="padding-left:1.2em">
+<li>Attend rehearsals every Monday night, September through May</li>
+<li>Attend occasional sectional and dress rehearsals and retreats</li>
+<li>Perform on four concert weekends each season</li>
+<li>Learn vocal parts at home (practice tracks are provided)</li>
+<li>Requested donation of $350 per season</li>
+<li>Purchase uniform (tux or dress)</li>
+<li>We do not require ticket sales or music purchases</li>
+</ul>
 
-Each audition lasts approximately 15 minutes, and consists of:
+</div></div>
 
-* Vocalization to determine your vocal range and voice quality
-* A brief sight-reading exercise
-* A short [solo](/sing/audition-solo.pdf) to sing for the music director.  (You may
-  prepare this solo in any key.)
+## How to Join
 
-The music director will evaluate your potential as a member, in the following
-areas:
+Schola Cantorum welcomes adult, musically skilled singers from all backgrounds
+and all walks of life.  We take new members twice a year.  This season, new
+member signups are at our rehearsals on September 9, 2019, and January 6, 2020.
+Come join us as we sight read our new music on one of those nights, and then
+sign up for an appointment with our director.  He’ll listen to you sing some of
+the music we read, and have you read some other music, and then let you know
+whether Schola is a good fit for you.  We look forward to welcoming you!
 
-* A good choral voice, not necessarily of solo quality
-* A sensitivity to the music and its interpretation
-* The ability to learn your part by yourself
-* A shared vision of Schola Cantorum’s objectives for singing choral music
-* The ability to blend with other voices while carrying your own part
-
-Auditions take place at the Braun Music Center on the Stanford University campus
-([map](https://www.google.com/maps/place/Braun+Music+Center,+541+Lasuen+Mall,+Stanford,+CA+94305/@37.4237583,-122.2043147,13z/data=!4m5!3m4!1s0x808fbad41afe6805:0x4b2cbf40c2b47058!8m2!3d37.4237583!4d-122.1692958)),
-in Gregory Wait’s studio, room 233.
+If you have any questions about joining Schola Cantorum, please call or write
+our office (650-254-1700 or info@scholacantorum.org), or drop by any rehearsal
+and chat with us.
