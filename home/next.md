@@ -3,10 +3,9 @@ title: 2019–20 Season
 weight: 1
 ---
 
-Our first season under the baton of our new Artistic Director,
-[Buddy James](/leadership/artistic-director), continues our tradition of
-diverse and thrilling music.  (See
-[flyer](/home/season56.pdf).)
+Our first season under the baton of our new Artistic Director, [Buddy
+James](/leadership), continues our tradition of diverse and thrilling music.
+(See [flyer](/home/season56.pdf).)
 
 **<i>Schola Swings</i>: Oct. 26, 27**  
 A swingin’ presentation of Duke Ellington’s famous Sacred Concerts performed
