@@ -1,10 +1,9 @@
 ---
-title: 2018-19 Season
+title: 2019-2020 Season
 description: >
-  Schola Cantorum's 2018-19 season includes Bach cantatas, John Rutter Christmas
-  carols, Orff's Carmina Burana, and Brahms's Ein deutsches Requiem.
+  Schola Cantorum's 2019-2020 season
 ogdesc: >
-  Bach cantatas, John Rutter carols, Carmina Burana, and Brahms — what more could you want?
+  Schola Cantorum's 2019-2020 season
 menu:
   main:
     title: Concerts
