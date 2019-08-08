@@ -11,6 +11,8 @@ buyTickets: true
 
 _With soloists and Sinfonia Schola Cantorum.  Sung in English._
 
+{{% sponsors %}}Candy Pelissero and Brian Larsen{{% /sponsors %}}
+
 Last performed by the chorale over 30 years ago, this beloved masterpiece will
 thrill you with its beauty and drama.
 

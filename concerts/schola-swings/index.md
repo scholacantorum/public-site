@@ -12,6 +12,8 @@ buyTickets: true
 **A swingin’ presentation of Duke Ellington’s famous Sacred Concerts,
 performed with soloists, a tap dancer and a Big Band!**
 
+{{% sponsor %}}John Murden{{% /sponsor %}}
+
 In his fifty+ years of composition and performance, Duke Ellington composed
 three concerts of Sacred Music; the first was composed for, and premiered
 at, the opening of San Francisco’s Grace Cathedral in 1965. It was instantly

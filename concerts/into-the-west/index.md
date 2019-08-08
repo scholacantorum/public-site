@@ -9,6 +9,8 @@ resources:
 buyTickets: true
 ---
 
+{{% cosponsors %}}Ann Yvonne Walker and David Jones & Cathy and Steve Combs{{% /cosponsors %}}
+
 Music from and inspired by the Great American West Coast, with music by Morten
 Lauridsen, Eric Whitacre and many more. Both of these great American composers
 are known for highly original and accessible composition that has made them
