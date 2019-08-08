@@ -22,3 +22,5 @@ Lauridsen, Whitacre and many more.
 **<i>The Prophet Speaks</i>: May 17**  
 Mendelssohn’s oratorio *Elijah*.  Last performed by the chorale over 30 years
 ago, this beloved masterpiece will thrill you with its beauty and drama.
+
+**[Season Subscriptions](/concerts#subscriptions) are available!**
