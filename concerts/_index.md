@@ -33,4 +33,3 @@ When you subscribe to Schola Cantorum’s 56th Season, you’ll receive
   concerts, or **share the experience with friends**.
 
 {{% buy-tickets "2019-2020 Subscriptions" "subscription-2019-20" %}}  
-Each FLEXPass costs $92.

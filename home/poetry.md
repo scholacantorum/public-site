@@ -1,7 +1,7 @@
 ---
 title: Poetry Contest
 subtitle: for local high school students
-weight: 2
+weight: 3
 ---
 
 Imagine your own words put to music and sung by one of Silicon Valley’s most
