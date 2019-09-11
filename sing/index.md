@@ -45,7 +45,7 @@ Los Altos United Methodist Church (see [map](https://www.google.com/maps/place/L
 
 Schola Cantorum welcomes adult, musically skilled singers from all backgrounds
 and all walks of life.  We take new members twice a year.  This season, new
-member signups are at our rehearsals on September 9, 2019, and January 6, 2020.
+member signups are at our rehearsals on September 16, 2019, and January 6, 2020.
 Come join us as we sight read our new music on one of those nights, and then
 sign up for an appointment with our director.  He’ll listen to you sing some of
 the music we read, and have you read some other music, and then let you know
