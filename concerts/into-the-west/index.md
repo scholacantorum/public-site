@@ -11,10 +11,10 @@ buyTickets: true
 
 {{% cosponsors %}}Ann Yvonne Walker and David Jones & Cathy and Steve Combs{{% /cosponsors %}}
 
-Music from and inspired by the Great American West Coast, with music by Morten
-Lauridsen, Eric Whitacre and many more. Both of these great American composers
-are known for highly original and accessible composition that has made them
-beloved by audiences and choirs alike.
+Music from and inspired by the Great American West Coast.  We’ll perform Eric Whitacre’s charming
+_Goodnight Moon_, and _Come to the Woods_ by Jake Runestad, based on the writings of John Muir.
+Also featured is the world premiere of a work by Eric Tuan, using text by this year’s winner of
+Schola Cantorum’s Poetry Contest.
 
 _Original artwork usage donated by [Mike Bailey](http://MEBaileyArt.com)._
 
