@@ -31,11 +31,11 @@ message and a suggested time for us to return your call.
 **Send a check,** payable to Schola Cantorum.  
 Our address is 2218 Old Middlefield Way Suite G, Mountain View, CA 94043.
 
-**Donate while you shop at Amazon or SheetMusicPlus:**  
-If you shop at either site, start at the Schola Cantorum home page and click on
-their logo on the bottom of the page.  Amazon.com and SheetMusicPlus.com will
-donate a percentage of your purchase to Schola Cantorum.  **It doesn’t cost you
-a thing!**  Simply enter their store through our special home page link.
+**Donate while you shop at Amazon:**  
+If you shop at Amazon, visit [smile.amazon.com](https://smile.amazon.com) to do
+your shopping.  Amazon will donate 0.5% of your purchase to the charity of your
+choice.  When asked to choose a charity, search for "Schola Cantorum", and
+choose the one in Mountain View, CA.
 
 **Donate while you shop anywhere:**  
 Schola Cantorum is part of the **eScrip program**.  By joining eScrip, you

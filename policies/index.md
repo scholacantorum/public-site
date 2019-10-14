@@ -30,11 +30,6 @@ feel would be of interest to our patrons.  We never share our mailing lists with
 anyone.  We will remove you from either list on request; for the email list,
 there is an unsubscribe link at the bottom of every email.
 
-If you purchase products through the sponsorship links on our web site, from
-Amazon or SheetMusicPlus, they will tell us what product was purchased, but they
-will not identify the purchaser.  Schola Cantorum does not use this purchase
-information in any way.
-
 # Purchase Policies
 
 When you purchase a season subscription from us, we will mail your paper tickets
