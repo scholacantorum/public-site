@@ -44,12 +44,12 @@ Los Altos United Methodist Church (see [map](https://www.google.com/maps/place/L
 ## How to Join
 
 Schola Cantorum welcomes adult, musically skilled singers from all backgrounds
-and all walks of life.  We take new members twice a year.  This season, new
-member signups are at our rehearsals on September 16, 2019, and January 6, 2020.
-Come join us as we sight read our new music on one of those nights, and then
-sign up for an appointment with our director.  He’ll listen to you sing some of
-the music we read, and have you read some other music, and then let you know
-whether Schola is a good fit for you.  We look forward to welcoming you!
+and all walks of life.  We take new members twice a year.  Our next member
+signups are at our rehearsal on January 6, 2020.  Come join us as we sight read
+our new music that night, and then sign up for an appointment with our director.
+He’ll listen to you sing some of the music we read, and have you read some other
+music, and then let you know whether Schola is a good fit for you.  We look
+forward to welcoming you!
 
 If you have any questions about joining Schola Cantorum, please call or write
 our office (650-254-1700 or info@scholacantorum.org), or drop by any rehearsal
