@@ -17,10 +17,10 @@ Welcome to an exciting new era in Bay Area choral performance! We invite you to
 meet our new Artistic Director, Buddy James, a longtime fan of Schola with fresh
 and exciting ideas for our 2019–2020 season.
 
-Jazz and Big Band lovers won’t want to miss our first concert of the season,
-when we introduce you to Duke Ellington’s rarely-performed
+Our audiences were thrilled with our first concert of the season,
+when we introduced them to Duke Ellington’s rarely-performed
 _[Sacred Concert](/concerts/schola-swings)_. It’s infused with jazz, sacred themes
-and even includes a tap dancer!
+and even includes tap dancing!
 
 The [holiday season concert](/concerts/the-joys-of-christmas) is a fresh look at
 this magical holiday, with a performance of Kirke Mechem’s _Seven Joys of
