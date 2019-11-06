@@ -6,9 +6,7 @@ weight: 1
 
 {{% concerttable %}}
 
-{{% buy-tickets "2019-2020 Subscriptions" "subscription-2019-20" %}}  
-
-See the [subscription benefits](/concerts#subscriptions).
+{{% buy-tickets "Concert Tickets" "ticket-2019-10-26" "ticket-2019-10-27" "ticket-2019-12-15" "ticket-2020-02-29" "ticket-2020-03-01" "ticket-2020-05-17" "subscription-2019-20" %}}  
 
 {{% /concerttable %}}
 
