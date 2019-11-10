@@ -17,6 +17,8 @@ Schola Cantorum's 55th Season Will Be Gregory Wait's Last
 
 # Press Releases
 
+[October 29, 2019](/press/2019-10-29.pdf):  LA History Museum Rings in the Holidays with Family Event
+
 [June 17, 2019](/press/2019-06-17.pdf):  Schola Cantorum’s Summer Sings Program Creates Community Through Music
 
 [May 21, 2019](/press/2019-05-21.pdf):  Schola Cantorum’s Poetry-to-Music Contest Open to High School Students
