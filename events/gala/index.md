@@ -3,6 +3,9 @@ title: Annual Gala
 description: >
   Schola Cantorum’s annual fund-raising gala
 weight: 4
+resources:
+- src: image.png
+  title: Party Balloons
 ---
 
 ***Save the date!***
