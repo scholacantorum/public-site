@@ -32,8 +32,8 @@ based on the writings of John Muir. Also featured is the world premiere of a
 work by Eric Tuan, using text by this year’s winner of Schola Cantorum’s
 [Poetry Contest](/poetry), and much more.
 
-Our final concert of Season 56 features thrilling performance of
-_[Elijah](/concerts/elijah)_, by Felix Mendelssohn. This massive piece, sung in
+Our final concert of Season 56 features a thrilling performance of
+_[Elijah](/concerts/elijah)_ by Felix Mendelssohn. This massive piece, sung in
 English, features double chorus, four soloists and Sinfonia Schola Cantorum.
 You’ll be inspired to hear Schola’s confidence and power as the great oratorio
 choir audiences have come to love.

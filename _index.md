@@ -10,6 +10,8 @@ resources:
   src: home/ogimg.png
 - name: summer-sings-head.png
   src: home/summer-sings-head.png
+- name: messiah.png
+  src: home/messiah.png
 aliases:
 - /home
 buyTickets: true
