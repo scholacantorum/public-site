@@ -1,7 +1,7 @@
 ---
-title: History Museum
+title: Gamble Gardens Caroling
 description: >
-  Carols at the Los Altos History Museum annual “Catch the Spirit” event
+  Carols at Gamble Gardens
 weight: 1
 resources:
 - src: image.png
