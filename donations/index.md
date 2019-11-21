@@ -58,9 +58,7 @@ those stocks**.  In addition, if your tax circumstances permit, you can **deduct
 the current market value of the gift** for income tax purposes, just as if you
 had made a cash donation.  The after-tax cost of making your charitable gift may
 be less with a gift of appreciated stocks than with cash.  Call our office for
-details at (650) 254–1700.  <br><a
-href="https://stockdonator.com/stock-information/?oid=ccfc77fe" target="_blank"
-class="btn btn-primary">Donate Stock To Schola Cantorum</a>
+details at (650) 254–1700.
 
 **Make a final gift** with the Schola Cantorum Legacy program:  
 Do you want to be remembered for your generosity to the joy of music for all in
