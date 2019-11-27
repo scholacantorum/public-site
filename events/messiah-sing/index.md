@@ -23,3 +23,7 @@ _Wear favorite holiday clothing!_
 **Maestro Buddy James** directs you and our chamber orchestra.
 Sing the choruses and even the solos.
 ***Bring your own score or borrow ours.***
+
+Sadly, the box office web site for the Mountain View Center for the Performing
+Arts can be rather confusing.  If you need assistance purchasing tickets from
+their site, please consult [this video](help.mp4).
