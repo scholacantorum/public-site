@@ -15,7 +15,7 @@ Universalist Fellowship of Redwood City; music teacher for pre-K through 8th
 grade at St. Raymond School; Music and Movement teacher for Ragazzi Boys Chorus;
 and freelance accompanist/coach. 
 
-As Assistant Director, Ms. Reyen assists the Music Director in rehearsal
+As Assistant Conductor, Ms. Reyen assists the Artistic Director in rehearsal
 preparation, acts as Schola Cantorum's accompanist for both rehearsals and
-concerts, and leads two showtune/standards singalong events each year, as well
+concerts, and leads showtune/standards singalong events each year, as well
 as outreach programs.
