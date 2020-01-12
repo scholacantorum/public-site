@@ -17,6 +17,8 @@ Schola Cantorum's 55th Season Will Be Gregory Wait's Last
 
 # Press Releases
 
+[January 6, 2020](/press/2019-01-06.pdf):  Schola’s Community Singalong Features Broadway Hits
+
 [October 29, 2019](/press/2019-10-29.pdf):  LA History Museum Rings in the Holidays with Family Event
 
 [June 17, 2019](/press/2019-06-17.pdf):  Schola Cantorum’s Summer Sings Program Creates Community Through Music
