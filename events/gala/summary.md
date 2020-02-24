@@ -1,1 +1,1 @@
-Schola Cantorum’s annual fund-raising gala
+A New Orleans-style Gala to benefit Schola Cantorum

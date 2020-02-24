@@ -1,6 +1,7 @@
 ---
 title: Sing with Schola!
 weight: 2
+expiryDate: 2020-01-07
 ---
 
 Are you interested in singing with Schola Cantorum?  Come rehearse with us on

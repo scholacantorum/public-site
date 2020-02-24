@@ -6,7 +6,7 @@ expiryDate: 2020-05-02
 
 {{% eventtable %}}
 
-{{% imgfloatleft "messiah.png" "Messiah Sing" 150 %}}
-Our <a href="/events/messiah-sing" style="font-weight:bold;color:#fcb815">53rd annual Messiah Sing</a>
-is coming up!  If you read music and love singing
-this glorious masterwork, come join us!
+{{% imgfloatleft "jazz.png" "New Orleans Jazz" 150 %}}
+Join us for <a href="/events/gala" style="font-weight:bold">An Evening of Jazz in the Big Easy</a>,
+a New Orleans-style Gala to benefit Schola Cantorum.  Saturday, May 2, in Campbell.
+[Register](/events/gala#register) by April 10.
