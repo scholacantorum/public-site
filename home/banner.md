@@ -1,16 +1,5 @@
-The staff and board of directors of Schola Cantorum are following the
-developments of the Novel Coronavirus Pandemic, and the recommendations of
-public health authorities.
+As you know, the pandemic is affecting everything now, and it looks to do so for some time. Please know that Schola will be back. If a concert is possible on May 17th, we plan to present one, but unfortunately it will not be Elijah, which we still hope to present in the not too distant future. If a concert is not possible on May 17th, we will be back as soon as is possible. 
 
-We are continuing to rehearse under modified conditions with care for not only
-our members and patrons, but for our community. As we cannot predict the
-conditions that will exist in May, we continue under the premise that our
-performance of Elijah will take place on May 17th as planned. We will continue
-to update this information as the situation develops.
-
-Should we have to postpone the performance, we will honor any tickets, including
-FlexPasses at the rescheduled performance, or at any performance next season.
-
-We are grateful for your understanding.
+We still plan to still have Summer Sings starting July 13 and going through August 17. We look forward to once again sharing the joy of singing with our members and friends. In the meantime we wish you all well and hope that you are enduring this with not too much difficulty. 
 
 Dan Morris, Executive Director
