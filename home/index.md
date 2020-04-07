@@ -21,4 +21,4 @@ Our [holiday season concert](/concerts/the-joys-of-christmas) was a fresh look a
 
 Our third concert, titled [Into the West](/concerts/into-the-west), included music from, and inspired by, the Great American West Coast. We performed Eric Whitacre’s charming _Goodnight Moon_, and _Come to the Woods_ by Jake Runestad, based on the writings of John Muir. Also featured was the world premiere of a work by Eric Tuan, setting the poem _Gilded Land_, written by Sophia Smith, the winner of this year’s Poetry-to-Music Contest. This concert also saw our first use of multimedia in the form of slides projected during two of the works.
 
-OOur final concert of Season 56, a performance of _[Elijah](/concerts/elijah)_ by Felix Mendelssohn has been canceled due to the Coronavirus outbreak. Please see the information above regarding our plans to replace it.
+Our final concert of Season 56, a performance of _[Elijah](/concerts/elijah)_ by Felix Mendelssohn has been canceled due to the Coronavirus outbreak. Please see the information above regarding our plans to replace it.
