@@ -15,8 +15,7 @@ In the Fall of 2019 we began an exciting new era in Bay Area choral performance!
 
 Our audiences were thrilled with our first concert of the season,
 when we introduced them to Duke Ellington’s rarely-performed
-_[Sacred Concert](/concerts/schola-swings)_. It’s infused with jazz, sacred themes
-and even includes tap dancing!
+_[Sacred Concert](/concerts/schola-swings)_, an infusion of jazz and sacred themes that included the big band, The Daddios, jazz vocalist Juanita Harris, and even tap dancing!
 
 Our [holiday season concert](/concerts/the-joys-of-christmas) was a fresh look at the magic of the  holidays, with a performance of Kirke Mechem’s _Seven Joys of Christmas_, harp music, and of course, our delightful audience holiday carol sing-along! We were delighted to have Kirke Mechem in the audience as well as composer Brian Holmes whose work was also presented.
 
