@@ -1,24 +1,46 @@
 ---
 headless: true
-title: 2019–2020 Season
+title: COVID-19 Update
 weight: 1
 ---
 
-{{% concerttable %}}
+It was with great sadness that we had to cancel Elijah, only our fourth concert
+under the leadership of Buddy James, who was off to a wonderful and dynamic
+start. As we cannot guarantee the safety of our patrons or of Schola itself, if
+we meet physically over the next few months, we have also had to make the
+difficult choice to call off our Summer Sings. Finally, although we had already
+moved our annual gala to August, again we feel that for the safety of all, we
+will not be able to gather for that wonderful event either.
 
-{{% buy-tickets "Concert Tickets" "ticket-2019-10-26" "ticket-2019-10-27" "ticket-2019-12-15" "ticket-2019-12-15-student" "ticket-2020-02-29" "ticket-2020-03-01" "ticket-2020-05-17" "subscription-2019-20" %}}  
+We are looking at alternative virtual offerings for both the Summer Sings and
+the Gala, but whatever they may turn out to be, they will be completely
+different. The Gala, being the stellar event it is, will not happen as such
+until we can all celebrate together.
 
-{{% /concerttable %}}
+The good news is that we still plan to give concerts and have hopes that we
+might be able to resume that activity this Autumn, with consideration for the
+health and well-being of our audience and our singers. We plan, if possible, to
+still do our usual number of concerts, and the Messiah Sing is currently
+scheduled for December 21, at the Mountain View Center for the Performing Arts.
 
-{{% imgfloatleft "buddy.png" "Buddy James" %}}
-In the Fall of 2019 we began an exciting new era in Bay Area choral performance! Our new Artistic Director Buddy James, a longtime fan of Schola, brought fresh and exciting ideas to our 2019–2020 season.
+Due to the cancelations, especially of the Gala, our budget is taking a massive
+hit, but we are not beaten. We would also like to resume, when possible, the
+robust programming we know you enjoy and expect. In some ways, we are struggling
+to ensure the future of choral music in our area as Schola Cantorum has been a
+major contributing organization for 56 years. For now, we have cut our expenses
+down to the bare necessities.
 
-Our audiences were thrilled with our first concert of the season,
-when we introduced them to Duke Ellington’s rarely-performed
-_[Sacred Concert](/concerts/schola-swings)_, an infusion of jazz and sacred themes that included the big band, The Daddios, jazz vocalist Juanita Harris, and even tap dancing!
+We would like to ask a favor. Please take a moment and consider giving what you
+would have given at our annual Gala, even if that would only have been the $175
+ticket. If you don’t normally attend the Gala, we can use your help too. Our
+goal is to raise $50,000 to help keep us from depleting our reserves, so that
+when the clouds lift, Schola will still be there for the community to celebrate
+the joy of singing.
 
-Our [holiday season concert](/concerts/the-joys-of-christmas) was a fresh look at the magic of the  holidays, with a performance of Kirke Mechem’s _Seven Joys of Christmas_, harp music, and of course, our delightful audience holiday carol sing-along! We were delighted to have Kirke Mechem in the audience as well as composer Brian Holmes whose work was also presented.
+You can [make a donation online](/donations).  Alternatively, checks can be made
+payable to Schola Cantorum and sent to 2218 Old Middlefield Way, Mountain View,
+CA, 94043. Thank you for your generosity, and for helping us continue to fulfill
+our mission: to celebrate the joy of singing.
 
-Our third concert, titled [Into the West](/concerts/into-the-west), included music from, and inspired by, the Great American West Coast. We performed Eric Whitacre’s charming _Goodnight Moon_, and _Come to the Woods_ by Jake Runestad, based on the writings of John Muir. Also featured was the world premiere of a work by Eric Tuan, setting the poem _Gilded Land_, written by Sophia Smith, the winner of this year’s Poetry-to-Music Contest. This concert also saw our first use of multimedia in the form of slides projected during two of the works.
-
-Our final concert of Season 56, a performance of _[Elijah](/concerts/elijah)_ by Felix Mendelssohn has been canceled due to the Coronavirus outbreak. Please see the information above regarding our plans to replace it.
+Best wishes for your health and safety,<br>
+Dan Morris, Executive Director

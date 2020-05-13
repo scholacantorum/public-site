@@ -31,5 +31,3 @@ When you subscribe to Schola Cantorum’s 56th Season, you’ll receive
 * **Ticket Flexibility:** Each ***FLEXPass*** is good for four entries to our
   season concerts — you choose which ones.  Use one entry at each of the four
   concerts, or **share the experience with friends**.
-
-{{% buy-tickets "2019-2020 Subscriptions" "subscription-2019-20" %}}  

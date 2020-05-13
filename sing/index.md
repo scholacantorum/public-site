@@ -11,8 +11,11 @@ menu:
 
 Schola Cantorum is always looking for new members to celebrate the joy of
 singing with us.  If you’re interested, come to one of our rehearsals and check
-us out.  We meet Monday nights from 7:15–10:00pm, September through May, at the
-Los Altos United Methodist Church (see [map](https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09db205b:0x3cb6a0075024dc76!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3604399!4d-122.09889)).  We’d love to meet you!
+us out.  We normally meet Monday nights from 7:15–10:00pm, September through
+May, at the Los Altos United Methodist Church (see
+[map](https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09db205b:0x3cb6a0075024dc76!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3604399!4d-122.09889)),
+although rehearsals are currently suspended due to COVID-19.  We’d love to meet
+you!
 
 <div style="display:flex;flex-wrap:wrap"><div style="width:290px;margin-right:24px">
 
@@ -44,12 +47,12 @@ Los Altos United Methodist Church (see [map](https://www.google.com/maps/place/L
 ## How to Join
 
 Schola Cantorum welcomes adult, musically skilled singers from all backgrounds
-and all walks of life.  We take new members twice a year.  Our next member
-signups are at our rehearsal on January 6, 2020.  Come join us as we sight read
-our new music that night, and then sign up for an appointment with our director.
-He’ll listen to you sing some of the music we read, and have you read some other
-music, and then let you know whether Schola is a good fit for you.  We look
-forward to welcoming you!
+and all walks of life.  We take new members twice a year.  Once COVID-19
+restrictions have ended, check back here for the date of our next member
+signups.  Come join us as we sight read our new music that night, and then sign
+up for an appointment with our director.  He’ll listen to you sing some of the
+music we read, and have you read some other music, and then let you know whether
+Schola is a good fit for you.  We look forward to welcoming you!
 
 If you have any questions about joining Schola Cantorum, please call or write
 our office (650-254-1700 or info@scholacantorum.org), or drop by any rehearsal
