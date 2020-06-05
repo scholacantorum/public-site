@@ -12,6 +12,8 @@ resources:
   src: home/summer-sings-head.png
 - name: messiah.png
   src: home/messiah.png
+- name: virtually-elijah-program.jpg
+  src: home/virtually-elijah-program.jpg
 aliases:
 - /home
 buyTickets: true
