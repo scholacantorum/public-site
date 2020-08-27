@@ -1,8 +1,7 @@
 ---
 title: About Schola Cantorum
 description: >
-  Schola Cantorum connects the Silicon Valley community with the wonders of
-  choral music through outstanding live performances, educational outreach
+  Schola Cantorum connects the people with the joy of singing through moving performances, educational and community
   programs, and collaborations with local artists.
 ogdesc: Schola Cantorum's vision, mission, and history.
 layout: about
@@ -18,10 +17,6 @@ resources:
 
 # About Schola Cantorum
 
-**Our Vision:**  Schola Cantorum’s live performances inspire and transform
-audiences.
+**Our Vision:**  Schola Cantorum celebrates the joy of singing!
 
-**Our Mission:**  The mission of Schola Cantorum is to connect the Silicon
-Valley community with the wonders of choral music through outstanding live
-performances, educational outreach programs, and collaborations with local
-artists.
+**Our Mission:**  The mission of Schola Cantorum is to connect people with the joy of singing through moving performances, educational and community programs, and collaborations with local artists.
