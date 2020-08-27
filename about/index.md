@@ -1,7 +1,7 @@
 ---
 title: About Schola Cantorum
 description: >
-  Schola Cantorum connects the people with the joy of singing through moving performances, educational and community
+  Schola Cantorum connects people with the joy of singing through moving performances, educational and community
   programs, and collaborations with local artists.
 ogdesc: Schola Cantorum's vision, mission, and history.
 layout: about
