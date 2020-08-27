@@ -19,4 +19,4 @@ resources:
 
 **Our Vision:**  Schola Cantorum celebrates the joy of singing!
 
-**Our Mission:**  The mission of Schola Cantorum is to connect people with the joy of singing through moving performances, educational and community programs, and collaborations with local artists.
+**Our Mission:**  To connect people with the joy of singing through moving performances, educational and community programs, and collaborations with local artists.
