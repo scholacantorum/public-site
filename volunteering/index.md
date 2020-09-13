@@ -27,4 +27,4 @@ fundraising and development. We are also looking for Board members with connecti
 to minority communities in the Bay Area.
 
 If you are interested in volunteering, please call the Schola Cantorum office at
-(650) 254–1700, or email us at info@scholacantorum.org.
+(650) 254–1700, or email us at <info@scholacantorum.org>.
