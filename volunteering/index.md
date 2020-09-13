@@ -23,7 +23,8 @@ accounting, special event management, corporate relations and fundraising.
 support and fund-raising for the organization. We are looking for people with
 strong corporate and community connections, business, financial and personnel
 management skills, and prior board experience especially in the area of
-fundraising and development.
+fundraising and development. We are also looking for Board members with connections
+to minority communities in the Bay Area.
 
 If you are interested in volunteering, please call the Schola Cantorum office at
 (650) 254–1700.
