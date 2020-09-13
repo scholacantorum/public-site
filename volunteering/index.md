@@ -15,12 +15,6 @@ Schola Cantorum’s wonderful and dedicated volunteers provide essential support
 for our concerts, programs and events. Here are some of the volunteer
 opportunities available.
 
-**Assist at concerts.**  We need people to assist at the box office, set up
-receptions, etc.  All concert assistants get free admission to the concert.
-
-**Distribute concert flyers** in your neighborhood or workplace and to specific
-community groups in your area.
-
 **Serve on a committee.**  We are especially looking for people with experience
 in marketing, public relations, human resources and personnel, finance and
 accounting, special event management, corporate relations and fundraising.
