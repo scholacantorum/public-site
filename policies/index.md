@@ -29,14 +29,3 @@ our events, and on rare occasion, the events of other arts organizations that we
 feel would be of interest to our patrons.  We never share our mailing lists with
 anyone.  We will remove you from either list on request; for the email list,
 there is an unsubscribe link at the bottom of every email.
-
-{{sandbox}}
-# Purchase Policies
-
-When you purchase a season subscription from us, we will mail your paper tickets
-at least two weeks prior to the first performance of the season.  Note that only
-subscription tickets are mailed; all other ticket purchases are always held at
-“will-call.”
-
-We offer no refunds for any purchases.
-{{/sandbox}}
