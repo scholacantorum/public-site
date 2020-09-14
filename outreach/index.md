@@ -19,6 +19,4 @@ bass — singing separately and together in harmony.
 We also perform seasonal programs at senior living communities, as well as
 caroling in local downtown areas.
 
-We plan to resume these activities when circumstances permit. {{sandbox}}In the meantime,
-we are working on a program of "virtual caroling" for the Los Altos History
-Museum's November celebration of History Day.{{/sandbox}}
+We plan to resume these activities when circumstances permit.
