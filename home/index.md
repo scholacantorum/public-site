@@ -4,8 +4,6 @@ title: Schola Around the World
 weight: 1
 ---
 
-## Schola Around the World
-
 Join us as we travel, virtually, to the other continents to explore how they celebrate the holiday season.
 We'll be joining in song, forming virtual choirs with each of them, as we share their music and culture.
 Then we'll join together in one global performance of a treasured Christmas carol. Once again, as with
