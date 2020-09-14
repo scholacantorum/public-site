@@ -1,23 +1,22 @@
 ---
 headless: true
-title: Virtually Elijah
+title: Schola Around the World
 weight: 1
 ---
 
-{{% imgfullwidth "virtually-elijah.jpg" %}}
+## Schola Around the World
 
-An amazing choral and visual event with performances by:
+Join us as we travel, virtually, to the other continents to explore how they celebrate the holiday season.
+We'll be joining in song, forming virtual choirs with each of them, as we share their music and culture.
+Then we'll join together in one global performance of a treasured Christmas carol. Once again, as with
+our [***Virtually Elijah***](https://www.youtube.com/watch?v=mbdE2IhkWwY) from last season, 
+we'll be offering this concert **for free** to a world-wide audience.
 
-Gabriel Cohen, tenor • Hannah Fuerst, soprano<br>
-Christine Abraham, mezzo-soprano • Kenneth Goodson, baritone<br>
-Laura Dahl, piano • Dawn Reyen, piano
-
-This event went live on our
-[YouTube channel](https://www.youtube.com/user/scholacantorum1) on Monday,
-June 6.  The recording is still there; you’ll enjoy
-special visual and vocal performances of selections from
-
-Felix Mendelssohn’s _Elijah_ and _Gilded Land_ by Eric Tuan
-
-We hope you enjoy Schola’s premiere program of music and visuals, developed to
-enrich your viewing and listening experience!
+The idea for ***Schola Around the World*** came about when we received a Facebook comment from 
+[Schola Cantorum Akto](https://www.youtube.com/watch?v=iXJctZfr9jM) in the Democratic Republic of Congo.
+We exchanged messages about our mutual situations regarding the pandemic. After some
+discussion about our course through these uncharted waters, the idea of a world-wide
+collaborative concert came up. Subsequently, we found two other partners: 
+[Vilnius Pro Musica](https://youtu.be/asMm3uTs5WM) from Lithuania and the
+[Ansan City Choir](https://www.wscm11.cat/ansan-city-choir-eng) from South Korea. The concert
+will therefore span at least four continents!
