@@ -1,13 +1,10 @@
 ---
-title: 2019-2020 Season
+title: 2020-2021 Season
 weight: 2
 ---
 
-{{% concerttable %}}
-{{% /concerttable %}}
-{{% imgfloatleft "buddy.png" "Buddy James" 150 %}} In the Fall of 2019 we began an exciting new era in Bay Area choral performance! Our new Artistic Director Buddy James, a longtime fan of Schola, brought fresh and exciting ideas to our 2019–2020 season.
+In the Fall of 2019 we began an exciting new era in Bay Area choral performance! Dr. Buddy James, our new Artistic Director and a long-time fan of Schola, brought fresh and exciting ideas to our 2019–2020 season, and he's continuing this tradition as we meet the challenges presented by the pandemic. Schola will offer its second virtual concert in **December 2020**, to a world-wide audience.
 
-Our audiences were thrilled with our first concert of the season,
-when we introduced them to Duke Ellington’s rarely-performed
-_[Sacred Concert](/concerts/schola-swings)_, an infusion of jazz and sacred themes that included the big band, The Daddios, jazz vocalist Juanita Harris, and even tap dancing!
-*[read more...](/season56)*
+Normally, Schola sells tickets and subscriptions for its live performances to defray a portion of our expenses. Our goal this season is to provide the wonders of choral music through online **free** offerings. We just want the music to continue! Of course, we welcome your support. If you would like to make a donation to Schola, simply click the **Donate** button at the top of the page. Schola is a 501(c)(3) non-profit organization.
+
+
