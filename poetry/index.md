@@ -1,10 +1,6 @@
 ---
 title: 2019–2020 Schola Cantorum Poetry Contest
 description: Contest for local high school poets; winner's work is set to music and performed by Schola.
-menu:
-  dropdown:
-    title: Poetry Contest
-    weight: 45
 aliases:
 - /poetrycontest
 - /poetry-contest
