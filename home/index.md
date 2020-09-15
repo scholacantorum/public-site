@@ -14,7 +14,8 @@ The idea for ***Schola Around the World*** came about when we received a Faceboo
 [Schola Cantorum Akto](https://www.youtube.com/watch?v=iXJctZfr9jM) in the Democratic Republic of Congo.
 We exchanged messages about our mutual situations regarding the pandemic. After some
 discussion about our course through these uncharted waters, the idea of a world-wide
-collaborative concert came up. Subsequently, we found two other partners: 
-[Vilnius Pro Musica](https://youtu.be/asMm3uTs5WM) from Lithuania and the
+collaborative concert came up. Subsequently, we found three other partners:
+[Coro Normalista de Puebla](https://www.facebook.com/coronormalistadepuebla) from Mexico,
+[Vilnius Pro Musica](https://youtu.be/asMm3uTs5WM) from Lithuania, and the
 [Ansan City Choir](https://www.wscm11.cat/ansan-city-choir-eng) from South Korea. The concert
-will therefore span at least four continents!
+will therefore span at least five countries on four continents!
