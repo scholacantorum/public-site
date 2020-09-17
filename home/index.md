@@ -17,5 +17,5 @@ discussion about our course through these uncharted waters, the idea of a world-
 collaborative concert came up. Subsequently, we found three other partners:
 [Coro Normalista de Puebla](https://www.facebook.com/coronormalistadepuebla) from Mexico,
 [Vilnius Pro Musica](https://youtu.be/asMm3uTs5WM) from Lithuania, and the
-[Ansan City Choir](https://www.wscm11.cat/ansan-city-choir-eng) from South Korea. The concert
+[Asan Civic Choir](https://www.youtube.com/watch?v=FD3C5-lYMh4&list=RDFD3C5-lYMh4&start_radio=1&t=3) from South Korea. The concert
 will therefore span at least five countries on four continents!
