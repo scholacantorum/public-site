@@ -20,7 +20,7 @@ using the Meeting ID **963 5768 7291** and the passcode **Schola**. You can even
 join using your phone, by using one of [these numbers]( https://csueb.zoom.us/u/acvza4Tau9).
 
 If you're interested but would like to see what the experience will be like,
-please join us for our first rehearsal on **Monday, September 14**, at **7:15 pm PDT**,
+please join us for our next rehearsal on **Monday, September 21**, at **7:15 pm PDT**,
 then arrange for a Zoom audition with Buddy. He’ll listen to you sing some of the
 music we read, and have you read some other music, and then let you know whether
 Schola is a good fit for you. We look forward to welcoming you!
