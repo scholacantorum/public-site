@@ -23,7 +23,14 @@ If you're interested but would like to see what the experience will be like,
 please join us for our next rehearsal on **Monday, September 21**, at **7:15 pm PDT**,
 then arrange for a Zoom audition with Buddy. He’ll listen to you sing some of the
 music we read, and have you read some other music, and then let you know whether
-Schola is a good fit for you. We look forward to welcoming you!
+Schola is a good fit for you. You can donwload the sheet music, get help with
+Spanish and Lithuanian pronunciation, and see how things went at our September 14
+rehearsal by <a href="https://drive.google.com/drive/folders/1KSSA2YPBVcd9aAIhbkymVbwflz5Y8RO8"
+target="_blank">accessing our Google Drive here</a>. If you watch the recording,
+skip ahead to about 1:13:00, as the first part is largely socializing. Also, check out the
+**Rehearsal Expectations** page you'll find there.
+
+We look forward to welcoming you!
 
 <div style="display:flex;flex-wrap:wrap"><div style="width:290px;margin-right:24px">
 
