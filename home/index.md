@@ -17,5 +17,8 @@ discussion about our course through these uncharted waters, the idea of a world-
 collaborative concert came up. Subsequently, we found three other partners:
 <a href="https://www.facebook.com/coronormalistadepuebla" target="_blank">Coro Normalista de Puebla</a> from Mexico,
 <a href="https://youtu.be/asMm3uTs5WM" target="_blank">Vilnius Pro Musica</a> from Lithuania, and the
-<a href="https://www.facebook.com/AsanCivicChoir/" target="_blank">Asan Civic Choir (아산시립합창단)</a> from South Korea. The concert
-will therefore span at least five countries on four continents!
+<a href="https://www.facebook.com/AsanCivicChoir/" target="_blank">Asan Civic Choir (아산시립합창단)</a> from South Korea.
+
+***Update!*** We have allied with another fine musical organization: **Coral Cantares** from Brazil has joined our partnership. Welcome! Additionally,
+Schola's talented Assistant Artistic Director, Dawn Reyen, has arranged the famous carol *Silent Night* to include
+verses from our partner choirs, plus sounds from the ice of Antarctica! So, the tally is now six countries on six continents!
