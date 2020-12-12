@@ -1,29 +1,28 @@
 ---
 title: Messiah Sing
 description: >
-  Schola Cantorum hosts its 53rd annual Messiah Sing on December 16, 2019.
-  Bring your score or borrow one of ours, and sing along with this beloved
-  choral masterwork.
+  Schola Cantorum hosts its 54th annual Messiah Sing on December 21, 2020,
+  via Zoom.  Sing along with this beloved choral masterwork!
 weight: 2
 resources:
 - src: image.png
   title: Messiah Sing
 ---
 
-{{% sponsors %}} Mary Powell, JoAnn Close, and Rob & Catherine Lyman {{% /sponsors %}}
+Don't miss Schola Cantorum’s first-even **online *Messiah Sing.***
+Developed by Schola Cantorum for singers like you, who love it so much,
+you’ll find it easy to participate and have so much fun once it starts!
 
-From treasured arias to the powerful Hallelujah chorus,
-Handel’s ageless oratorio is one of the most beloved masterworks ever written.
-Share the excitement and majesty of this great work with fellow singers,
-at this, the Bay Area’s oldest ***Messiah Sing***!
+Together, we’ll sing the “Christmas” section of Handel’s epic oratorio,
+**Messiah**, plus the beloved *Hallelujah* Chorus, to a quality recorded
+orchestra accompaniment. We provide the score!
 
-Plan to attend with friends and family members who read music.
-_Wear favorite holiday clothing!_
+In’s online for your protection — and your pleasure! Gather members of your
+household to sing along with one of the most beloved oratorios of all time.
+And cal lyour friends to participate too... and that night, get together in a
+breakout room or chat about the event.
 
-**Maestro Buddy James** directs you and our chamber orchestra.
-Sing the choruses and even the solos.
-***Bring your own score or borrow ours.***
-
-Sadly, the box office web site for the Mountain View Center for the Performing
-Arts can be rather confusing.  If you need assistance purchasing tickets from
-their site, please consult [this video](help.mp4).
+**Find out more ... Then register today.**
+“Seats” are limited so [register here](https://scholacantorum.org/messiah-sing-registration).  
+*Your chance to register will end 24 hours before the start of the event.*  
+*The Zoom link will be emailed to registered participants the day before the event.*

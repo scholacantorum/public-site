@@ -1,7 +1,6 @@
 ---
-datetime: 2019-12-16 19:30:00
-venue: mvcpa
+datetime: 2020-12-21 19:30:00
+venue: zoom
 ---
 
-Tickets are available from the
-<a href="https://tickets.mvcpa.com/eventperformances.asp?evt=324" target="_blank">MVCPA box office</a>.
+[Register here.](https://scholacantorum.org/messiah-sing-registration)

@@ -1,1 +1,1 @@
-Carols at Gamble Gardens
+Carols for Los Altos History Museum’s “Catch the Spirit”
