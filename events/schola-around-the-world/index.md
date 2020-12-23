@@ -1,18 +1,27 @@
 ---
-headless: true
 title: Schola Around the World
-weight: 1
+description: >
+  An online Schola Cantorum Christmas collaboration with singers from all around
+  the world
+weight: 3
+resources:
+  - src: image.png
+    title: Schola Around the World
 ---
-
-**LIVE on [YouTube.com/ScholaCantorum1](https://youtube.com/user/scholacantorum1) on  
-Sunday, December 27 at 1:00pm PST (9:00pm UT)**
 
 All over the globe, folks celebrate this joyous time of year with their own
 holiday music. We often wonder, _what do THEY sing for Christmas?_ Schola
 Cantorum’s Artistic Director, Buddy James, contacted choirs from every continent
-and invited them to share their celebratory music with all of us! This
-international choral collaboration will be performed ONLINE for all to enjoy,
-**absolutely FREE!**
+and invited them to share their celebratory music with all of us! Plan now to
+join us at
+[YouTube.com/ScholaCantorum1](https://youtube.com/user/scholacantorum1) for this
+exciting experience! This international choral collaboration will be performed
+ONLINE for all to enjoy, **absolutely FREE!**
+
+Schola Around the World  
+LIVE on Sunday December 27, 2020  
+at 1:00pm PST (9:00pm UT)  
+ONLINE at [YouTube.com/ScholaCantorum1](https://youtube.com/user/scholacantorum1)
 
 Recorded entirely offsite by singers from _Mexico,_ _Brazil,_ _Australia,_
 _Lithuania,_ _South Korea,_ and _the Congo,_ as well as by the Schola Cantorum
