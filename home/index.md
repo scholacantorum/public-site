@@ -4,34 +4,37 @@ title: Schola Around the World
 weight: 1
 ---
 
-**LIVE on [YouTube.com/ScholaCantorum1](https://youtube.com/user/scholacantorum1) on  
-Sunday, December 27 at 1:00pm PST (9:00pm UT)**
+{{% imgfloatleft "image.png" "Schola Around the World" %}}
 
-All over the globe, folks celebrate this joyous time of year with their own
-holiday music. We often wonder, _what do THEY sing for Christmas?_ Schola
-Cantorum’s Artistic Director, Buddy James, contacted choirs from every continent
-and invited them to share their celebratory music with all of us! This
-international choral collaboration will be performed ONLINE for all to enjoy,
-**absolutely FREE!**
+**LIVE on [YouTube.com/ScholaCantorum1](https://youtube.com/user/scholacantorum1)
+on Sunday, December 27 at 1:00pm PST (9:00pm UT)**
 
-Recorded entirely offsite by singers from _Mexico,_ _Brazil,_ _Australia,_
-_Lithuania,_ _South Korea,_ and _the Congo,_ as well as by the Schola Cantorum
-singers, this performance uses modern recording technology to pull all of the
+People around the world celebrate this joyous time of year with their own
+holiday music. Schola Cantorum’s Artistic Director, Buddy James, contacted
+choirs from every continent and invited them to share their rich and celebratory
+musical traditions with all of us!
+
+Partnering with over 200 singers from every continent to create this special
+holiday concert, Schola Cantorum will be joined by our choral friends from
+around the world:
+
+아산시립합창단 Asan Civic Choir (South Korea)  
+Blackstone-Ipswich Cambrian Choirs (Australia)  
+Coral Cantares Dois Irmãos (Brazil)  
+Coro Normalista de Puebla y su Orquesta Sinfónica (Mexico)  
+Pro Musica (Lithuania)  
+Schola Cantorum Akto (Democratic Republic of Congo)
+
+Recorded in _Australia_, _Brazil_, the _Democratic Republic of Congo_,
+_Lithuania_, _Mexico_, _South Korea_, and by Schola Cantorum in the _United
+States_, this performance uses modern recording technology to pull all of the
 voices together, resulting in a rich, authentic choral sound.
 
-Every musician poured their hearts into learning new music and even the
-pronunciation of new languages. You’ll see and hear over 150 performers
-singing in their native tongue, along with the Schola singers. See the joy and
-excitement each singer feels to participate in sharing this music with you!
+Plan now to join people from all over the world as they view this unique choral
+celebration at the PREMIERE on
+[YouTube.com/ScholaCantorum1](https://youtube.com/user/scholacantorum1) on
+Sunday, December 27 at 1:00pm PST (9:00pm UT)!
 
-**You pay nothing** — simply visit
-[YouTube.com/ScholaCantorum1](https://youtube.com/user/scholacantorum1) for
-the concert.
-
-If you can’t make it to the concert when it’s live, it will still be available for
-you to watch at any time following the concert.
-
-Plan now to join people from all over the world as they listen to and watch
-this unique choral celebration!
+The concert will remain available for viewing on our YouTube channel following our Premiere presentation.
 
 **_A most joyful holiday season to you from all of us at Schola Cantorum!_**
