@@ -14,7 +14,7 @@ weight: 1
 Join us online for a program of lovely and inspiring American Folk Music filled with anticipation and hope for the future. Selections will include: 
  
 Hark, I hear the harps eternal
-[Shenandoah](https://en.wikipedia.org/wiki/Oh_Shenandoah)
+[Shenandoah](https://en.wikipedia.org/wiki/Oh_Shenandoah)<br>
 [Down to the River to Pray](https://en.wikipedia.org/wiki/Down_in_the_River_to_Pray)
 [Man of Constant Sorrow](https://en.wikipedia.org/wiki/Man_of_Constant_Sorrow)
 [Bring me little water, Silvy](http://www.debisimons.com/bring-me-a-little-water-sylvie/)
