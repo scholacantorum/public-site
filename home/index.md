@@ -4,7 +4,7 @@ title:Homeward Bound: An evening of American Folksong
 weight: 1
 ---
 
-{{% imgfloatleft "image.png" "Schola Around the World" %}}
+{{% imgfloatleft "image.jpg" "rich-martello-ti4pYgfDmis-unsplash.jpg" %}}
 
 **Offered virtually on Saturday May 22, at 7:30pm PT on YouTube.com/ScholaCantorum1**
 
