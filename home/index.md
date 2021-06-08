@@ -6,10 +6,10 @@ weight: 1
 
 {{% imgfullwidth "homeward.png" "Homeward Bound" %}}
 
-**Offered virtually on Saturday May 22, at 7:30pm PT on [YouTube.com/ScholaCantorum1](https://youtube.com/scholacantorum1)**
+**Premiered on Saturday May 22 on [YouTube.com/ScholaCantorum1](https://youtube.com/scholacantorum1)**
 
-**_Stay tuned for our next offering, Homeward Bound, a collection of American folk songs._**
-Join us online for a program of lovely and inspiring American Folk Music filled with anticipation and hope for the future. Selections will include:
+**_Our most recent offering, Homeward Bound, a collection of American folk songs._**
+Join us online for a program of lovely and inspiring American Folk Music filled with anticipation and hope for the future. Selections include:
 
 Hark, I hear the harps eternal<br>
 [Shenandoah](https://en.wikipedia.org/wiki/Oh_Shenandoah)<br>
@@ -19,4 +19,4 @@ Hark, I hear the harps eternal<br>
 [Cindy](<https://en.wikipedia.org/wiki/Cindy_(folk_song)>)<br>
 More songs sung by members of Schola and special guests
 
-As with our other concerts from this past year, Homeward Bound will remain available AFTER the performance date, for viewing on our YouTube channel, along with content from [Virtually Elijah](https://youtu.be/mbdE2IhkWwY) and our holiday concert, [Schola Around the World.](https://youtu.be/6NW1lALW6as)
+As with our other concerts from this past year, Homeward Bound remains available AFTER the performance date, for viewing on our YouTube channel, along with content from [Virtually Elijah](https://youtu.be/mbdE2IhkWwY) and our holiday concert, [Schola Around the World.](https://youtu.be/6NW1lALW6as)
