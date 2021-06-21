@@ -31,10 +31,10 @@ message and a suggested time for us to return your call.
 **Send a check,** payable to Schola Cantorum.  
 Our address is 2218 Old Middlefield Way Suite G, Mountain View, CA 94043.
 
-**Donate via PayPal.**
+**Donate via PayPal.**  
 If you wish to donate using funds in your PayPal account, use this button:
-<form action="https://www.paypal.com/donate" method="post" target="_top"><input type="hidden" name="hosted_button_id" value="8KCPPTT8JCA26" /><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="Donate via PayPal" alt="Donate via PayPal button" /></form>
-If you will be using a credit card, we ask you to use the donation form above rather than PayPal, because PayPal’s processing fees are much higher.
+<form action="https://www.paypal.com/donate" method="post" target="_top" style="margin-top:-1rem"><input type="hidden" name="hosted_button_id" value="8KCPPTT8JCA26" /><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="Donate via PayPal" alt="Donate via PayPal button" /></form>
+If you will be using a credit card, we ask you to use the blue “Donate Online” button above rather than PayPal, because PayPal’s processing fees are much higher.
 
 **Donate while you shop at Amazon:**  
 If you shop at Amazon, visit [smile.amazon.com](https://smile.amazon.com) to do
