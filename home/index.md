@@ -1,22 +1,23 @@
 ---
 headless: true
-title:Homeward Bound: An evening of American Folksong
+title: Summer Sings
 weight: 1
 ---
 
 {{% imgfullwidth "homeward.png" "Homeward Bound" %}}
 
-**Premiered on Saturday May 22 on [YouTube.com/ScholaCantorum1](https://youtube.com/scholacantorum1)**
+**MONDAY EVENINGS SUMMER 2021**  
+August 9 • August 16 • August 23
 
-**_Our most recent offering, Homeward Bound, a collection of American folk songs._**
-Join us online for a program of lovely and inspiring American Folk Music filled with anticipation and hope for the future. Selections include:
+**_Have you missed singing this year?_**  
+Treat yourself to the fun of singing for 3 Monday nights in August
+with a choir of your friends and fellow choristers at
+**Schola Cantorum Summer Sings**!
 
-Hark, I hear the harps eternal<br>
-[Shenandoah](https://en.wikipedia.org/wiki/Oh_Shenandoah)<br>
-[Down to the River to Pray](https://en.wikipedia.org/wiki/Down_in_the_River_to_Pray)<br>
-[Man of Constant Sorrow](https://en.wikipedia.org/wiki/Man_of_Constant_Sorrow)<br>
-[Bring me little water, Silvy](http://www.debisimons.com/bring-me-a-little-water-sylvie/)<br>
-[Cindy](<https://en.wikipedia.org/wiki/Cindy_(folk_song)>)<br>
-More songs sung by members of Schola and special guests
+August 9, 2021: **Kristina Nakagawa; Vivaldi _Gloria_**  
+August 16, 2021: **Ofer dal Lal; Bach _Magnificat_**  
+August 23, 2021: **Buddy James; Mozart _Requiem_**
 
-As with our other concerts from this past year, Homeward Bound remains available AFTER the performance date, for viewing on our YouTube channel, along with content from [Virtually Elijah](https://youtu.be/mbdE2IhkWwY) and our holiday concert, [Schola Around the World.](https://youtu.be/6NW1lALW6as)
+Warm-up starts at 7:30 pm  
+First Congregational Church of Palo Alto, 1985 Louis Rd., Palo Alto  
+We supply scores, or you can bring your own.
