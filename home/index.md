@@ -22,4 +22,4 @@ Warm-up starts at 7:30 pm
 First Congregational Church of Palo Alto, 1985 Louis Rd., Palo Alto  
 We supply scores, or you can bring your own.
 
-<a class="button" href="/summer-sings">Buy Tickets</a>
+<a class="btn btn-primary" href="/summer-sings">Buy Tickets</a>
