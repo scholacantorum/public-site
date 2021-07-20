@@ -4,7 +4,7 @@ title: Summer Sings
 weight: 1
 ---
 
-{{% imgfullwidth "homeward.png" "Homeward Bound" %}}
+{{% imgfullwidth "summer-sings-2021.png" "Summer Sings 2021" %}}
 
 **MONDAY EVENINGS SUMMER 2021**  
 August 9 • August 16 • August 23
