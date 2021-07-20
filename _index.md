@@ -6,15 +6,9 @@ description: |
   concerts, host sing-alongs and our popular Messiah Sing and Summer Sings, help
   teach music in schools, and support the community with music.
 resources:
-- name: ogimg.png
-  src: home/ogimg.png
-- name: summer-sings-head.png
-  src: home/summer-sings-head.png
-- name: messiah.png
-  src: home/messiah.png
-- name: virtually-elijah-program.jpg
-  src: home/virtually-elijah-program.jpg
+  - name: ogimg.png
+    src: home/ogimg.png
 aliases:
-- /home
+  - /home
 buyTickets: true
 ---
