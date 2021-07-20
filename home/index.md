@@ -5,18 +5,15 @@ weight: 1
 
 {{% imgfullwidth "summer-sings-2021.png" "Summer Sings 2021" %}}
 
-<div class="concerttable">
+<div class="concerttable" style="margin-bottom:18px">
     <div style="line-height:1.2">
         <b>MONDAY EVENINGS SUMMER 2021</b><br>
         August 9 • August 16 • August 23
     </div>
-    <div style="margin-top:8px">
+    <div>
         <a class="btn btn-primary" href="/summer-sings">Buy Tickets</a>
     </div>
 </div>
-
-**MONDAY EVENINGS SUMMER 2021**  
-August 9 • August 16 • August 23
 
 **_Have you missed singing this year?_**  
 Treat yourself to the fun of singing for 3 Monday nights in August
