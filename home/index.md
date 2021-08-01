@@ -5,27 +5,12 @@ weight: 1
 
 {{% imgfullwidth "summer-sings-2021.png" "Summer Sings 2021" %}}
 
-<div class="concerttable" style="margin-bottom:18px">
-    <div style="line-height:1.2">
-        <b>MONDAY EVENINGS SUMMER 2021</b><br>
-        August 9 • August 16 • August 23
-    </div>
-    <div>
-        <a class="btn btn-primary" href="/summer-sings">Buy Tickets</a>
-    </div>
-</div>
+We regret to report that our 2021 Summer Sing series has been **canceled**, and
+tickets already purchased for it have been refunded. Recent news from the
+Centers for Disease Control indicates that the Delta variant of COVID-19 is
+significantly more transmissible than the common cold, even among vaccinated
+people, and even in outdoor settings. We know of no way that we can hold our
+Summer Sing series safely.
 
-**_Have you missed singing this year?_**  
-Treat yourself to the fun of singing for 3 Monday nights in August
-with a choir of your friends and fellow choristers at
-**Schola Cantorum Summer Sings**!
-
-August 9, 2021: **Kristina Nakagawa; Vivaldi _Gloria_**  
-August 16, 2021: **Ofer dal Lal; Bach _Magnificat_**  
-August 23, 2021: **Buddy James; Mozart _Requiem_**
-
-Warm-up starts at 7:30 pm  
-First Congregational Church of Palo Alto, 1985 Louis Rd., Palo Alto  
-We supply scores, or you can bring your own.
-
-<a class="btn btn-primary" href="/summer-sings">Buy Tickets</a>
+Please join our [mailing list](/mailing-list/) and we will let you know as soon
+as we are able to schedule more musical events, either in person or virtual.
