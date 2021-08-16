@@ -6,6 +6,7 @@ menu:
     title: Sing
     weight: 4
 ---
+{{% imgfullwidth "Schola-singing-2108.jpg" "Schola Singing" %}}
 
 # Sing with Schola Cantorum!
 
@@ -73,5 +74,5 @@ The historic Schola Cantorum Silicon Valley welcomes new singers for its 58th se
   </li>
   </ol>
 
-If you have any questions about joining Schola Cantorum, please call or email
+If you have any further questions about joining Schola Cantorum, please call or email
 our office (650-254-1700 or <info@scholacantorum.org>).
