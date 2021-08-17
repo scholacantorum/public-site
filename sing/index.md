@@ -13,7 +13,7 @@ menu:
 Historic Schola Cantorum Silicon Valley welcomes new singers for its 58th season, "There will be Song!" We are currently planning a live and in-person season.
 
 <h2>Auditions</h2>
-<p>Interested singers are invited to join Schola Cantorum for their first rehearsal of the season at <b>7:00 PM on September 13, 2021</b> at <a href="fccpa.org" target="_blank">First Congregational Church of Palo Alto</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director.</p>
+<p>Interested singers are invited to join Schola Cantorum for their first rehearsal of the season at <b>7:00 PM on September 13, 2021</b> at <a href="https://www.fccpa.org" target="_blank">First Congregational Church of Palo Alto</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director.</p>
 
 <p>Individual auditions include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theatre selection is preferred and it does not need to be memorized.</p>
 
@@ -47,7 +47,7 @@ Historic Schola Cantorum Silicon Valley welcomes new singers for its 58th season
   <h3>SINGER EXPECTATIONS</h3>
   <ol type="1" start="7">
   <li><b>When and where are rehearsals?</b>
-    <p>Regular rehearsals are on Monday evenings. Normally, these are from 7:15 to 10:00 at the <a href="laumc.org" target="_blank">Los Altos United Methodist Church</a>, but during Fall of 2021 they will be held at the <a href="fccpa.org" target="_blank">First Congregational Church of Palo Alto</a> and will last from 7:15 to approximately 8:30. There will also be one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches.</p>
+    <p>Regular rehearsals are on Monday evenings. Normally, these are from 7:15 to 10:00 at the <a href="https://laumc.org" target="_blank">Los Altos United Methodist Church</a>, but during Fall of 2021 they will be held at the <a href="https://www.fccpa.org" target="_blank">First Congregational Church of Palo Alto</a> and will last from 7:15 to approximately 8:30. There will also be one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches.</p>
   </li>
   <li><b>How many performances are there each season?</b>
     <p>Schola performs four full concerts each year and gives one or two performances of each concert. Typically we sing a concert at the end of October/beginning of November, a Holiday concert in mid-December, a concert at the beginning of March, and a final concert towards the end of May.</p>
