@@ -1,5 +1,5 @@
 ---
-title: ####COVID-19 Precautions
+title: COVID-19
 weight: 3
 ---
 
