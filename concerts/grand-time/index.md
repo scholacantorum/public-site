@@ -4,7 +4,7 @@ description: >
   Favorites from theater, opera, and more!
 weight: 1
 resources:
-- src: grand-time.jpeg
+- src: grand-time-square.jpeg
   title: Grand Time for Singing marquee
 buyTickets: true
 ---
