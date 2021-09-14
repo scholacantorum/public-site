@@ -1,28 +1,18 @@
 ---
 title: Messiah Sing
 description: >
-  Schola Cantorum hosts its 54th annual Messiah Sing on December 21, 2020,
-  via Zoom.  Sing along with this beloved choral masterwork!
+  Schola Cantorum hosts its 55th annual Messiah Sing on **December 21, 2021**, at **7:30 pm**
+  at the **First Congregational Church of Palo Alto**.  Sing along with this beloved choral masterwork!
 weight: 2
 resources:
 - src: image.png
   title: Messiah Sing
 ---
 
-Don't miss Schola Cantorum’s first-even **online *Messiah Sing.***
-Developed by Schola Cantorum for singers like you, who love it so much,
-you’ll find it easy to participate and have so much fun once it starts!
+Save the date for Schola Cantorum’s *live* and *in-person* ***Messiah* Sing.**
+We look forward to welcoming you to the **First Congregational Church of Palo Alto** at **7:30 pm**
+on **Monday, December 13**. We know you've been waiting patiently to sing this beloved masterwork,
+so come join us!
 
-Together, we’ll sing the “Christmas” section of Handel’s epic oratorio,
-**Messiah**, plus the beloved *Hallelujah* Chorus, to a quality recorded
-orchestra accompaniment. We provide the score!
-
-In’s online for your protection — and your pleasure! Gather members of your
-household to sing along with one of the most beloved oratorios of all time.
-And cal lyour friends to participate too... and that night, get together in a
-breakout room or chat about the event.
-
-**Find out more ... Then register today.**
-“Seats” are limited so [register here](https://scholacantorum.org/messiah-sing-registration).  
-*Your chance to register will end 24 hours before the start of the event.*  
-*The Zoom link will be emailed to registered participants the day before the event.*
+*For the safety of our audience and our members,
+attendees will be required to show proof of vaccination and wear masks while in the building.*
