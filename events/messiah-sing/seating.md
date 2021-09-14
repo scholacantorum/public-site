@@ -1,6 +1,6 @@
 ---
-datetime: 2020-12-21 19:30:00
-venue: zoom
+datetime: 2021-12-13 19:30:00
+venue: fccpa
 ---
 
-[Register here.](https://scholacantorum.org/messiah-sing-registration)
+Tickets are not yet available for this event.
