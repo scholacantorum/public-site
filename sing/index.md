@@ -10,7 +10,7 @@ menu:
 
 # Sing with Schola Cantorum!
 
-Historic Schola Cantorum Silicon Valley welcomes new singers for its 58th season, "There will be Songs!" We are currently planning a live and in-person season.
+Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th season, "There will be Songs!" We are currently planning a live and in-person season.
 
 <h2>Auditions</h2>
 <p>Interested singers are invited to join Schola Cantorum for their first rehearsal of the season at <b>7:00 PM on September 13, 2021</b> at <a href="https://www.fccpa.org" target="_blank">First Congregational Church of Palo Alto</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director.</p>
@@ -56,7 +56,7 @@ Historic Schola Cantorum Silicon Valley welcomes new singers for its 58th season
   <li><b>Where does Schola Cantorum perform?</b>
     <p>Performances occur throughout Silicon Valley, with occasional performances in other nearby communities in the Bay Area.</p>
   </li>
-  <li><b>How much dies it cost to sing in Schola Cantorum?</b>
+  <li><b>How much does it cost to sing in Schola Cantorum?</b>
     <p>Singers are encouraged to donate $350 to Schola Cantorum for the year, or $600 for couples. We strive to receive donations from 100% of our membership and no singer is ever turned away for lack of funds.</p>
   </li>
   <li><b>What are the attendance expectations for singers?</b>
