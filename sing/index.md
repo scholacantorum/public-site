@@ -13,7 +13,7 @@ menu:
 Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th season, "There will be Songs!" We are currently planning a live and in-person season.
 
 <h2>Auditions</h2>
-<p>Interested singers are invited to join Schola Cantorum for their first rehearsal of the season at <b>7:00 PM on September 13, 2021</b> at <a href="https://www.fccpa.org" target="_blank">First Congregational Church of Palo Alto</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director.</p>
+<p>Interested singers are invited to join Schola Cantorum for the first rehearsal for the second concert of the season, <b><i>A Festival of Carols</i></b>, at <b>7:15 PM</b> on <b>Monday, November 1, 2021</b> at <a href="https://www.fccpa.org" target="_blank">First Congregational Church of Palo Alto</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring proof that you&rsquo;re fully vaccinated!</b></p>
 
 <p>Individual auditions include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theatre selection is preferred and it does not need to be memorized.</p>
 
