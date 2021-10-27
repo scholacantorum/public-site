@@ -18,6 +18,7 @@ Buy your tickets on line and save money!
 
 {{% buy-tickets "It's a Grand Time for Singing" "ticket-2021-10-30" %}}
 
+
 **_Can’t attend the concert?_** You can listen on your computer anytime from **Sunday, November 7** to **Sunday, November 26**. Gather your friends and family and listen to the concert for a single fee of $25. <a href="https://www.feelitlive.com/place/music/schola-cantorum-a-grand-time-for-singing/concerts" target="_blank">Click here</a> to sign up for this on-line event!
 
 *For the safety of our audience and our members,
