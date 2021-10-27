@@ -17,9 +17,9 @@ Palo Alto, 1985 Louis Road** (corner of Embarcadero Rd.). Tickets are $20 if you
 Persons under 25 receive free admission to the live concert.
 Buy your tickets on line and save money!
 
-**_Can&rsquo;t attend the concert?_** You can listen on your computer anytime from **Sunday, November 7** to **Sunday, November 26**. Gather your friends and family and listen to the concert for a single fee of $25. <a href="https://www.feelitlive.com/place/music/schola-cantorum-a-grand-time-for-singing/concerts" target="_blank">Click here</a> to sign up for this on-line event!
-
 **_NEW!_** The program for this concert is available on line! <a href="https://spark.adobe.com/page/zCtfuFBDJxqVS/" target="_blank">Just click here</a>!
+
+**_Can&rsquo;t attend the concert?_** You can listen on your computer anytime from **Sunday, November 7** to **Sunday, November 26**. Gather your friends and family and listen to the concert for a single fee of $25. <a href="https://www.feelitlive.com/place/music/schola-cantorum-a-grand-time-for-singing/concerts" target="_blank">Click here</a> to sign up for this on-line event!
 
 *For the safety of our audience and our members,
 attendees will be required to show proof of vaccination and wear masks while in the building.*
