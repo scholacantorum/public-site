@@ -6,7 +6,7 @@ weight: 1
 resources:
 - src: image.jpeg
   title: Grand Time for Singing marquee
-buyTickets: true
+buyTickets: false
 ---
 After 608 days (but who&rsquo;s counting?) of not being able to perform live music for a live audience, Schola Cantorum presented
 **_It&rsquo;s a Grand Time for Singing_** on **Saturday, October 30** at the **First Congregational Church of
