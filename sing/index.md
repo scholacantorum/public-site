@@ -13,7 +13,7 @@ menu:
 Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th season, "There will be Songs!" We are currently planning a live and in-person season.
 
 <h2>Auditions</h2>
-<p>Interested singers are invited to join Schola Cantorum for the first rehearsal for the second concert of the season, <b><i>A Festival of Carols</i></b>, at <b>7:15 PM</b> on <b>Monday, November 1, 2021</b> at <a href="https://www.fccpa.org" target="_blank">First Congregational Church of Palo Alto</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring a mask and proof that you&rsquo;re fully vaccinated!</b></p>
+<p>Interested singers are invited to join Schola Cantorum for the first rehearsal for the third concert of the season, <b><i>Sacred Spaces</i></b>, at <b>7:15 PM</b> on <b>Monday, January 10, 2022</b> at <a href="https://www.laumc.org" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring a mask and proof that you&rsquo;re fully vaccinated!</b></p>
 
 <p>Individual auditions include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theatre selection is preferred and it does not need to be memorized.</p>
 
@@ -23,7 +23,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th se
 <h3>COVID-19</h3>
 <ol type="1">
   <li><b>What precautions are being taken to addresss risks related to COVID-19?</b>
-  <p>Schola Cantorum is very concerned about the welfare of its members and its audience. We are following all local, state, and federal guidelines regarding singing and performing and are prepared to adapt quickly to any changes in order to ensure the safety of all involved. At the present time, Schola Cantorum requires that all its members and prospective members be fully vaccinated, wear a singer’s mask during in-person rehearsals, and practice social distancing (for example, we will only sit in every other row, leaving empty rows between singers). We are also limiting rehearsals to approximately one hour instead of our normal 2.5 to 3 hour rehearsals.</p>
+  <p>Schola Cantorum is very concerned about the welfare of its members and its audience. We are following all local, state, and federal guidelines regarding singing and performing and are prepared to adapt quickly to any changes in order to ensure the safety of all involved. At the present time, Schola Cantorum requires that all its members and prospective members be fully vaccinated, wear a singer’s mask during in-person rehearsals, and practice social distancing (for example, we will only sit in every other row, leaving empty rows between singers). We are also limiting rehearsals to two sessions of approximately one hour each, separated by a 20-minute break to air out the sanctuary.</p>
   </li>
   </ol>
   <h3>AUDITIONS</h3>
@@ -47,7 +47,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th se
   <h3>SINGER EXPECTATIONS</h3>
   <ol type="1" start="7">
   <li><b>When and where are rehearsals?</b>
-    <p>Regular rehearsals are on Monday evenings. Normally, these are from 7:15 to 10:00 at the <a href="https://laumc.org" target="_blank">Los Altos United Methodist Church</a>, but during Fall of 2021 they will be held at the <a href="https://www.fccpa.org" target="_blank">First Congregational Church of Palo Alto</a> and will last from 7:15 to approximately 8:30. There will also be one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches.</p>
+    <p>Regular rehearsals are on Monday evenings, from 7:15 to approximately 9:30 with a 20-minute break. During Fall of 2021 they will be held at the <a href="https://www.fccpa.org" target="_blank">First Congregational Church of Palo Alto</a>. Beginning in January 2022, rehearsals will be held at the <a href="https://laumc.org" target="_blank">Los Altos United Methodist Church</a>. There will also be one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches.</p>
   </li>
   <li><b>How many performances are there each season?</b>
     <p>Schola performs four full concerts each year and gives one or two performances of each concert. Typically we sing a concert at the end of October/beginning of November, a Holiday concert in mid-December, a concert at the beginning of March, and a final concert towards the end of May.</p>
@@ -57,7 +57,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th se
     <p>Performances occur throughout Silicon Valley, with occasional performances in other nearby communities in the Bay Area.</p>
   </li>
   <li><b>How much does it cost to sing in Schola Cantorum?</b>
-    <p>Singers are encouraged to donate $350 to Schola Cantorum for the year, or $600 for couples. We strive to receive donations from 100% of our membership and no singer is ever turned away for lack of funds.</p>
+    <p>Singers are encouraged to donate $350 to Schola Cantorum for the year, or $600 for couples. We strive to receive donations from 100% of our membership, but no singer is ever turned away for lack of funds.</p>
   </li>
   <li><b>What are the attendance expectations for singers?</b>
     <p>We strive for perfect attendance! Singers are expected to attend all rehearsals and all performances for the year. If illness or conflicts make attendance impossible, singers are asked to inform their Section Leader as soon as possible.</p>
