@@ -10,6 +10,6 @@ After 608 days (but who&rsquo;s counting?) of not being able to perform live mus
 Palo Alto**. It was a tremendous, uplifting experience for singers and audience alike, and we are _so_ happy to be singing again! Special
 thanks go out to **John Murden** for sponsoring this concert.
 
-We&rsquo;re already hard at work on our next concert, **_A Festival of Carols_**, which we&rsquo;ll present on **Sunday, December 12** at
-**St. Joseph&rsquo;s of Cupertino Catholic Church**. For details, <a href="https://scholacantorum.org/concerts/festival-of-carols/">click here</a>.
+Join us for our next concert, **_A Festival of Carols_**, which we&rsquo;ll present in Cupertino on **Sunday, December 12** at 2PM at
+**St. Joseph of Cupertino Catholic Church**. For details, <a href="https://scholacantorum.org/concerts/festival-of-carols/">click here</a>.
 If you&rsquo;re a singer and would like to join us for this exciting event, we&rsquo;d love to have you! Check out our <a href="https://scholacantorum.org/sing">Sing with Schola</a> page for details.
