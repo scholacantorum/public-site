@@ -12,4 +12,3 @@ thanks go out to **John Murden** for sponsoring this concert.
 
 Join us for our next concert, **_A Festival of Carols_**, which we&rsquo;ll present in Cupertino on **Sunday, December 12** at 2PM at
 **St. Joseph of Cupertino Catholic Church**. For details, <a href="https://scholacantorum.org/concerts/festival-of-carols/">click here</a>.
-If you&rsquo;re a singer and would like to join us for this exciting event, we&rsquo;d love to have you! Check out our <a href="https://scholacantorum.org/sing">Sing with Schola</a> page for details.
