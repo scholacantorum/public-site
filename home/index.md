@@ -3,12 +3,10 @@ headless: true
 weight: 1
 ---
 
-{{% imgfullwidth "GrandTime-medium.jpeg" "It's a Grand Time for Singing!" %}}
-
-After 608 days (but who&rsquo;s counting?) of not being able to perform live music for a live audience, Schola Cantorum presented
-**_It&rsquo;s a Grand Time for Singing_** on **Saturday, October 30** at the **First Congregational Church of
-Palo Alto**. It was a tremendous, uplifting experience for singers and audience alike, and we are _so_ happy to be singing again! Special
-thanks go out to **John Murden** for sponsoring this concert.
+{{% imgfullwidth "Festival_of_Carols.jpg" "A Festival of Carols" %}}
 
 Join us for our next concert, **_A Festival of Carols_**, which we&rsquo;ll present in Cupertino on **Sunday, December 12** at 2PM at
 **St. Joseph of Cupertino Catholic Church**. For details, <a href="https://scholacantorum.org/concerts/festival-of-carols/">click here</a>.
+Join us for **_A Festival of Carols_**, which we'll present on **Sunday, December 12**, 
+at **2 PM** at **St. Joseph of Cupertino Catholic Church**, 10110 N De Anza Blvd., in Cupeetino.
+The concert will feature baritone soloist <a href="https://pacificedgevoices.org/who-we-are" target="_blank">Ash Walker</a>. We will present some of your Christmas favorites led by our artistic director, Buddy James. Come and get into the holiday spirit with a wonderful offering of carols sung by Schola Cantorum. Tickets are $20 if purchased online in advance. They&rsquo;re $25 at the door, so buy now and save!
