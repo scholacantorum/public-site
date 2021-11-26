@@ -12,7 +12,7 @@ buyTickets: true
 
 Save the date for Schola Cantorum&rsquo;s _live_, _in-person_ and _outdoor_ **_Messiah_ Sing.**
 We look forward to welcoming you to the outdoor area in front of **Sacred Heart Church in Saratoga** at **3:30 pm**
-on **Monday, December 19**. We know you&rsquo;ve been waiting patiently to sing this beloved masterwork,
+on **Sunday, December 19**. We know you&rsquo;ve been waiting patiently to sing this beloved masterwork,
 so come join us!
 
 We will sing the Christmas section of _Messiah_, plus other favorite movements from the work&mdash;who doesn&rsquo;t want to sing the Hallelujah Chorus?&mdash;accompanied by Schola&rsquo;s amazing Dawn Reyen on electronic piano. You can bring your own scores or borrow one from us. As always, feel free to sing the solos as well as the chorus parts.
