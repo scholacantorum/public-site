@@ -1,8 +1,8 @@
 ---
 title: Messiah Sing
 description: >
-  Schola Cantorum hosts its 56th annual _Messiah_ Sing (AND FIRST TIME OUTDOORS) on **December 19, 2021**, at **3:30 pm**
-  at the **Sacred Heart Parish in Saratoga**.  Sing along with this beloved choral masterwork!
+  Schola Cantorum hosts its 55th annual _Messiah_ Sing (AND FIRST TIME OUTDOORS) on **December 19, 2021**, at **3:30 pm**
+  at the **Sacred Heart Parish in Saratoga**. Sing along with this beloved choral masterwork!
 weight: 2
 resources:
   - src: image.png
