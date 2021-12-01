@@ -19,4 +19,4 @@ We will sing the Christmas section of _Messiah_, plus other favorite movements f
 
 This event is **_free_**, although we do ask that you register for it in advance so we can get an idea of how many people we will have on each voice part. Of course, if you&rsquo;d like to make a donation (we suggest at least $10 per person), we would welcome it. You&rsquo;ll have the chance to do this when you register.
 
-_Although we will be outdoors, we ask that all attendees be vaccinated, wear singing masks (ones that stay put while you open your mouth to make your glorious sounds), and maintain social distance. In case of rain or other inclement weather, the event will be canceled._
+_Although we will be outdoors, we ask that all attendees be vaccinated. We will also require you to wear singing masks (ones that stay put while you open your mouth to make your glorious sounds) and maintain social distance. In case of rain or other inclement weather, the event will be canceled._
