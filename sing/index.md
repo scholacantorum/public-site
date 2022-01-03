@@ -10,10 +10,10 @@ menu:
 
 # Sing with Schola Cantorum!
 
-Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th season, &ldquo;There will be Songs!&rdquo; We are currently enjoying a live and in-person season.
+Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th season, &ldquo;There will be Songs!&rdquo; We are currently enjoying a (mostly) live and in-person season, as circumstances permit.
 
 <h2>Auditions</h2>
-<p>Interested singers are invited to join Schola Cantorum for the first rehearsal for the third concert of the season, <b><i>Sacred Spaces</i></b>, at <b>7:15 PM</b> on <b>Monday, January 10, 2022</b> at <a href="https://www.laumc.org" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring a mask and proof that you&rsquo;re fully vaccinated (including booster shots if applicable)!</b></p>
+<p>Interested singers are invited to join Schola Cantorum for the first rehearsal for the third concert of the season, <b><i>Sacred Spaces</i></b>, at <b>7:30 PM</b> on <b>Monday, January 10, 2022</b>. This rehearsal will be held <a href="https://www.google.com/url?q=https://csueb.zoom.us/j/89654272565?pwd%3DblVZY1RpZnRvQmtwT2VONCtIN0F2Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw1_moN-Ux377l65t8JMZB7J" target="_blank">via Zoom at this link</a>. When we can safely resume in-person rehearsals, they will be held at <a href="https://www.laumc.org" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>For in-person rehearsals, please bring a mask and proof that you&rsquo;re fully vaccinated (including booster shots if you&rsquo;re eligible for them).</b></p>
 
 <p>Individual auditions include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized.</p>
 
@@ -23,7 +23,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th se
 <h3>COVID-19</h3>
 <ol type="1">
   <li><b>What precautions are being taken to addresss risks related to COVID-19?</b>
-  <p>Schola Cantorum is very concerned about the welfare of its members and its audience. We are following all local, state, and federal guidelines regarding singing and performing and are prepared to adapt quickly to any changes in order to ensure the safety of all involved. At the present time, Schola Cantorum requires that all its members and prospective members be fully vaccinated, wear a singer’s mask during in-person rehearsals, and practice social distancing (for example, we will only sit in every other row, leaving empty rows between singers). We are also limiting rehearsals to two sessions of approximately one hour each, separated by a 20-minute break to air out the sanctuary.</p>
+  <p>Schola Cantorum is very concerned about the welfare of its members and its audience. We are following all local, state, and federal guidelines regarding singing and performing and are prepared to adapt quickly to any changes in order to ensure the safety of all involved. At the present time, Schola Cantorum requires that all its members and prospective members be fully vaccinated (including booster shots for eligible members), wear a singer’s mask during in-person rehearsals, and practice social distancing (for example, we will only sit in every other row, leaving empty rows between singers). We are also limiting rehearsals to two sessions of approximately one hour each, separated by a 20-minute break to air out the sanctuary. If, despite all of these precautions, we feel that in-person rehearsals will still present too much of a risk, we will hold rehearsals via Zoom.</p>
   </li>
   </ol>
   <h3>AUDITIONS</h3>
@@ -37,9 +37,6 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th se
   <li><b>I do not read music well. Should I still audition?</b>
     <p>Schola Cantorum singers come with diverse experiences and backgrounds. Many have beautiful voices yet struggle to read music. Schola Cantorum provides support in the form of recordings and MIDI tracks to help singers learn their music and their pronunciations outside of rehearsal. All Schola Cantorum singers either sing with a pleasant voice or read music well, and most do both.</p>
   </li>
-  <li><b>I have never studied voice privately. Should I still audition?</b>
-    <p>Schola Cantorum singers come with diverse experiences and backgrounds. Many read music yet do not have strong solo voices. Through diligent vocal warm-ups and guidance in rehearsals, Schola members become better, stronger, and more confident singers.</p>
-  </li>
   <li><b>I have not sung in a choir for many years. Should I still audition?</b>
     <p>Singing in a choir is like riding a horse. It's time to get back on!</p>
   </li>
@@ -47,7 +44,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th se
   <h3>SINGER EXPECTATIONS</h3>
   <ol type="1" start="7">
   <li><b>When and where are rehearsals?</b>
-    <p>Regular rehearsals are on Monday evenings, from 7:15 to approximately 9:30 with a 20-minute break, at the <a href="https://laumc.org" target="_blank">Los Altos United Methodist Church</a>. There will also be one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches.</p>
+    <p>Normally, regular rehearsals are on Monday evenings, from 7:30 to approximately 9:30 with a 20-minute break, at the <a href="https://laumc.org" target="_blank">Los Altos United Methodist Church</a>. There will also be one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches. As noted above, we may hold rehearsals via Zoom if we judge in-person gatherings to pose too much risk.</p>
   </li>
   <li><b>How many performances are there each season?</b>
     <p>Schola performs four full concerts each year and gives one or two performances of each concert. Typically we sing a concert at the end of October/beginning of November, a Holiday concert in mid-December, a concert at the beginning of March, and a final concert towards the end of May.</p>
