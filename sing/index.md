@@ -17,7 +17,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th se
 
 <p>Individual auditions include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized.</p>
 
-<p>Singers will be notified of the outcome of their auditions prior to the second rehearsal. If your audition was successful, you&rsquo;ll then be asked to fill out some paperwork. That&rsquo;s it!</p>
+<p>Singers will be notified of the outcome of their auditions prior to the second rehearsal. If your audition was successful, you&rsquo;ll receive a link to the Schola members web site, which will ask you for more information about yourself. It will also ask you to fill out some paperwork. After we have a chance to review the paperwork, you&rsquo;ll be a member of Schola!</p>
 
 <h2>Frequently-Asked Questions</h2>
 <h3>COVID-19</h3>
@@ -51,19 +51,19 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th se
     <p>In addition to our performances, singers are invited to join us for our annual Messiah Sing, the longest-running Messiah Sing in the Bay Area; our Summer Sings and weekend sing-alongs; and Outreach concerts for schools and civic events.</p>
   </li>
   <li><b>Where does Schola Cantorum perform?</b>
-    <p>Performances occur throughout Silicon Valley, with occasional performances in other nearby communities in the Bay Area.</p>
+    <p>We usually perform in the northern part of Santa Clara County (such as Palo Alto and Los Altos), with occasional performances elsewhere in the Bay Area.</p>
   </li>
   <li><b>How much does it cost to sing in Schola Cantorum?</b>
     <p>Singers are encouraged to donate $350 to Schola Cantorum for the year, or $600 for couples. We strive to receive donations from 100% of our membership, but no singer is ever turned away for lack of funds.</p>
   </li>
-  <li><b>What are the attendance expectations for singers?</b>
-    <p>We strive for perfect attendance! Singers are expected to attend all rehearsals and all performances for the year. If illness or conflicts make attendance impossible, singers are asked to inform their Section Leader as soon as possible. Any singer who misses more than two rehearsals for any given concert, or misses any dress rehearsal, will be asked to attend a singing session with the Artistic Director and their Section Leader to demonstrate that they are adequately prepared musically. Singers who are not prepared at this session will be asked to sit out the concert, but will be invited to return for the next concert.</p>
+  <li><b>What are the participation expectations for singers?</b>
+    <p>Singers are expected to participate in all rehearsals and all performances for the year. We understand that illness or conflicts sometimes make participation impossible, but such cases should be rare.</p>
   </li>
-  <li><b>Will I need to re-audition?</b>
-    <p>All singers will be asked to sing privately for the Artistic Director on a rotating basis after 1, 2, or 3 years. Former Schola members who have not met the attendance requirements discussed above, or who have not sung in two consecutive concerts sets, will need to re-audition before returning to Schola.</p>
+  <li><b>How often will I need to re-audition?</b>
+    <p>To maintain the musical standards of the chorus, all singers will be asked to sing privately for the Artistic Director every few years.</p>
   </li>
   <li><b>What do we wear when we perform?</b>
-  <p>The standard performing attire is a tuxedo with a pleated shirt and a wing collar, or a specific dress selected by Schola's Wardrobe Committee. Singers are expected to purchase their own concert attire, but again, no singer is ever turned away for lack of funds.</p>
+  <p>The standard performing attire is either a tuxedo with a pleated shirt and a wing collar, or a specific dress selected by Schola's Wardrobe Committee. Singers are expected to purchase their own concert attire, but again, no singer is ever turned away for lack of funds.</p>
   </li>
   <li><b>Are there other opportunities to make music, such as small groups, solos, and so forth?</b>
     <p>We often perform Outreach concerts (caroling, singing in schools, etc.) where singers are able to sing in small groups or ensembles. In addition, the Artistic Director may from time to time offer solo opportunities to members of the chorus.</p>
