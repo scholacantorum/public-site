@@ -3,12 +3,8 @@ headless: true
 weight: 1
 ---
 
-{{% imgfullwidth "Festival_of_Carols.jpg" "A Festival of Carols" %}}
+{{% imgfullwidth "Sacred_Spaces_RECT.jpg" "Sacred Spaces" %}}
 
-Join us for **_A Festival of Carols_**, which we'll present on **Sunday, December 12**, 
-at **2 PM** at **St. Joseph of Cupertino Catholic Church**, 10110 N De Anza Blvd., in Cupertino.
-The concert will feature baritone soloist <a href="https://pacificedgevoices.org/who-we-are" target="_blank">Ash Walker</a>. We will present some of your Christmas favorites led by our artistic director, Buddy James. Come and get into the holiday spirit with a wonderful offering of carols sung by Schola Cantorum. Tickets are $20 if purchased online in advance. They&rsquo;re $25 at the door, so buy now and save!
-
-{{% buy-tickets "A Festival of Carols" "ticket-2021-12-12" %}}
+Schola Cantorum will present two performances of _**Sacred Spaces**_, a concert of music from some of the world's great religious traditions and great composers. Revel in glorious sound in two fabulous acoustics: **First Congregational Church of Palo Alto** on **March 12** at **4 PM**, and **Mission Santa Clara** with its historic beauty on **March 18** at **7:30 PM**. 
 
 _For the safety of our audience and our members, attendees will be required to show proof of vaccination and wear masks while in the building._
