@@ -10,12 +10,12 @@ menu:
 
 # Sing with Schola Cantorum!
 
-Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th season, "There will be Songs!" We are currently planning a live and in-person season.
+Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th season, "There will be Songs!" We are currently enjoying a live and in-person season.
 
 <h2>Auditions</h2>
-<p>Interested singers are invited to join Schola Cantorum for the first rehearsal for the third concert of the season, <b><i>Sacred Spaces</i></b>, at <b>7:15 PM</b> on <b>Monday, January 10, 2022</b> at <a href="https://www.laumc.org" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring a mask and proof that you&rsquo;re fully vaccinated!</b></p>
+<p>Interested singers are invited to join Schola Cantorum for the first rehearsal for the third concert of the season, <b><i>Sacred Spaces</i></b>, at <b>7:15 PM</b> on <b>Monday, January 10, 2022</b> at <a href="https://www.laumc.org" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring a mask and proof that you&rsquo;re fully vaccinated!</b> When the Artistic Director gives a thumbs-up, we'll ask you to fill out some paperwork. That&rsquo;s it!</p>
 
-<p>Individual auditions include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theatre selection is preferred and it does not need to be memorized.</p>
+<p>Individual auditions include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized.</p>
 
 <p>Singers will be notified of the outcome of their auditions prior to the second rehearsal.</p>
 
@@ -47,7 +47,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th se
   <h3>SINGER EXPECTATIONS</h3>
   <ol type="1" start="7">
   <li><b>When and where are rehearsals?</b>
-    <p>Regular rehearsals are on Monday evenings, from 7:15 to approximately 9:30 with a 20-minute break. During Fall of 2021 they will be held at the <a href="https://www.fccpa.org" target="_blank">First Congregational Church of Palo Alto</a>. Beginning in January 2022, rehearsals will be held at the <a href="https://laumc.org" target="_blank">Los Altos United Methodist Church</a>. There will also be one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches.</p>
+    <p>Regular rehearsals are on Monday evenings, from 7:15 to approximately 9:30 with a 20-minute break, at the <a href="https://laumc.org" target="_blank">Los Altos United Methodist Church</a>. There will also be one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches.</p>
   </li>
   <li><b>How many performances are there each season?</b>
     <p>Schola performs four full concerts each year and gives one or two performances of each concert. Typically we sing a concert at the end of October/beginning of November, a Holiday concert in mid-December, a concert at the beginning of March, and a final concert towards the end of May.</p>
@@ -60,11 +60,10 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th se
     <p>Singers are encouraged to donate $350 to Schola Cantorum for the year, or $600 for couples. We strive to receive donations from 100% of our membership, but no singer is ever turned away for lack of funds.</p>
   </li>
   <li><b>What are the attendance expectations for singers?</b>
-    <p>We strive for perfect attendance! Singers are expected to attend all rehearsals and all performances for the year. If illness or conflicts make attendance impossible, singers are asked to inform their Section Leader as soon as possible.</p>
-    <p>Any singer who misses more than two rehearsals for any given concert will be asked to attend a singing session with the Artistic Director and their Section Leader to demonstrate that they are adequately prepared musically. Singers who are not prepared at this session will be asked to sit out the concert, but will be invited to return for the next concert.</p>
+    <p>We strive for perfect attendance! Singers are expected to attend all rehearsals and all performances for the year. If illness or conflicts make attendance impossible, singers are asked to inform their Section Leader as soon as possible. Any singer who misses more than two rehearsals for any given concert, or misses any dress rehearsal, will be asked to attend a singing session with the Artistic Director and their Section Leader to demonstrate that they are adequately prepared musically. Singers who are not prepared at this session will be asked to sit out the concert, but will be invited to return for the next concert.</p>
   </li>
   <li><b>Will I need to re-audition?</b>
-    <p>All singers will be asked to sing privately for the Artistic Director on a rotating basis after 1, 2, or 3 years.</p>
+    <p>All singers will be asked to sing privately for the Artistic Director on a rotating basis after 1, 2, or 3 years. Former Schola members who have not met the attendance requirements discussed above, or who have not sung in two consecutive concerts sets, will need to re-audition before returning to Schola.</p>
   </li>
   <li><b>What do we wear when we perform?</b>
   <p>The standard performing attire is a tuxedo with a pleated shirt and a wing collar, or a specific dress selected by Schola's Wardrobe Committee. Singers are expected to purchase their own concert attire, but again, no singer is ever turned away for lack of funds.</p>
