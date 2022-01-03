@@ -10,14 +10,14 @@ menu:
 
 # Sing with Schola Cantorum!
 
-Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th season, "There will be Songs!" We are currently enjoying a live and in-person season.
+Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 58th season, &ldquo;There will be Songs!&rdquo; We are currently enjoying a live and in-person season.
 
 <h2>Auditions</h2>
-<p>Interested singers are invited to join Schola Cantorum for the first rehearsal for the third concert of the season, <b><i>Sacred Spaces</i></b>, at <b>7:15 PM</b> on <b>Monday, January 10, 2022</b> at <a href="https://www.laumc.org" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring a mask and proof that you&rsquo;re fully vaccinated!</b> When the Artistic Director gives a thumbs-up, we'll ask you to fill out some paperwork. That&rsquo;s it!</p>
+<p>Interested singers are invited to join Schola Cantorum for the first rehearsal for the third concert of the season, <b><i>Sacred Spaces</i></b>, at <b>7:15 PM</b> on <b>Monday, January 10, 2022</b> at <a href="https://www.laumc.org" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring a mask and proof that you&rsquo;re fully vaccinated (including booster shots if applicable)!</b></p>
 
 <p>Individual auditions include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized.</p>
 
-<p>Singers will be notified of the outcome of their auditions prior to the second rehearsal.</p>
+<p>Singers will be notified of the outcome of their auditions prior to the second rehearsal. If your audition was successful, you&rsquo;ll then be asked to fill out some paperwork. That&rsquo;s it!</p>
 
 <h2>Frequently-Asked Questions</h2>
 <h3>COVID-19</h3>
