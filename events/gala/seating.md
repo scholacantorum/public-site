@@ -1,6 +1,6 @@
 ---
 datetime: 2022-04-22 18:30:00
-venue: 
+venue: ragusa
 ---
 
 {{% sandbox %}}{{% buy-tickets "Gala" "ticket-2022-04-22" %}}{{% /sandbox %}}
