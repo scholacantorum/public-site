@@ -16,6 +16,8 @@ Come enjoy the cameraderie, the professional entertainment,
 the signature New Orleans food, the wine, the special drinks from the Crescent City, and the live and silent auctions for great merchandise and experiences!
 You&rsquo;ll also have the opportunity to support Schola by participating in our Fund-a-Need.
 
+Check out some pictures from our 2019 Gala <a href="https://photos.app.goo.gl/tjkYabwCKpSiu3pQ9" target="_blank">here</a>!
+
 More details will follow soon, but mark your calendar now! As they say in the Big Easy, _Laissez les bon temps rouler!_
 
 _For everyone&rsquo;s safety, all attendees must provide proof of complete COVID vaccinations. 
