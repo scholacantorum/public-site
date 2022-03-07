@@ -4,7 +4,7 @@ There, you&rsquo;ll find style and elegance brought by the Acadian French who, i
 
 This is how New Orleans became the birthplace of jazz: it&rsquo;s a potpourri of music of the Cajuns and Creoles ... plus the gospel tradition of southern Black musicians. These are the roots of blues and jazz — a _sound unique to America,_ and one that&rsquo;s celebrated all over the world.
 
-Live the dream of New Orleans on this special night of music, friendship and celebration at **_An evening of Jazz in the Big Easy._** Bring a friend, someone you love, or just your own sweet self, for an evening that surprises and delights as it benefits the 58-year-mission of Schola Cantorum — to bring _the Joy of Singing_ to Silicon Valley.
+Live the dream of New Orleans on this special night of music, friendship and celebration at **_An Evening of Jazz in the Big Easy._** Bring a friend, someone you love, or just your own sweet self, for an evening that surprises and delights as it benefits the 58-year-mission of Schola Cantorum — to bring _the Joy of Singing_ to Silicon Valley.
 
 Check out some pictures from our 2019 Gala
 [here](https://photos.app.goo.gl/tjkYabwCKpSiu3pQ9)!
