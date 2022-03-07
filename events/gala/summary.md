@@ -1,1 +1,1 @@
-_Laissez les bon temps rouler!_
+A New Orleans-style Gala to benefit Schola Cantorum
