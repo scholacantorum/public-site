@@ -1,9 +1,4 @@
 ---
-title: Gala
-resources:
-- name: Gala_Cover.jpg
-- src: /home/Gala_Cover.jpg
-- title: An Evening of Jazz in the Big Easy
 weight: 3
 ---
 
