@@ -3,7 +3,7 @@ headless: true
 weight: 1
 ---
 
-{{% imgfullwidth "Schola_Strings_4.png" "Schola and Strings" %}}
+{{% imgfullwidth "Schola_and_Strings_4.png" "Schola and Strings" %}}
 
 Join us on May 21 and 22 for _**Schola and Strings**_! Schola combines with three-time Grammy-nominated **Quartet San Francisco** for a program ranging from Bach and Mozart to Freddy Mercury!
 
