@@ -1,7 +1,12 @@
 ---
 title: Gala
+resources:
+- name: Gala_Cover.jpg
+- src: /home/Gala_Cover.jpg
+- title: An Evening of Jazz in the Big Easy
 weight: 3
 ---
+
 {{% imgfloatleft Gala_Cover.jpg "An Evening of Jazz in the Big Easy" %}}
 
 Schola's festive Gala brings the excitement of New Orleans to the Bay Area! Join us on **Friday, April 22**
