@@ -1,6 +1,6 @@
 ---
 title: COVID-19
-weight: -1
+weight: 4
 ---
 
 Our top priority is assuring that everyone at a Schola event is safe.
