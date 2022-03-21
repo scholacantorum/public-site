@@ -8,6 +8,9 @@ description: |
 resources:
   - name: ogimg.png
     src: home/ogimg.png
+  - name: Gala_Cover.jpg
+    src: home/Gala_Cover.jpg
+    title: An Evening of Jazz in the Big Easy
 aliases:
   - /home
 buyTickets: true
