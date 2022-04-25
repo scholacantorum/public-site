@@ -10,7 +10,7 @@ resources:
 buyTickets: true
 ---
 
-<a href="../../summer-sings">{{% imgfullwidth "image.jpeg" "Schola 2022 Summer Sings" %}}</a>
+{{% imgfullwidth "image.jpeg" "Schola 2022 Summer Sings" %}}
 
 **Fill your Monday nights with music and friends!**<br>
  Join us this summer for our annual sing-alongs of beloved choral masterworks.
