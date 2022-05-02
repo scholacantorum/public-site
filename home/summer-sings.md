@@ -5,7 +5,7 @@
  - src: /home/summer-sings-2022.jpeg
  - title: Schola 2022 Summer Sings
  - weight: 2
- ---
+---
 {{% imgfullwidth "summer-sings-2022.jpeg" "Schola 2022 Summer Sings" %}}
 
 **Fill your Monday nights with music and friends!**<br>
