@@ -2,12 +2,12 @@
 title: Summer Sings
 resources:
   - name: summer-sings-2022.jpeg
-    src: summer-sings-2022.jpeg
+    src: /home/summer-sings-2022.jpeg
     title: Schola 2022 Summer Sings
 weight: 2
 ---
 
-<a href="/home/summer-sings/" "Summer Sings">
+<a href="summer-sings" "Summer Sings">
 {{% imgfullwidth "summer-sings-2022.jpeg" "Schola 2022 Summer Sings" %}}
 </a>
 
