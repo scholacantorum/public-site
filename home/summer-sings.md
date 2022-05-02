@@ -7,7 +7,9 @@ resources:
 weight: 2
 ---
 
+<a href="/home/summer-sings.md" "Summer Sings">
 {{% imgfullwidth "summer-sings-2022.jpeg" "Schola 2022 Summer Sings" %}}
+</a>
 
 **Fill your Monday nights with music and friends!**<br>
  Join us this summer for our annual sing-alongs of beloved choral masterworks.
