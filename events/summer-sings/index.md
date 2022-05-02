@@ -6,7 +6,7 @@ weight: 4
 venue: laumc
 resources:
   - src: image.jpeg
-  - title: Summer Sings
+    title: Summer Sings
 buyTickets: true
 ---
 
