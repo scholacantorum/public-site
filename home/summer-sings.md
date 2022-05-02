@@ -1,12 +1,12 @@
 ---
  title: Summer Sings
  resources:
- - name: Summer-Sings-2022.jpeg
- - src: /home/Summer-Sings-2022.jpeg
- - title: Summer Sings 2022
+ - name: summer-sings-2022.jpeg
+ - src: /home/summer-sings-2022.jpeg
+ - title: Schola 2022 Summer Sings
  weight: 2
  ---
-{{% imgfullwidth "Summer-Sings-2022.jpeg" "Schola 2022 Summer Sings" %}}
+{{% imgfullwidth "summer-sings-2022.jpeg" "Schola 2022 Summer Sings" %}}
 
 **Fill your Monday nights with music and friends!**<br>
  Join us this summer for our annual sing-alongs of beloved choral masterworks.
