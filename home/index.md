@@ -2,9 +2,9 @@
 headless: true
 weight: 1
 resources:
-- name: Schola_and_Strings_4.png
-- src: /home/Schola_and_Strings_4.png
-- title: Schola and Strings
+  - name: Schola_and_Strings_4.png
+    src: /home/Schola_and_Strings_4.png
+    title: Schola and Strings
 ---
 
 <a href="https://scholacantorum.org/concerts/schola-and-strings/">
