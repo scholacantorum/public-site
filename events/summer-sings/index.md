@@ -10,4 +10,3 @@ resources:
 buyTickets: true
 ---
 
-{{% imgfullwidth "image.jpeg" "Schola 2022 Summer Sings" %}}
