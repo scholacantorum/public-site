@@ -64,7 +64,7 @@ buyTickets: true
          <u>August 8</u><br>
          <b>Mendelssohn <i>Elijah</i></b>
          <div style="height:6px"></div>
-         <i>Megan Solomon</i><br>
+         <i>Magen Solomon</i><br>
          <span style="font-size:14px">Artistic Director, San Francisco Choral Artists<br>
          Artistic Director, San Francisco Bach Choir</span>
      </div>
