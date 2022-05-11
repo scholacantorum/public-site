@@ -21,6 +21,8 @@ buyTickets: true
  six entries to one sing, or any mixture. (Students under 25 get free admission
  with ID.)</p>
 
+<p><i>For the safety of all participants, attendees will be required to show proof of vaccination and wear masks while in the building.</i></p>
+
  <div class="concerttable">
      <div style="line-height:1.2">
          <b>7:00pm Mondays July 11 – August 15</b><br>
