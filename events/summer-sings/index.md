@@ -67,7 +67,6 @@ buyTickets: true
          Professor of Voice, Las Positas Community College<br>
          Cantor &amp; Choir Director, St. Mary&rsquo;s Cathedral of the Assumption</span>
      </div>
-     </div>
      <div style="width:296px;margin:0 0 12px 12px">
          <u>August 8</u><br>
          <b>Mendelssohn <i>Elijah</i></b>
