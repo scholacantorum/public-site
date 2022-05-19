@@ -60,7 +60,13 @@ buyTickets: true
      </div>
      <div style="width:296px;margin:0 0 12px 12px">
          <u>August 1</u><br>
-         <b>TBS</b>
+         <b>Vaughan Williams <i>Dona Nobis Pacem</i></b>
+         <div style="height:6px"></div>
+         <i>Ash Walker</i><br>
+         <span style="font-size:14px">Music Director, Pacific Edge Voices<br>
+         Professor of Voice, Las Positas Community College<br>
+         Cantor &amp; Choir Director, St. Mary&rsquo;s Cathedral of the Assumption</span>
+     </div>
      </div>
      <div style="width:296px;margin:0 0 12px 12px">
          <u>August 8</u><br>
