@@ -12,5 +12,3 @@ buyTickets: true
 Schola Cantorum collaborated with three-time Grammy-nominated <a href="https://quartetsanfrancisco.com" target="_blank"><strong>Quartet San Francisco</strong></a> to present _**Schola and Strings**_, 
 featuring music of Bach, Handel, Mozart, Eric Whitacre, Ola Gjeilo, and Freddie Mercury!
 You can see the complete program <a href="https://express.adobe.com/page/gyemIld5xkfIt/" target="_blank">here</a>.
-
-_For the safety of our audience and our members, attendees will be required to show proof of vaccination and wear masks while in the building._
