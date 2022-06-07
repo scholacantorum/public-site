@@ -1,6 +1,6 @@
 ---
 headless: true
-weight: 1
+weight: 2
 resources:
   - name: Schola_and_Strings_4.png
     src: /home/Schola_and_Strings_4.png
