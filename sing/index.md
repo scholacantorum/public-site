@@ -15,7 +15,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 59th se
 <h2>Auditions</h2>
 <p>Interested singers are invited to join Schola Cantorum for the first rehearsal of the season at <b>7:30 PM</b> on <b>Monday, September 12, 2022</b>. This rehearsal will be held at <a href="https://www.laumc.org" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring an N-95 or KN-95 mask and proof that you&rsquo;re fully vaccinated (including booster shots if you&rsquo;re eligible for them).</b></p>
 
-<p>Singers who are interested in joining will then be invited to schedule a one-on-one vocal interview the the Artistic Director. Vocal interviews include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized.</p>
+<p>Singers who are interested in joining will then be invited to schedule a one-on-one vocal interview with the Artistic Director. Vocal interviews include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized.</p>
 
 <p>Singers will be notified of the outcome of their auditions prior to the second rehearsal. Singers who successfully pass their vocal interview will be invited to an information session an hour prior to the second rehearsal.</p>
 
@@ -54,7 +54,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 59th se
     <p>We usually perform in the northern part of Santa Clara County (such as Palo Alto and Los Altos), with occasional performances elsewhere in the Bay Area.</p>
   </li>
   <li><b>How much does it cost to sing in Schola Cantorum?</b>
-    <p>The suggested donation form the opportunity to sing in Schola Cantorum is $350 per singer for the year, or $600 for couples. We strive for donations from 100% of our membership, but no singer is ever turned away for lack of funds.</p>
+    <p>The suggested donation for the opportunity to sing in Schola Cantorum is $350 per singer for the year, or $600 for couples. We strive for donations from 100% of our membership, but no singer is ever turned away for lack of funds.</p>
   </li>
   <li><b>What are the participation expectations for singers?</b>
     <p>Singers are expected to participate in all rehearsals and all performances for the year. We understand that illness or conflicts sometimes make participation impossible, but such cases should be rare. Singers will have the opportunity to disclose conflicts at the beginning of the year.</p>
