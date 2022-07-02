@@ -55,7 +55,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 59th se
     <p>We strive to make everyone feel comfortable and supported. <a href="https://www.youtube.com/watch?v=V7l6XKY8YyI" target="_blank">Here is a short video</a> where our Artistic Director, Buddy James, discusses the audition process.</p>
   </li>
   <li><b>I don&rsquo;t read music well. Should I still audition?</b>
-    <p>Schola Cantorum singers come with diverse experiences and backgrounds. Many have beautiful voices yet struggle to read music. Schola Cantorum provides support in the form of recordings and MIDI tracks to help singers learn their music and their pronunciations outside of rehearsal, and also helps with the learning process in sectionals, which are scheduled as needed. Regularly rehearsing with Schola Canotorum is a great way to improve your musical skills!.</p>
+    <p>Schola Cantorum singers come with diverse experiences and backgrounds. Some have beautiful voices yet struggle to read music. Schola Cantorum provides support in the form of recordings and MIDI tracks to help singers learn their music and their pronunciations outside of rehearsal, and also helps with the learning process in sectionals, which are scheduled as needed. Regularly rehearsing with Schola Canotorum is a great way to improve your musical skills!.</p>
   </li>
   <li><b>I haven&rsquo;t sung in a choir for many years. Should I still audition?</b>
     <p>Absolutely! Joining a choir is a great way to get back to singing regularly.</p>
