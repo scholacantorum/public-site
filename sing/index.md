@@ -13,62 +13,69 @@ menu:
 Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 59th season, &ldquo;Light, Love, the Moon, and the Stars ...&rdquo; We are currently planning a live and in-person season.
 
 <h2>Auditions</h2>
-<p>Interested singers are invited to join Schola Cantorum for the first rehearsal of the season at <b>7:15 PM</b> on <b>Monday, September 12, 2022</b>. This rehearsal will be held at <a href="https://www.laumc.org" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring an N-95 or KN-95 mask and proof that you&rsquo;re fully vaccinated (including booster shots if you&rsquo;re eligible for them).</b></p>
+<p>Interested singers are invited to join Schola Cantorum for the first rehearsal of the season at <b>7:15 PM</b> on <b>Monday, September 12, 2022</b>. This rehearsal will be held at <a href="https://www.laumc.org" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring an N95, KN95 or KF94 mask and proof that you&rsquo;re fully vaccinated (including booster shots if you&rsquo;re eligible for them).</b></p>
 
-<p>Singers who are interested in joining will then be invited to schedule a one-on-one vocal interview with the Artistic Director. Vocal interviews include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized.</p>
+<p>After rehearsal, singers who are interested in joining will be invited to schedule a one-on-one vocal interview with the Artistic Director. Vocal interviews include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized. <a href="https://www.youtube.com/watch?v=V7l6XKY8YyI" target="_blank">Here is a short video</a> where our Artistic Director, Buddy James, discusses the audition process.</p>
 
 <p>Singers will be notified of the outcome of their auditions prior to the second rehearsal. Singers who successfully pass their vocal interview will be invited to an information session an hour prior to the second rehearsal.</p>
 
+<h3>Why should I sing with Schola Cantorum?</h3>
+
+<p><b>It&rsquo;s fun, and a great learning experience!</b> You’ll share in the joy of singing a wide range of musical genres. Schola Cantorum&rsquo;s past concerts have included masterworks, jazz, swing, gospel, spirituals, contemporary music, and international compositions, and we continue to explore new musical avenues.</p>
+
+<p><b>You&rsquo;ll make friends.</b> Every singer in Schola Cantorum shares a love of music, but also brings a rich tapestry of other interests. Many singers have formed lasting friendships in Schola that have kept them returning to the group for years.</p>
+
+<p><b>You&rsquo;ll support and experience the wide range of arts in Silicon Valley.</b> Schola Cantorum frequently partners with a variety of groups to incorporate instrumental music, dance, visual art, and poetry into our performances. We’re proud to sponsor a poetry contest for high school students in which the winning entry is set to an original composition and performed during our spring concert.</p>
+
 <h2>Frequently-Asked Questions</h2>
-<h3>COVID-19</h3>
 <ol type="1">
-  <li><b>What precautions are being taken to addresss risks related to COVID-19?</b>
-  <p>Schola Cantorum is very concerned about the welfare of its members and its audience. We are following all local, state, and federal guidelines regarding singing and performing and are prepared to adapt quickly to any changes in order to ensure the safety of all involved. At the present time, Schola Cantorum requires that all its members and prospective members be fully vaccinated (including booster shots for eligible members), and wear a singer’s mask during in-person rehearsals. If, at any time, in-person rehearsals present too much of a risk, we will hold rehearsals via Zoom.</p>
+   <li><b>Who sings in Schola Cantorum?</b>
+ <p>Schola Cantorum aspires to be as diverse as Silicon Valley. Our ranks include working professionals, artists, entrepreneurs, retirees, and college students. Schola Cantorum is a supportive and inclusive ensemble that welcomes people of all ages, ethnicities, orientations, and backgrounds.</p>
+  </li>
+   <li><b>When and where are rehearsals?</b>
+    <p>Weekly rehearsals are held on Monday evenings from 7:15 to approximately 10:00 pm at the <a href="https://laumc.org" target="_blank">Los Altos United Methodist Church</a>. There are also one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches, as well as one or two Saturday retreats, usually in September and February.</p>
+  </li>
+  <li><b>How often does Schola perform?</b>
+    <p>Schola performs four full concerts each year and gives one or two performances of each concert. Typically, we sing a concert at the end of October/beginning of November, a holiday concert in mid-December, a concert at the beginning of March, and a final concert towards the end of May.</p>
+  </li>
+  <li><b>Where does Schola Cantorum perform?</b>
+    <p>We usually perform in the northern part of Santa Clara County (such as Palo Alto and Los Altos), with occasional performances elsewhere in the Bay Area. Past venues have included Stanford Memorial Church, Mission Santa Clara, and the Cathedral Basilica of St. Joseph in San Jose.</p>
+  </li>
+  <li><b>Are there other opportunities to make music, such as small groups and solos?</b>
+    <p>In addition to our performances, singers are invited to join us for our annual Messiah Sing, the longest-running Messiah Sing in the Bay Area; our Summer Sings and community sing-alongs; and Outreach concerts for schools and civic events, which often involve small groups. Our regular repertoire frequently offers opportunities for solos from within the group.</p>
+  </li>
+ <li><b>What precautions are being taken to addresss risks related to COVID-19?</b>
+  <p>Schola Cantorum is very concerned about the welfare of its members and its audience. We are following all local, state, and federal guidelines regarding singing and performing and are prepared to adapt quickly to any changes in order to ensure the safety of all involved. At the present time, Schola Cantorum requires that all its members and prospective members be fully vaccinated (including booster shots for eligible members), and wear an N95, KN95, or KF94 mask during in-person rehearsals. If, at any time, in-person rehearsals present too much of a risk, we will hold rehearsals via Zoom.</p>
   </li>
   </ol>
   <h3>AUDITIONS</h3>
-  <ol type="1" start="2">
-  <li><b>What kind of person sings in Schola Cantorum?</b>
- <p>Schola Cantorum aspires to be as diverse as Silicon Valley. Members include music professionals, business and tech professionals, artists, entrepreneurs, retired individuals, college students, and many more. Schola Cantorum is a supportive and inclusive ensemble that welcomes people of all ages, ethnicities, orientations, and backgrounds.</p>
-  </li>
+  <ol type="1" start="7">
+
   <li><b>I get really nervous at auditions. Will this be a problem?</b>
     <p>We strive to make everyone feel comfortable and supported. <a href="https://www.youtube.com/watch?v=V7l6XKY8YyI" target="_blank">Here is a short video</a> where our Artistic Director, Buddy James, discusses the audition process.</p>
   </li>
-  <li><b>I do not read music well. Should I still audition?</b>
-    <p>Schola Cantorum singers come with diverse experiences and backgrounds. Many have beautiful voices yet struggle to read music. Schola Cantorum provides support in the form of recordings and MIDI tracks to help singers learn their music and their pronunciations outside of rehearsal. All Schola Cantorum singers either sing with a pleasant voice or read music well, and most do both.</p>
+  <li><b>I don&rsquo;t read music well. Should I still audition?</b>
+    <p>Schola Cantorum singers come with diverse experiences and backgrounds. Many have beautiful voices yet struggle to read music. Schola Cantorum provides support in the form of recordings and MIDI tracks to help singers learn their music and their pronunciations outside of rehearsal, and also helps with the learning process in sectionals, which are scheduled as needed. Regularly rehearsing with Schola Canotorum is a great way to improve your musical skills!.</p>
   </li>
-  <li><b>I have not sung in a choir for many years. Should I still audition?</b>
-    <p>Singing in a choir is like riding a horse. It&rsquo;s time to get back on!</p>
+  <li><b>I haven&rsquo;t sung in a choir for many years. Should I still audition?</b>
+    <p>Absolutely! Joining a choir is a great way to get back to singing regularly.</p>
   </li>
   </ol>
   <h3>SINGER EXPECTATIONS</h3>
-  <ol type="1" start="7">
-  <li><b>When and where are rehearsals?</b>
-    <p>Normally, regular rehearsals are on Monday evenings, from 7:15 to approximately 10:00 pm at the <a href="https://laumc.org" target="_blank">Los Altos United Methodist Church</a>. There are also one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches.</p>
-  </li>
-  <li><b>How many performances are there each season?</b>
-    <p>Schola performs four full concerts each year and gives one or two performances of each concert. Typically we sing a concert at the end of October/beginning of November, a Holiday concert in mid-December, a concert at the beginning of March, and a final concert towards the end of May.</p>
-    <p>In addition to our performances, singers are invited to join us for our annual Messiah Sing, the longest-running Messiah Sing in the Bay Area; our Summer Sings and weekend sing-alongs; and Outreach concerts for schools and civic events.</p>
-  </li>
-  <li><b>Where does Schola Cantorum perform?</b>
-    <p>We usually perform in the northern part of Santa Clara County (such as Palo Alto and Los Altos), with occasional performances elsewhere in the Bay Area.</p>
+  <ol type="1" start="10">
+  <li><b>What are the participation expectations for singers?</b>
+    <p>Singers are expected to participate in all rehearsals and all performances for the year. We understand that illness or conflicts sometimes make participation impossible, but such cases should be rare. Singers will have the opportunity to disclose conflicts when concert dates are announced at the beginning of each season.</p>
   </li>
   <li><b>How much does it cost to sing in Schola Cantorum?</b>
-    <p>The suggested donation for the opportunity to sing in Schola Cantorum is $350 per singer for the year, or $600 for couples. We strive for donations from 100% of our membership, but no singer is ever turned away for lack of funds.</p>
+    <p>As a 501(c)(3) organization, member donations are important to help us grow and thrive. The suggested donation for the opportunity to sing in Schola Cantorum is $350 per singer for the year, or $600 for couples. We strive for donations from 100% of our membership, but no singer is ever turned away for lack of funds.</p>
   </li>
-  <li><b>What are the participation expectations for singers?</b>
-    <p>Singers are expected to participate in all rehearsals and all performances for the year. We understand that illness or conflicts sometimes make participation impossible, but such cases should be rare. Singers will have the opportunity to disclose conflicts at the beginning of the year.</p>
+  <li><b>What do we wear when we perform?</b>
+  <p>The standard performing attire is either a tuxedo with a pleated shirt and a wing collar, or a specific dress selected by Schola&rsquo;s Wardrobe Committee. Singers are expected to purchase their own concert attire, but again, no singer is ever turned away for lack of funds.</p>
   </li>
   <li><b>How often will I need to re-audition?</b>
     <p>To maintain the musical standards of the chorus, all singers will be asked to sing privately for the Artistic Director every few years.</p>
   </li>
-  <li><b>What do we wear when we perform?</b>
-  <p>The standard performing attire is either a tuxedo with a pleated shirt and a wing collar, or a specific dress selected by Schola's Wardrobe Committee. Singers are expected to purchase their own concert attire, but again, no singer is ever turned away for lack of funds.</p>
-  </li>
-  <li><b>Are there other opportunities to make music, such as small groups, solos, and so forth?</b>
-    <p>Small groups or ensembles often perform Outreach concerts (caroling, singing in schools, etc.). Solo opportunities may also arise for members of the chorus.</p>
-  </li>
   </ol>
 
-If you have any further questions about joining Schola Cantorum, please call or email
-our office (650-254-1700 or <info@scholacantorum.org>).
+If you have any further questions about joining Schola Cantorum, please call our office at **(650) 254-1700** or send an email
+to <info@scholacantorum.org>.
