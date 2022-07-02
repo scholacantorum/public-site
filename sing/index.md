@@ -10,7 +10,7 @@ menu:
 
 # Sing with Schola Cantorum!
 
-Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 59th season, &ldquo;Light, Love, the Moon, and the Stars ...&rdquo; We are currently planning a live and in-person season.
+Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 59th season, &ldquo;Light, Love, the Moon, and the Stars ...&rdquo;
 
 <h2>Auditions</h2>
 <p>Interested singers are invited to join Schola Cantorum for the first rehearsal of the season at <b>7:15 PM</b> on <b>Monday, September 12, 2022</b>. This rehearsal will be held at <a href="https://www.laumc.org" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one audition with the Artistic Director. <b>Please bring an N95, KN95 or KF94 mask and proof that you&rsquo;re fully vaccinated (including booster shots if you&rsquo;re eligible for them).</b></p>
