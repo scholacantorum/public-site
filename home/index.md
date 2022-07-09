@@ -1,15 +1,19 @@
 ---
 headless: true
-weight: 2
 resources:
-  - name: Schola_and_Strings_4.png
-    src: /home/Schola_and_Strings_4.png
-    title: Schola and Strings
+  - name: summer-sings-2022.jpeg
+    src: /home/summer-sings-2022.jpeg
+    title: Schola 2022 Summer Sings
+weight: 1
 ---
 
-<a href="https://scholacantorum.org/concerts/schola-and-strings/">
-{{% imgfullwidth "Schola_and_Strings_4.png" "Schola and Strings" %}}
+<a href="summer-sings" "Summer Sings">
+{{% imgfullwidth "summer-sings-2022.jpeg" "Schola 2022 Summer Sings" %}}
 </a>
 
-On May 21 and 22, Schola combined with three-time Grammy-nominated <a href="https://quartetsanfrancisco.com" target="_blank"><strong>Quartet San Francisco</strong></a> for _**Schola and Strings**_, a program ranging from Bach and Mozart to Freddie Mercury!
-You can see the complete program <a href="https://express.adobe.com/page/gyemIld5xkfIt/" target="_blank">here</a>.
+**Fill your Monday nights with music and friends!**<br>
+ Join us this summer for our annual sing-alongs of beloved choral masterworks.
+ You bring the voice; we supply the scores and the accompaniment; and a variety of local conductors stitch it all
+ together.
+ 
+ _For safety, all attendees must show proof of COVID-19 vaccination and comply with all current masking requirements._
