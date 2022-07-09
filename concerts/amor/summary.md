@@ -1,1 +1,1 @@
-Music of Central and South America
+A concert of Central and South American musical artistry awaits!
