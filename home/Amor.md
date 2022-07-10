@@ -7,7 +7,7 @@ resources:
     title: Amor
 ---
 
-{{% imgfullwidth "Amor.png" "¡Amor!" %}}
+<a href="../concerts/amor/">{{% imgfullwidth "Amor.png" "¡Amor!" %}}</a>
 
 A concert of Central and South American musical artistry awaits! This concert of masses and folk songs
 includes selections ranging from Padilla&rsquo;s _Missa Ego Flos Campi_ of the 17th century to modern
