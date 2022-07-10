@@ -2,7 +2,7 @@
 title: The Sun, the Moon, and the Stars
 description: >
   Music celebrating the heavens! 
-weight: 3
+weight: 4
 resources:
 - src: image.png
   title: The Sun, the Moon, and the Stars
