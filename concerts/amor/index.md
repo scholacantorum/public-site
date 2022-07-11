@@ -1,7 +1,7 @@
 ---
 title: ¡Amor!
 description: >
-  Central and South American music
+  Latin American music
 weight: 1
 resources:
 - src: image.png
