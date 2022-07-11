@@ -9,4 +9,5 @@ resources:
 ---
 
 A delightful family concert featuring Britten&rsquo;s _Ceremony of Carols_,
-Olson&rsquo;s Hanukkah work _Peace to the World_, and more!
+a number of Alfred Burt&rsquo;s charming carols, and _A Garland of Carols_
+by Conrad Susa!
