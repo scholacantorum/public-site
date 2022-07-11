@@ -10,7 +10,6 @@ buyTickets: false
 ---
 
 A richly encompassing concert with works evocative of its title!
-**The Sun** includes Dominick DiOrio&rsquo;s _Day of Fire and Sun_ and Zane Randall Stroope&rsquo;s
-_Omnia Sol_; **the Moon** features Rodgers and Hart&rsquo;s _Blue Moon_,
-Henry Mancini&rsquo; _Moon River_ and Eric Whitacre&rsquo;s _Goodnight Moon_; and
-**the Stars** includes Randall Thompson&rsquo;s beloved _Frostiana_.
+Divided into three parts, Schola Cantorum will explore traditional and modern compositions
+that take the listener on a journey of contemplation of the Moon, the Stars, and, finally, a new
+day with Sunrise.
