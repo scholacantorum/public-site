@@ -37,7 +37,6 @@ buyTickets: true
      <div class="summer-sing dated-event" data-event-date="2022-07-11">
          <div class="date">July 11</div>
          <div class="piece">Brahms <i>Ein Deutsches Requiem</i></div>
-         <div class="spacer"></div>
          <div class="conductor">Corie Brown</div>
          <div class="conductor-credits">Assistant Professor of Choral Music Education, San Jos&eacute; State University</div>
      </div>
@@ -45,14 +44,12 @@ buyTickets: true
          <div class="date">July 18</div>
          <div class="piece">Mozart <i>Requiem</i></b></div>
          <div class="piece">Vivaldi <i>Gloria</i></div>
-         <div class="spacer"></div>
          <div class="conductor">Daniel Hughes</div>
          <div class="conductor-credits">Founder & Artistic Director, The Choral Project</div>
      </div>
      <div class="summer-sing dated-event" data-event-date="2022-08-01">
          <div class="date">July 25</div>
          <div class="piece">Beethoven <i>Mass in C</i></div>
-         <div class="spacer"></div>
          <div class="conductor">Jeffrey Benson</div>
          <div class="conductor-credits">Artistic Director, Peninsula Cantare<br>
          Director of Choral Activities, San Jos&eacute; State University</div>
@@ -61,7 +58,6 @@ buyTickets: true
          <div class="date">August 1</div>
          <div class="piece">Vaughan Williams <i>Dona Nobis Pacem</i></b></div>
          <div class="piece">Faur&eacute; <i>Requiem</i></div>
-         <div class="spacer"></div>
          <div class="conductor">Ash Walker</div>
          <div class="conductor-credits">Music Director, Pacific Edge Voices<br>
          Professor of Voice, Las Positas Community College<br>
@@ -70,7 +66,6 @@ buyTickets: true
      <div class="summer-sing dated-event" data-event-date="2022-08-15">
          <div class="date">August 8</div>
          <div class="piece">Mendelssohn <i>Elijah</i></div>
-         <div class="spacer"></div>
          <div class="conductor">Magen Solomon</div>
          <div class="conductor-credits">Artistic Director, San Francisco Choral Artists<br>
          Artistic Director, San Francisco Bach Choir</div>
@@ -79,7 +74,6 @@ buyTickets: true
          <div class="date">August 15</div>
          <div class="piece">Durufl&eacute; <i>Requiem</i></b></div>
          <div class="piece">Lauridsen <i>Lux Aeterna</i></div>
-         <div class="spacer"></div>
          <div class="conductor">Buddy James</div>
          <div class="conductor-credits">Artistic Director, Schola Cantorum Silicon Valley<br>
          Chair, Department of Music, California State University East Bay</div>
