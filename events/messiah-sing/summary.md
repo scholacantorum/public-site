@@ -1,1 +1,1 @@
-55th year of the Bay Area’s oldest Messiah Sing.
+56th year of the Bay Area’s oldest Messiah Sing.

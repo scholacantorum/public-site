@@ -2,7 +2,7 @@
 title: Summer Sings
 description: >
   Come sing great choral masterpieces with Schola Cantorum!
-weight: 4
+weight: 1
 venue: laumc
 resources:
   - src: image.jpeg

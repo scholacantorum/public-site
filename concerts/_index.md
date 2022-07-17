@@ -1,9 +1,9 @@
 ---
-title: 2021-2022 Season
+title: 2022-2023 Season
 description: >
-  Schola Cantorum's 2021-2022 season
+  Schola Cantorum's 2022-2023 season
 ogdesc: >
-  Schola Cantorum's 2021-2022 season
+  Schola Cantorum's 2022-2023 season
 menu:
   main:
     title: Concerts

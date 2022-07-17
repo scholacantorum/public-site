@@ -1,6 +1,6 @@
 ---
-datetime: 2021-12-19 15:30:00
+datetime: 2022-12-19 19:30:00
 venue: shcc
 ---
 
-{{% registration "55th Annual Messiah Sing" "ticket-2021-12-19-s" "ticket-2021-12-19-a" "ticket-2021-12-19-t" "ticket-2021-12-19-b" %}}
+{{% registration "56th Annual Messiah Sing" "ticket-2022-12-19-s" "ticket-2022-12-19-a" "ticket-2022-12-19-t" "ticket-2022-12-19-b" %}}
