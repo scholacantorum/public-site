@@ -22,64 +22,64 @@ buyTickets: true
 
 <p><i>For the safety of all participants, attendees will be required to show proof of vaccination and wear masks while in the building.</i></p>
 
- <div class="concerttable">
-     <div style="line-height:1.2">
+<div class="concerttable">
+    <div style="line-height:1.2">
          <b>7:00pm Mondays July 11 – August 15</b><br>
          Los Altos United Methodist Church<br>
          655 Magdalena Avenue, Los Altos <a class="venuemap" target="_blank" href="https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09db205b:0x3cb6a0075024dc76!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3604399!4d-122.09889">Map</a><br>
-     </div>
-     <div style="margin-top:8px">
+    </div>
+    <div style="margin-top:8px">
          {{% buy-tickets "Summer Sings Tickets" "summer-sings-2022" "ticket-2022-07-11" "ticket-2022-07-18" "ticket-2022-07-25" "ticket-2022-08-01" "ticket-2022-08-08" "ticket-2022-08-15" %}}
-     </div>
- </div>
+    </div>
+</div>
 
 <div id="summer-sing-table">
-     <div class="summer-sing">
+     <div class="summer-sing dated-event" data-event-date="2022-07-11">
          <div class="date">July 11</div>
          <div class="piece">Brahms <i>Ein Deutsches Requiem</i></div>
-         <div class="spacer">
+         <div class="spacer"></div>
          <div class="conductor">Corie Brown</div>
          <div class="conductor-credits">Assistant Professor of Choral Music Education, San Jos&eacute; State University</div>
      </div>
-     <div class="summer-sing">
+     <div class="summer-sing dated-event" data-event-date="2022-07-18">
          <div class="date">July 18</div>
          <div class="piece">Mozart <i>Requiem</i></b></div>
          <div class="piece">Vivaldi <i>Gloria</i></div>
-         <div class="spacer">
+         <div class="spacer"></div>
          <div class="conductor">Daniel Hughes</div>
          <div class="conductor-credits">Founder & Artistic Director, The Choral Project</div>
      </div>
-     <div class="summer-sing">
+     <div class="summer-sing dated-event" data-event-date="2022-08-01">
          <div class="date">July 25</div>
          <div class="piece">Beethoven <i>Mass in C</i></div>
-         <div class="spacer">
+         <div class="spacer"></div>
          <div class="conductor">Jeffrey Benson</div>
          <div class="conductor-credits">Artistic Director, Peninsula Cantare<br>
          Director of Choral Activities, San Jos&eacute; State University</div>
      </div>
-     <div class="summer-sing">
+     <div class="summer-sing dated-event" data-event-date="2022-08-08">
          <div class="date">August 1</div>
          <div class="piece">Vaughan Williams <i>Dona Nobis Pacem</i></b></div>
          <div class="piece">Faur&eacute; <i>Requiem</i></div>
-         <div class="spacer">
+         <div class="spacer"></div>
          <div class="conductor">Ash Walker</div>
          <div class="conductor-credits">Music Director, Pacific Edge Voices<br>
          Professor of Voice, Las Positas Community College<br>
          Cantor &amp; Choir Director, St. Mary&rsquo;s Cathedral of the Assumption</div>
      </div>
-     <div class="summer-sing">
+     <div class="summer-sing dated-event" data-event-date="2022-08-15">
          <div class="date">August 8</div>
          <div class="piece">Mendelssohn <i>Elijah</i></div>
-         <div class="spacer">
+         <div class="spacer"></div>
          <div class="conductor">Magen Solomon</div>
          <div class="conductor-credits">Artistic Director, San Francisco Choral Artists<br>
          Artistic Director, San Francisco Bach Choir</div>
      </div>
-     <div class="summer-sing">
+     <div class="summer-sing dated-event" data-event-date="2022-07-11">
          <div class="date">August 15</div>
          <div class="piece">Durufl&eacute; <i>Requiem</i></b></div>
          <div class="piece">Lauridsen <i>Lux Aeterna</i></div>
-         <div class="spacer">
+         <div class="spacer"></div>
          <div class="conductor">Buddy James</div>
          <div class="conductor-credits">Artistic Director, Schola Cantorum Silicon Valley<br>
          Chair, Department of Music, California State University East Bay</div>
