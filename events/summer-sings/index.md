@@ -33,55 +33,55 @@ buyTickets: true
      </div>
  </div>
 
-<div style="display:flex;flex-wrap:wrap;margin:18px 0 0 -12px;line-height:1.2">
-     <div style="width:296px;margin:0 0 12px 12px">
-         <u>July 11</u><br>
-         <b>Brahms <i>Ein Deutsches Requiem</i></b>
-         <div style="height:6px"></div>
-         <i>Corie Brown</i><br>
-         <span style="font-size:14px">Assistant Professor of Choral Music Education, San Jos&eacute; State University</span>
+<div id="summer-sing-table">
+     <div class="summer-sing">
+         <div class="date">July 11</div>
+         <div class="piece">Brahms <i>Ein Deutsches Requiem</i></div>
+         <div class="spacer">
+         <div class="conductor">Corie Brown</div>
+         <div class="conductor-credits">Assistant Professor of Choral Music Education, San Jos&eacute; State University</div>
      </div>
-     <div style="width:296px;margin:0 0 12px 12px">
-         <u>July 18</u><br>
-         <b>Mozart <i>Requiem</i></b><br>
-         <b>Vivaldi <i>Gloria</i></b>
-         <div style="height:6px"></div>
-         <i>Daniel Hughes</i><br>
-         <span style="font-size:14px">Founder & Artistic Director, The Choral Project</span>
+     <div class="summer-sing">
+         <div class="date">July 18</div>
+         <div class="piece">Mozart <i>Requiem</i></b></div>
+         <div class="piece">Vivaldi <i>Gloria</i></div>
+         <div class="spacer">
+         <div class="conductor">Daniel Hughes</div>
+         <div class="conductor-credits">Founder & Artistic Director, The Choral Project</div>
      </div>
-     <div style="width:296px;margin:0 0 12px 12px">
-         <u>July 25</u><br>
-         <b>Beethoven <i>Mass in C</i></b>
-         <div style="height:6px"></div>
-         <i>Jeffrey Benson</i><br>
-         <span style="font-size:14px">Artistic Director, Peninsula Cantare<br>
-         Director of Choral Activities, San Jos&eacute; State University</span>
+     <div class="summer-sing">
+         <div class="date">July 25</div>
+         <div class="piece">Beethoven <i>Mass in C</i></div>
+         <div class="spacer">
+         <div class="conductor">Jeffrey Benson</div>
+         <div class="conductor-credits">Artistic Director, Peninsula Cantare<br>
+         Director of Choral Activities, San Jos&eacute; State University</div>
      </div>
-     <div style="width:296px;margin:0 0 12px 12px">
-         <u>August 1</u><br>
-         <b>Vaughan Williams <i>Dona Nobis Pacem</i></b><br>
-         <b>Faur&eacute; <i>Requiem</i></b>
-         <div style="height:6px"></div>
-         <i>Ash Walker</i><br>
-         <span style="font-size:14px">Music Director, Pacific Edge Voices<br>
+     <div class="summer-sing">
+         <div class="date">August 1</div>
+         <div class="piece">Vaughan Williams <i>Dona Nobis Pacem</i></b></div>
+         <div class="piece">Faur&eacute; <i>Requiem</i></div>
+         <div class="spacer">
+         <div class="conductor">Ash Walker</div>
+         <div class="conductor-credits">Music Director, Pacific Edge Voices<br>
          Professor of Voice, Las Positas Community College<br>
-         Cantor &amp; Choir Director, St. Mary&rsquo;s Cathedral of the Assumption</span>
+         Cantor &amp; Choir Director, St. Mary&rsquo;s Cathedral of the Assumption</div>
      </div>
-     <div style="width:296px;margin:0 0 12px 12px">
-         <u>August 8</u><br>
-         <b>Mendelssohn <i>Elijah</i></b>
-         <div style="height:6px"></div>
-         <i>Magen Solomon</i><br>
-         <span style="font-size:14px">Artistic Director, San Francisco Choral Artists<br>
-         Artistic Director, San Francisco Bach Choir</span>
+     <div class="summer-sing">
+         <div class="date">August 8</div>
+         <div class="piece">Mendelssohn <i>Elijah</i></div>
+         <div class="spacer">
+         <div class="conductor">Magen Solomon</div>
+         <div class="conductor-credits">Artistic Director, San Francisco Choral Artists<br>
+         Artistic Director, San Francisco Bach Choir</div>
      </div>
-     <div style="width:296px;margin:0 0 12px 12px">
-         <u>August 15</u><br>
-         <b>Durufl&eacute; <i>Requiem</i></b><br>
-         <b>Lauridsen <i>Lux Aeterna</i></b>
-         <div style="height:6px"></div>
-         <i>Buddy James</i><br>
-         <span style="font-size:14px">Artistic Director, Schola Cantorum Silicon Valley<br>
-         Chair, Department of Music, California State University East Bay</span>
+     <div class="summer-sing">
+         <div class="date">August 15</div>
+         <div class="piece">Durufl&eacute; <i>Requiem</i></b></div>
+         <div class="piece">Lauridsen <i>Lux Aeterna</i></div>
+         <div class="spacer">
+         <div class="conductor">Buddy James</div>
+         <div class="conductor-credits">Artistic Director, Schola Cantorum Silicon Valley<br>
+         Chair, Department of Music, California State University East Bay</div>
      </div>
  </div>
