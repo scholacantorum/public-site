@@ -67,7 +67,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 59th se
     <p>Singers are expected to participate in all rehearsals and all performances for the year. We understand that illness or conflicts sometimes make participation impossible, but such cases should be rare. Singers will have the opportunity to disclose conflicts when concert dates are announced at the beginning of each season.</p>
   </li>
   <li><b>How much does it cost to sing in Schola Cantorum?</b>
-    <p>As a 501(c)(3) organization, member donations are important to help us grow and thrive. The suggested donation for the opportunity to sing in Schola Cantorum is $350 per singer for the year, or $600 for couples. We strive for donations from 100% of our membership, but no singer is ever turned away for lack of funds.</p>
+    <p>As a 501&#40;c&#41;(3) organization, member donations are important to help us grow and thrive. The suggested donation for the opportunity to sing in Schola Cantorum is $350 per singer for the year, or $600 for couples. We strive for donations from 100% of our membership, but no singer is ever turned away for lack of funds.</p>
   </li>
   <li><b>What do we wear when we perform?</b>
   <p>The standard performing attire is either a tuxedo with a pleated shirt and a wing collar, or a specific dress selected by Schola&rsquo;s Wardrobe Committee. Singers are expected to purchase their own concert attire, but again, no singer is ever turned away for lack of funds.</p>
