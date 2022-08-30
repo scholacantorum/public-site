@@ -7,81 +7,16 @@ venue: laumc
 resources:
   - src: image.jpeg
     title: Summer Sings
-buyTickets: true
+buyTickets: false
 ---
 
-<p><b>Fill your Monday nights with music and friends!</b><br>
- Join us this summer for our annual sing-alongs of beloved choral masterworks.
- You bring the voice; we supply the scores and the accompaniment; and a variety of local conductors stitch it all
- together.</p>
+The Schola Cantorum Summer Sings are remarkable events where lovers of choral music gather to sing through the great masterworks. 
+Members of Schola Cantorum sing side by side with members of other Bay Area choruses and with people who don&rsquo;t have time to sing with a regular chorus. 
+We were proud to continue this tradition this summer, especially after the pandemic made singing together nearly impossible during the past two summers.
+**Thank you** to all who made the music possible this summer: the singers, the pianists, the conductors, 
+and all of the wonderful members and staff of Schola Cantorum.
 
- <p>Admission is $20 for each sing, or you can purchase a <b>Flex Pass</b> that
- gives six entries for $100. Use it for one entry to each of the six sings, or
- six entries to one sing, or any mixture. (Students under 25 get free admission
- with ID.)</p>
+We look forward to seeing you all at our annual Messiah Sing in December and next summer as we revisit the great works at our Summer Sings 2023.
 
-<p><i>For the safety of all participants, attendees will be required to show proof of vaccination and wear masks while in the building.</i></p>
-
-<div class="concerttable">
-    <div style="line-height:1.2">
-         <b>7:00pm Mondays July 11 – August 15</b><br>
-         Los Altos United Methodist Church<br>
-         655 Magdalena Avenue, Los Altos <a class="venuemap" target="_blank" href="https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09db205b:0x3cb6a0075024dc76!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3604399!4d-122.09889">Map</a><br>
-    </div>
-    <div style="margin-top:8px">
-         {{% buy-tickets "Summer Sings Tickets" "summer-sings-2022" "ticket-2022-07-11" "ticket-2022-07-18" "ticket-2022-07-25" "ticket-2022-08-01" "ticket-2022-08-08" "ticket-2022-08-15" %}}
-    </div>
-</div>
-
-<div id="summer-sing-table">
-     <div class="summer-sing dated-event" data-event-date="2022-07-11">
-         <div class="date">July 11</div>
-         <div class="piece">Brahms <i>Ein Deutsches Requiem</i></div>
-         <div class="conductor">Corie Brown</div>
-         <div class="conductor-credits">Assistant Professor of Choral Music Education, San Jos&eacute; State University</div>
-         <div class="accompanist">Tamami Honma, Accompanist</div>
-      </div>
-     <div class="summer-sing dated-event" data-event-date="2022-07-18">
-         <div class="date">July 18</div>
-         <div class="piece">Mozart <i>Requiem</i></div>
-         <div class="piece">Vivaldi <i>Gloria</i></div>
-         <div class="conductor">Daniel Hughes</div>
-         <div class="conductor-credits">Founder &amp; Artistic Director, The Choral Project</div>
-         <div class="accompanist">Tamami Honma, Accompanist</div>
-     </div>
-     <div class="summer-sing dated-event" data-event-date="2022-07-25">
-         <div class="date">July 25</div>
-         <div class="piece">Beethoven <i>Mass in C</i></div>
-         <div class="conductor">Jeffrey Benson</div>
-         <div class="conductor-credits">Artistic Director, Peninsula Cantare<br>
-         Director of Choral Activities, San Jos&eacute; State University</div>
-         <div class="accompanist">Emily Hsu, Accompanist</div>
-     </div>
-     <div class="summer-sing dated-event" data-event-date="2022-08-01">
-         <div class="date">August 1</div>
-         <div class="piece">Vaughan Williams <i>Dona Nobis Pacem</i></div>
-         <div class="piece">Faur&eacute; <i>Requiem</i></div>
-         <div class="conductor">Ash Walker</div>
-         <div class="conductor-credits">Music Director, Pacific Edge Voices<br>
-         Professor of Voice, Las Positas Community College<br>
-         Cantor &amp; Choir Director, St. Mary&rsquo;s Cathedral of the Assumption</div>
-         <div class="accompanist">Jeremiah Trujillo, Accompanist</div>
-    </div>
-     <div class="summer-sing dated-event" data-event-date="2022-08-08">
-         <div class="date">August 8</div>
-         <div class="piece">Mendelssohn <i>Elijah</i></div>
-         <div class="conductor">Magen Solomon</div>
-         <div class="conductor-credits">Artistic Director, San Francisco Choral Artists<br>
-         Artistic Director, San Francisco Bach Choir</div>
-         <div class="accompanist">Tamami Honma, Accompanist</div>
-     </div>
-     <div class="summer-sing dated-event" data-event-date="2022-08-15">
-         <div class="date">August 15</div>
-         <div class="piece">Durufl&eacute; <i>Requiem</i></div>
-         <div class="piece">Lauridsen <i>Lux Aeterna</i></div>
-         <div class="conductor">Buddy James</div>
-         <div class="conductor-credits">Artistic Director, Schola Cantorum Silicon Valley<br>
-         Chair, Department of Music, California State University East Bay</div>
-         <div class="accompanist">Daniel Lockert, Accompanist</div>
-     </div>
- </div>
+_Dr. Buddy James<br>
+Artistic Director, Schola Cantorum Silicon Valley_
