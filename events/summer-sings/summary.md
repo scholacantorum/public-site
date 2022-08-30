@@ -1,1 +1,1 @@
-Join us this summer for our annual sing-alongs of beloved choral masterworks!
+We came! We sang! It was wonderful! Let&rsquo;s do it again in 2023!
