@@ -17,7 +17,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 59th se
 
 <p>After rehearsal, singers who are interested in joining will be invited to schedule a one-on-one vocal interview with the Artistic Director. Vocal interviews include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized. Here is a short video where our Artistic Director, Buddy James, discusses the audition process.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V7l6XKY8YyI?rel=0&showinfo=0&autohide=1" title="Audition Process" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="audition-video" width="560" height="315" src="https://www.youtube.com/embed/V7l6XKY8YyI?rel=0" title="Audition Process" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>If you&rsquo;d prefer to get a head start on the audition process, please <a href="https://forms.gle/3JbcN7L4bTXxwjT16" target="_blank">complete this on-line form</a>.</p>
 
@@ -37,7 +37,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 59th se
  <p>Schola Cantorum aspires to be as diverse as Silicon Valley. Our ranks include working professionals, artists, entrepreneurs, retirees, and college students. Schola Cantorum is a supportive and inclusive ensemble that welcomes people of all ages, ethnicities, orientations, and backgrounds.</p>
   </li>
    <li><b>When and where are rehearsals?</b>
-    <p>Weekly rehearsals are held on Monday evenings from 7:15 to approximately 10:00 pm at the <a href="https://laumc.org" target="_blank">Los Altos United Methodist Church</a>. There are also one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches, as well as one or two Saturday retreats, usually in September and February.</p>
+    <p>Weekly rehearsals are held on Monday evenings from 7:15 to approximately 10:00 pm at the <a href="https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09db205b:0x3cb6a0075024dc76!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3604399!4d-122.09889" target="_blank">Los Altos United Methodist Church</a>. There are also one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches, as well as one or two Saturday retreats, usually in September and February.</p>
   </li>
   <li><b>How often does Schola perform?</b>
     <p>Schola performs four full concerts each year and gives one or two performances of each concert. Typically, we sing a concert at the end of October/beginning of November, a holiday concert in mid-December, a concert at the beginning of March, and a final concert towards the end of May.</p>
@@ -56,7 +56,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 59th se
   <ol type="1" start="7">
 
   <li><b>I get really nervous at auditions. Will this be a problem?</b>
-    <p>We strive to make everyone feel comfortable and supported. <a href="https://www.youtube.com/watch?v=V7l6XKY8YyI" target="_blank">Here is a short video</a> where our Artistic Director, Buddy James, discusses the audition process.</p>
+    <p>We strive to make everyone feel comfortable and supported. <a href="#audition-video">See the short video above</a> where our Artistic Director, Buddy James, discusses the audition process.</p>
   </li>
   <li><b>I don&rsquo;t read music well. Should I still audition?</b>
     <p>Schola Cantorum singers come with diverse experiences and backgrounds. Some have beautiful voices yet struggle to read music. Schola Cantorum provides support in the form of recordings and MIDI tracks to help singers learn their music and their pronunciations outside of rehearsal, and also helps with the learning process in sectionals, which are scheduled as needed. Regularly rehearsing with Schola Canotorum is a great way to improve your musical skills!.</p>
