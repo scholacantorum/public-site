@@ -17,7 +17,7 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 59th se
 
 <p>After rehearsal, singers who are interested in joining will be invited to schedule a one-on-one vocal interview with the Artistic Director. Vocal interviews include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized. Here is a short video where our Artistic Director, Buddy James, discusses the audition process.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V7l6XKY8YyI" title="Audition Process" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V7l6XKY8YyI?rel=0&showinfo=0&autohide=1" title="Audition Process" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>If you&rsquo;d prefer to get a head start on the audition process, please <a href="https://forms.gle/3JbcN7L4bTXxwjT16" target="_blank">complete this on-line form</a>.</p>
 
