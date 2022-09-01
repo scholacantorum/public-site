@@ -93,11 +93,11 @@ competition will be deemed to be acceptance of these conditions.
 
 <b>2017</b>: &ldquo;Starry Night&rdquo; by Albert Zhao, set to music by Marjorie Halloran.
 <p>&nbsp;</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M705te7cR0s?res=0" title="Starry Night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M705te7cR0s?rel=0" title="Starry Night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>&nbsp;</p>
 <b>2020</b>: &ldquo;Gilded Land&rdquo; by Sophia Smith, set to music by Eric Tuan.
 <p>&nbsp;</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z-6C1gHeVY0?res=0" title="Gilded Land" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-6C1gHeVY0?rel=0" title="Gilded Land" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>&nbsp;</p>
 ## Contest Entry Form
 
