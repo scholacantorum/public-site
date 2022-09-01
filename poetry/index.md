@@ -89,16 +89,16 @@ competition will be deemed to be acceptance of these conditions.
 
 ## Prior Contest Winners
 
-**2016**: &ldquo;Love Poem in Blue&rdquo; by Sonnet Phelps, set to music by Dawn Reyen.
+<b>2016</b>: &ldquo;Love Poem in Blue&rdquo; by Sonnet Phelps, set to music by Dawn Reyen.
 
-**2017**: &ldquo;Starry Night&rdquo; by Albert Zhao, set to music by Marjorie Halloran.
-
+<b>2017</b>: &ldquo;Starry Night&rdquo; by Albert Zhao, set to music by Marjorie Halloran.
+<p>&nbsp;</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M705te7cR0s?res=0" title="Starry Night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>&nbsp;</p>
-**2020**: &ldquo;Gilded Land&rdquo; by Sylvia Smith, set to music by Eric Tuan.
-
+<b>2020</b>: &ldquo;Gilded Land&rdquo; by Sophia Smith, set to music by Eric Tuan.
+<p>&nbsp;</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z-6C1gHeVY0?res=0" title="Gilded Land" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<p>&nbsp;</p>
 ## Contest Entry Form
 
 To submit your poem to the contest, use [this
