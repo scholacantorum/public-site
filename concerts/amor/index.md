@@ -6,7 +6,7 @@ weight: 1
 resources:
 - src: image.png
   title: ¡Amor!
-buyTickets: false
+buyTickets: true
 ---
 
 A concert of Latin American musical artistry awaits! This concert of masses and folk songs
