@@ -6,7 +6,7 @@ weight: 3
 resources:
 - src: image.png
   title: Light
-buyTickets: false
+buyTickets: true
 ---
 
 Morton Lauridsen&rsquo;s _Lux Aeterna_ seamlessly integrates ancient modes, Renaissance polyphony,
