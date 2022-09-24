@@ -6,7 +6,7 @@ weight: 4
 resources:
 - src: image.png
   title: The Sun, the Moon, and the Stars
-buyTickets: false
+buyTickets: true
 ---
 
 A richly encompassing concert with works evocative of its title!
