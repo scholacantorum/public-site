@@ -1,6 +1,6 @@
 ---
 headless: true
-weight: 1
+weight: 2
 description: >
   Latin American music
 resources:
