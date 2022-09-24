@@ -7,6 +7,8 @@ resources:
     title: Light, Love, the Moon and the Stars
 ---
 
+{{% concerttable %}}
+
 <a href="/concerts/">{{% imgfullwidth "sun_moon_stars.png" "Light, love, the Moon and the Stars" %}}</a>
 
 Schola&rsquo;s 59th season is a celebration of _**Light, Love, the Moon, and the Stars**_!
