@@ -6,6 +6,7 @@ weight: 2
 resources:
 - src: image.jpg
 - title: A Celebration of Carols
+buyTickets: true
 ---
 
 A delightful family concert featuring Britten&rsquo;s _Ceremony of Carols_,
