@@ -9,6 +9,12 @@ resources:
 
 {{% concerttable %}}
 
+{{% buy-tickets "2022-2023 Subscriptions" "subscription-2022-23" %}}
+
+See the [subscription benefits](/concerts).
+
+{{% /concerttable %}}
+
 <a href="/concerts/">{{% imgfullwidth "sun_moon_stars.png" "Light, love, the Moon and the Stars" %}}</a>
 
 Schola&rsquo;s 59th season is a celebration of _**Light, Love, the Moon, and the Stars**_!
