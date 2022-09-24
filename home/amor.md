@@ -1,5 +1,6 @@
 ---
-headless: true
+title: ¡Amor!
+headless: false
 weight: 2
 description: >
   Latin American music
