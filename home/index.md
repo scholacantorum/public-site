@@ -11,7 +11,7 @@ resources:
 
 {{% buy-tickets "2022-2023 Subscriptions" "subscription-2022-23" %}}
 
-See the [subscription benefits](/concerts).
+See the [subscription benefits](/concerts#subscriptions).
 
 {{% /concerttable %}}
 
