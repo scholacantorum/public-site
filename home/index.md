@@ -1,6 +1,6 @@
 ---
 title: Season 59
-weight: 2
+weight: 1
 resources:
   - name: sun_moon_stars.png
     src: /home/sun_moon_stars.png
