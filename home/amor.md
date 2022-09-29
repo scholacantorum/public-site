@@ -10,7 +10,7 @@ resources:
     title: ¡Amor!
 ---
 
-{{% imgfullwidth "Amor.png" "¡Amor!" %}}
+<a href="concerts/amor">{{% imgfullwidth "Amor.png" "¡Amor!" %}}</a>
 
 A feast of Latin American musical artistry awaits in _**¡Amor!**_, the opening concert of Schola&rsquo;s 59th season. This concert of masses and folk songs
 includes selections ranging from Padilla&rsquo;s _Missa Ego Flos Campi_ of the 17th century to Ramirez&rsquo;s masterpiece folk mass _Missa Criolla_.
