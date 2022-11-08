@@ -4,7 +4,7 @@ description: >
   Schola Cantorum hosts its 56th annual _Messiah_ Sing on **December 19, 2022**.
 weight: 3
 resources:
-  - src: /events/messiah-sing/image.png
+  - src: /home/Handel.png
     name: Messiah Sing 
     title: Messiah Sing
 ---
