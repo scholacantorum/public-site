@@ -13,7 +13,7 @@ resources:
 <a href="concerts/celebration_of_carols">{{% imgfullwidth "Celebration.png" "A Celebration of Carols" %}}</a>
 
 A delightful family concert featuring Benjamin Britten&rsquo;s _A Ceremony of Carols_,
-a number of Alfred Burt&rsquo;s charming carols, and _A Garland of Carols_
+a number of Alfred Burt&rsquo;s charming carols, and _A Christmas Garland_
 by Conrad Susa!
 
 Join us at the <a href="
