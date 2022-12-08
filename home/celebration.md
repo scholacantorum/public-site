@@ -20,6 +20,4 @@ Join us at the <a href="
 https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09655867:0xb652f37bbf3d1320!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3600877!4d-122.0984343" target="_blank">
 **Los Altos United Methodist Church**</a>, **Sunday, December 11**, at **4:00 pm**.
 
-_For everyone&rsquo;s safety, attendees will be required to show proof of
-COVID-19 vaccinations, including applicable boosters. In addition, we strongly
-request that all attendees wear masks._
+_**Please note:** We will require all attendees to wear masks._
