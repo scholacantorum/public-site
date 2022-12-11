@@ -9,7 +9,7 @@ resources:
     title: Light
 ---
 
-<a href="/concerts/light"{{% imgfullwidth "lauridsen.png" "Light" %}}</a>
+<a href="/concerts/light">{{% imgfullwidth "lauridsen.png" "Light" %}}</a>
 
 Morton Lauridsen&rsquo;s _Lux Aeterna_ seamlessly integrates ancient modes, Renaissance polyphony,
 Romanticism, and modern harmonies, connecting the listener to his or her own mortal journey.
