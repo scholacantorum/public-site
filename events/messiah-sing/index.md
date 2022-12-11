@@ -15,6 +15,6 @@ on **Monday, December 19** at **7:30 pm** for its 56th annual _Messiah_ Sing.
 We will sing the Christmas section of _Messiah_, plus other favorite movements from the work, with orchestra.
 Come join us in a jubilant celebration of the season!
 
-_Schola abides by all legal and venue masking requirements, as well as CDC recommendations.
-Participants will be required to show proof of COVID-19 vaccination. We currently anticipate that masks will be optional,
-but separate areas will be provided for singers who wish to sit away from those who choose not to wear masks._
+_**Please note:** Schola abides by all legal and venue masking requirements, as well as CDC recommendations.
+Because Santa Clara County COVID-19 transmission rates are currently in the &ldquo;high&rdquo; range,
+we will require all attendees to wear masks._
