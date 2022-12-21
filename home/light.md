@@ -1,7 +1,7 @@
 ---
 title: Light
 description: >
-  Music on the theme of &ldquo;Light&rdquo;, featuring Morton Lauridsen&rsquo;s _Lux Aeterna_
+  Music on the theme of &ldquo;Light&rdquo;, featuring Morten Lauridsen&rsquo;s _Lux Aeterna_
 weight: 3
 resources:
   - src: /home/lauridsen.png
@@ -11,7 +11,7 @@ resources:
 
 <a href="/concerts/light">{{% imgfullwidth "lauridsen.png" "Light" %}}</a>
 
-Morton Lauridsen&rsquo;s _Lux Aeterna_ seamlessly integrates ancient modes, Renaissance polyphony,
+Morten Lauridsen&rsquo;s _Lux Aeterna_ seamlessly integrates ancient modes, Renaissance polyphony,
 Romanticism, and modern harmonies, connecting the listener to his or her own mortal journey.
 <a href="/concerts/light">_See more ..._</a>
 
