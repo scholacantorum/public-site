@@ -47,7 +47,7 @@ Historic **Schola Cantorum Silicon Valley** is preparing to welcome new singers 
     <p>In addition to our performances, singers are invited to join us for our annual Messiah Sing, the longest-running Messiah Sing in the Bay Area; our Summer Sings and community sing-alongs; and Outreach concerts for schools and civic events, which often involve small groups. Our regular repertoire frequently offers opportunities for solos from within the group.</p>
   </li>
  <li><b>What precautions are being taken to addresss risks related to COVID-19?</b>
-  <p>Schola Cantorum is very concerned about the welfare of its members and its audience. We are following all local, state, and federal guidelines regarding singing and performing and are prepared to adapt quickly to any changes in order to ensure the safety of all involved. At the present time, Schola Cantorum requires that all its members and prospective members be fully vaccinated (including booster shots for eligible members), and wear an N95, KN95, or KF94 mask during in-person rehearsals. If, at any time, in-person rehearsals present too much of a risk, we will hold rehearsals via Zoom.</p>
+  <p>Schola Cantorum is very concerned about the welfare of its members and its audience. We are following all local, state, and federal guidelines regarding singing and performing and are prepared to adapt quickly to any changes in order to ensure the safety of all involved. You can read Schola&rsquo;s current policy on COVID-19 precautions and Air Quality Index (AQI) levels <a href="https://docs.google.com/document/d/12hl61hhEfAM3Ojqa5lmp9_0dlS17ZKFu8dLWm4rCYuM" target="_blank">here</a>.</p>
   </li>
   </ol>
   <h3>AUDITIONS</h3>
