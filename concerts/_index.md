@@ -23,4 +23,4 @@ When you purchase a **_FLEXPass_** for Schola Cantorum&rsquo;s 59th Season, you&
   season concerts&mdash;you choose which ones. **Share the experience with friends**&mdash;bring one friend to each concert, three
   friends to one concert, or any other combination.
   
-{{% buy-tickets "Buy _FLEXPass_" "subscription-2022-23" %}}
+{{% buy-tickets "Buy FLEXPass" "subscription-2022-23" %}}
