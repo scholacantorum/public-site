@@ -9,9 +9,9 @@ resources:
 
 {{% concerttable %}}
 
-{{% buy-tickets "2022-2023 Subscriptions" "subscription-2022-23" %}}
+{{% buy-tickets "Concert Tickets" "ticket-2023-03-04" "ticket-2023-05-20" "subscription-2022-23" %}}
 
-See the [subscription benefits](/concerts#subscriptions).
+See the [_FLEXPass benefits_](/concerts#subscriptions).
 
 {{% /concerttable %}}
 
