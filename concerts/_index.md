@@ -20,7 +20,6 @@ When you purchase a **_FLEXPass_** for Schola Cantorum&rsquo;s 59th Season, you&
 * **Convenience:** Print your online QR Code ticket any time, or carry it on
   your mobile device&mdash;no waiting at will-call.
 * **Ticket Flexibility:** Each ***FLEXPass*** is good for four entries to our
-  season concerts&mdash;you choose which ones. **Share the experience with friends**&mdash;bring one friend to each concert, three
-  friends to one concert, or any other combination.
+  season concerts&mdash;you choose which ones. Bring your friends!
   
 {{% buy-tickets "Buy FLEXPass" "subscription-2022-23" %}}
