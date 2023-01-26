@@ -12,18 +12,15 @@ menu:
 
 <a name="subscriptions"></a>
 
-### Subscribe to the 2022&ndash;2023 Concert Season
+### Enjoy the flexibility and convenience of *FLEXPass*!
 
-**Enjoy the flexibility and convenience of *FLEXPass*!**
-
-When you subscribe to Schola Cantorum’s 59th Season, you&rsquo;ll receive
-***FLEXPass*** status, which includes these great benefits:
+When you purchase a **_FLEXPass_** for Schola Cantorum&rsquo;s 59th Season, you&rsquo;ll receive these great benefits:
 
 * **Special subscriber pricing: 17% off** at-the-door prices.
 * **Convenience:** Print your online QR Code ticket any time, or carry it on
   your mobile device&mdash;no waiting at will-call.
 * **Ticket Flexibility:** Each ***FLEXPass*** is good for four entries to our
-  season concerts&mdash;you choose which ones. Use one entry at each of the four
-  concerts, or **share the experience with friends**.
-
-{{% buy-tickets "2022-2023 Subscriptions" "subscription-2022-23" %}}
+  season concerts&mdash;you choose which ones. **Share the experience with friends**&mdash;bring one friend to each concert, three
+  friends to one concert, or any other combination.
+  
+{{% buy-tickets "Buy _FLEXPass_" "subscription-2022-23" %}}
