@@ -12,6 +12,7 @@ buyTickets: true
 Morten Lauridsen&rsquo;s _Lux Aeterna_ seamlessly integrates ancient modes, Renaissance polyphony,
 Romanticism, and modern harmonies, connecting the listener to his or her own mortal journey.
 
-Artistic Director Buddy James and members of Schola Cantorum will also perform this work
-in **Carnegie Hall** on April 23, 2023. If you&rsquo;re a singer and would like to join Schola
-for this opportunity, please <a href="/sing">check out our Auditions page!</a>
+Members of Schola Cantorum, along with singers from other performing groups, will also perform this work
+in **Carnegie Hall** on April 23, 2023, under the baton of
+Artistic Director Buddy James. If you&rsquo;d like to attend
+this concert, tickets are available now at the <a href="https://www.carnegiehall.org/Calendar/2023/04/23/New-England-Symphonic-Ensemble-0200PM" target="_blank">Carnegie Hall web site</a>.
