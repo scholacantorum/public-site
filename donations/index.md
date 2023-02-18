@@ -36,12 +36,6 @@ If you wish to donate using funds in your PayPal account, use this button:
 <form action="https://www.paypal.com/donate" method="post" target="_top" style="margin-top:-1rem"><input type="hidden" name="hosted_button_id" value="8KCPPTT8JCA26" /><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="Donate via PayPal" alt="Donate via PayPal button" /></form>
 If you will be using a credit card, we ask you to use the blue “Donate Online” button above rather than PayPal, because PayPal’s processing fees are much higher.
 
-**Donate while you shop at Amazon:**  
-If you shop at Amazon, visit [smile.amazon.com](https://smile.amazon.com) to do
-your shopping.  Amazon will donate 0.5% of your purchase to the charity of your
-choice.  When asked to choose a charity, search for "Schola Cantorum", and
-choose the one in Mountain View, CA.
-
 **Donate while you shop anywhere:**  
 Schola Cantorum is part of the **eScrip program**.  By joining eScrip, you
 contribute to Schola Cantorum every time you use your credit card, and it
