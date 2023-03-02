@@ -8,6 +8,7 @@ weight: 4
 <tr><th>Scott McKim</th><td>Treasurer</td></tr>
 <tr><th>Sharon Hoyt</th><td> Secretary and Singer Council President</td></tr>
 <tr><th>Karen Boyd</th><td>Singer Council Vice President</td></tr>
+<tr><th>Melanie Ercoli</th><tr>
 <tr><th>David Hibbert</th></tr>
 <tr><th>Beverly Hansberry</th></tr>
 <tr><th>David Jones</th></tr>
