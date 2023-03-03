@@ -27,7 +27,7 @@ at <b>Villa Ragusa</b>, 35&nbsp;South&nbsp;2nd&nbsp;Street,&nbsp;Campbell</div>
   Master of Ceremonies &mdash; Rachael&nbsp;Berman<br>
   Soundtrack &mdash; Steve Wozniak, Sound&nbsp;in&nbsp;Motion
 </div>
-<div style="white-space:pre-line;margin-top:1rem">
+<div style="margin-top:1rem">
 Complimentary wine and champagne<br>
 Silent Auction • Seated Dining • Fund-a-Need<br>
 Portrait photography by George Paganini</div>
