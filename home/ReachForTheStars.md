@@ -10,7 +10,7 @@ resources:
 <a href="/gala">{{% imgfullwidth "ReachForTheStars.png" "Reach for the Stars!" %}}</a>
 
 **Saturday, April 15, 2023** from&nbsp;6:30&nbsp;pm&nbsp;to&nbsp;10:30&nbsp;pm
-at **Villa Ragusa<**, 35&nbsp;South&nbsp;2nd&nbsp;Street,&nbsp;Campbell
+at **Villa Ragusa**, 35&nbsp;South&nbsp;2nd&nbsp;Street,&nbsp;Campbell
 
 Do you remember the first time you saw the stars?
 _Really_ saw them, with the Milky Way flowing across the sky?
