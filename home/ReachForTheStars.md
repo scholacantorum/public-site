@@ -1,10 +1,12 @@
 ---
+title: &nbsp;
 description: >
   A heavenly evening of exploration and celebration to benefit Schola Cantorum
 weight: 2
 resources:
   - src: /home/ReachForTheStars.png
     name: ReachForTheStars.png
+    title: Reach for the Stars!
 ---
 
 <a href="/gala">{{% imgfullwidth "ReachForTheStars.png" "Reach for the Stars!" %}}</a>
