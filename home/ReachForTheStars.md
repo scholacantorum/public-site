@@ -1,5 +1,5 @@
 ---
-title: &nbsp;
+title: \u00a0
 description: >
   A heavenly evening of exploration and celebration to benefit Schola Cantorum
 weight: 2
