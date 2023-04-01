@@ -10,6 +10,6 @@ buyTickets: true
 ---
 
 A richly encompassing concert with works evocative of its title!
-Divided into three parts, Schola Cantorum will explore traditional and modern compositions
-that take the listener on a journey of contemplation of the Moon, the Stars, and, finally, a new
+Schola Cantorum explores traditional and modern compositions
+that take us on a journey of contemplation of the Moon, the Stars, and, finally, a new
 day with Sunrise.
