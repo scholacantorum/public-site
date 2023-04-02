@@ -11,5 +11,5 @@ buyTickets: true
 
 A richly encompassing concert with works evocative of its title!
 Schola Cantorum explores traditional and modern compositions
-that take us on a journey of contemplation of the Moon, the Stars, and, finally, a new
-day with Sunrise.
+that take us on a journey of contemplation of the Moon, the Stars,
+and, finally, a new day with Sunrise.
