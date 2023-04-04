@@ -3,7 +3,7 @@ description: >
   A heavenly evening of exploration and celebration to benefit Schola Cantorum
 weight: 4
 layout: gala
-galaForm: true
+galaForm: false
 resources:
 - src: image.png
 aliases:
@@ -28,9 +28,6 @@ Portrait photography by George Paganini</div>
 <div style="margin-top:1rem"
 >Dress in evening wear or in your favorite outfit for exploring the heavens!
 </div>
-<div style="font-weight:bold;margin-top:1.25rem">
-  <a href="#register">Register by Monday, April 3</a>
-</div>
-  <div style="margin-top:1.25rem"><b>BONUS:</b> <i>Register by <b>Friday, March 17</b>,
-    and receive a voucher for a free cocktail!</i>
+<div style="margin-top:1.25rem;font-weight:bold">
+  Registration for this event is now closed. We hope to see you next year!
 </div>
