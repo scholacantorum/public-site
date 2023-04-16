@@ -5,9 +5,9 @@ description: >
 weight: 2
 venue: laumc
 resources:
-  - src: image.png
+  - src: image.jpg
     title: Summer Sings
 buyTickets: true
 ---
 
-{{% imgfullwidth "image.png" "Schola 2023 Summer Sings" %}}
+{{% imgfullwidth "image.jpg" "Schola 2023 Summer Sings" %}}
