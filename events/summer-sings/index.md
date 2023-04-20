@@ -10,4 +10,25 @@ resources:
 buyTickets: true
 ---
 
-{{% imgfullwidth "image.jpg" "Schola 2023 Summer Sings" %}}
+<p><b>Fill your Monday nights with music and friends!</b><br>
+ Join us this summer for our annual sing-alongs of beloved choral masterworks.
+ You bring the voice; we supply the scores and the accompaniment; and a variety of local conductors stitch it all
+ together.</p>
+
+<p>Admission is $20 for each sing, or you can purchase a <b><i>FLEXPass</i></b> that
+ gives six entries for $100. Use it for one entry to each of the six sings, or
+ six entries to one sing, or any mixture. (Students under 25 get free admission
+ with ID.)</p>
+
+<p><i>For the safety of all participants, attendees will be required to comply with current masking requirements.</i></p>
+
+ <div class="concerttable">
+     <div style="line-height:1.2">
+         <b>7:30pm Mondays July 10 – August 14</b><br>
+         Los Altos United Methodist Church<br>
+         655 Magdalena Avenue, Los Altos<a class="venuemap" target="_blank" href="https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09db205b:0x3cb6a0075024dc76!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3604399!4d-122.09889">Map</a><br>
+     </div>
+     <div style="margin-top:8px">
+         {{% buy-tickets "Summer Sings Tickets" "summer-sings-2023" "ticket-2023-07-10" "ticket-2023-07-17" "ticket-2023-07-24" "ticket-2023-07-31" "ticket-2023-08-07" "ticket-2023-08-14" %}}
+     </div>
+ </div>
