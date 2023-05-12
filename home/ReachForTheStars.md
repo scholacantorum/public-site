@@ -1,5 +1,4 @@
 ---
-title: Reach for the Stars!
 weight: 3
 resources:
   - name: ReachForTheStars.png
