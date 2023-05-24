@@ -32,3 +32,52 @@ buyTickets: true
          {{% buy-tickets "Summer Sings Tickets" "summer-sings-2023" "ticket-2023-07-10" "ticket-2023-07-17" "ticket-2023-07-24" "ticket-2023-07-31" "ticket-2023-08-07" "ticket-2023-08-14" %}}
      </div>
  </div>
+  <div id="summer-sing-table">
+      <div class="summer-sing dated-event" data-event-date="2023-07-10">
+          <div class="date">July 10</div>
+          <div class="piece">TBS</div>
+      </div>
+      <div class="summer-sing dated-event" data-event-date="2023-07-17">
+          <div class="date">July 17</div>
+          <div class="piece">Brahms <i>Ein Deutsches Requiem</i></div>
+          <div class="spacer"></div>
+          <div class="conductor">Scot Hanna-Weir</div>
+          <div class="conductor-credits">Artistic Director, Santa Clara Chorale<br>
+            Director of Choral Activities, Santa Clara University</div>
+      </div>
+      <div class="summer-sing dated-event" data-event-date="2023-07-24">
+          <div class="date">July 24</div>
+          <div class="piece">Mozart <i>Coronation Mass</i></div>
+          <div class="piece">Mozart <i>Ave Verum Corpus</i></div>
+          <div class-"piece">Schubert <i>Mass in G</i></div>
+          <div class="spacer"></div>
+          <div class="conductor">Michael Najar</div>
+          <div class="conductor-credits">Choral Director, Palo Alto High School</div>
+      </div>
+      <div class="summer-sing dated-event" data-event-date="2023-07-31">
+          <div class="date">July 31</div>
+          <div class="piece">Durufl&eacute; <i>Requiem</i></div>
+          <div class="piece">Vaughan Williams <i>Dona Nobis Pacem</i></div>
+          <div class="spacer"></div>
+          <div class="conductor">Lou de la Rosa</div>
+          <div class="conductor-credits">Director of Choral &amp; Vocal Studies, West Valley College</div>
+      </div>
+      <div class="summer-sing dated-event" data-event-date="2023-08-07">
+          <div class="date">August 7</div>
+          <div class="piece">Vivaldi <i>Gloria</i></div>
+          <div class="piece">Haydn <i>Lord Nelson Mass</i></div>
+          <div class="spacer"></div>
+          <div class="conductor">Eileen Chang</div>
+          <div class="conductor-credits">Founder &amp; Artistic Director, The New Choir<br>
+          Associate Artistic Director, Cantabella Children&rsquo;s Chorus</div>
+      </div>
+      <div class="summer-sing dated-event" data-event-date="2023-08-14">
+          <div class="date">August 14</div>
+          <div class="piece">Faur&eacute; <i>Requiem</i></div>
+          <div class="piece">Lauridsen <i>Lux Aeterna</i></div>
+          <div class="spacer"></div>
+          <div class="conductor">Buddy James</div>
+          <div class="conductor-credits">Artistic Director, Schola Cantorum Silicon Valley<br>
+          Chair, Department of Music, California State University East Bay</div>
+      </div>
+ </div>
