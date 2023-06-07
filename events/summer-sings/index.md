@@ -35,7 +35,13 @@ buyTickets: true
   <div id="summer-sing-table">
       <div class="summer-sing dated-event" data-event-date="2023-07-10">
           <div class="date">July 10</div>
-          <div class="piece">TBS</div>
+        <div class="piece">Mozart <i>Requiem</i></div>
+        <div class="piece">Brahms <i>Schicksalslied</i></div>
+        <div class="piece">Beethoven &ldquo;Hallelujah&rdquo; from <i>The Mount of Olives</i></div>
+        <div class="conductor">Buddy James</div>
+        <div class="conductor-credits">Artistic Director, Schola Cantorum Silicon Valley<br>
+          Chair, Department of Music, California State University East Bay</div>
+        
       </div>
       <div class="summer-sing dated-event" data-event-date="2023-07-17">
           <div class="date">July 17</div>
@@ -59,7 +65,7 @@ buyTickets: true
           <div class="piece">Durufl&eacute; <i>Requiem</i></div>
           <div class="piece">Vaughan Williams <i>Dona Nobis Pacem</i></div>
           <div class="spacer"></div>
-          <div class="conductor">Lou de la Rosa</div>
+          <div class="conductor">Lou De La Rosa</div>
           <div class="conductor-credits">Director of Choral &amp; Vocal Studies, West Valley College</div>
       </div>
       <div class="summer-sing dated-event" data-event-date="2023-08-07">
