@@ -14,6 +14,7 @@ Artistic Director (AD) and Board of Directors to manage operations and ensure
 financial success.
 
 **Duties**
+
 + Manage Schola’s day-to-day operations
 + Manage bookkeeper, and volunteer webmaster, music librarian, graphic artist...
 + Assist AD in developing programs, performances, and other artistic activities
@@ -21,6 +22,7 @@ financial success.
 + Drive Schola’s financial success including grant applications and donor management
 
 **Skills and Knowledge**
+
 + Organize and manage multiple concurrent projects; prioritize work and meet deadlines
 + Communicate effectively orally and in writing
 + Leadership and delegation experience
@@ -29,6 +31,7 @@ financial success.
 + Knowledge of business finance
 
 **Other requirements**
+
 + Has California driver’s license, insurance with appropriate limits, and
   willingness to use personal auto for occasional business use
 + Carry moderately heavy material (25–30 pounds)
