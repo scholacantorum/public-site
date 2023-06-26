@@ -1,16 +1,14 @@
 ---
-title: Season 59
-weight: 2
+title: Join Us This Summer!
+weight: 1
 resources:
-  - name: sun_moon_stars.png
-    src: /home/sun_moon_stars.png
-    title: Light, Love, the Moon and the Stars
+  - name: summer-sings-2023.jpg
+    src: summer-sings-2023.jpg
+    title: Summer Sings 2023
 ---
 
-<a href="/concerts/">{{% imgfullwidth "sun_moon_stars.png" "Light, love, the Moon and the Stars" %}}</a>
+<a href="/summer-sings/">{{% imgfullwidth "summer-sings-2023.jpg" "Schola Summer Sings 2023" %}}</a>
 
-Schola&rsquo;s 59th season was a celebration of _**Light, Love, the Moon, and the Stars**_!
-Our first concert, _**¡Amor!**_, highlighted the beauty of the Latin American musical tradition and the Spanish language.
-After a celebration of the music of the holiday season in December, our March concert focused on **Light**
-with Morton Lauridsen&rsquo;s ethereal _Lux Aeterna_, while our May concert explored **the Sun, the Moon, and the Stars**.
-Check out the program for the May concert <a href="https://express.adobe.com/page/cojFPsrlcJRR4/" target="_blank">here!</a>
+Do you love to sing? Love the choral classics? Then come join Schola this summer and sing some of the greatest classics
+in the choral repertoire, under the direction of six of the area&rsquo;s most enthusiastic and respected choral conductors.
+<a href="/summer-sings/">Buy your tickets here!</a>
