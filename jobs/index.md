@@ -1,10 +1,6 @@
 ---
 title: Employment Offers
 description: Become an employee of Schola Cantorum.
-menu:
-  dropdown:
-    title: Employment Offers
-    weight: 25
 ---
 # Schola Cantorum Is Hiring!
 
