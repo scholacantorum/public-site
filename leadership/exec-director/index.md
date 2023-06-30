@@ -1,5 +1,5 @@
 ---
-title: Anne K. Hill, <i>Executive Director</i>
+title: Anne Hill, <i>Executive Director</i>
 weight: 3
 ---
 
