@@ -1,16 +1,22 @@
 ---
-title: I was Glad!
+title: I Was Glad!
 description: >
   Bernstein &amp; Kirchner
 weight: 1
 resources:
 - src: image.png
-  title: I was Glad!
+  title: I Was Glad!
 buyTickets: true
 ---
 
-Leonard Bernstein&rsquo;s beloved choral classic _Chichester Psalms_, with organ, harp, percussion, and boy soprano,
-will be performed alongside the premier complete performance of the organ and harp version of Shawn Kirchner&rsquo;s
-melodious and inspiring _Songs of Ascent_. This concert of Psalm settings will take listeners on an emotional journey
-as relevant today as the day the Psalms were written, with both works concluding with text from Psalm 133,
+This concert of Psalm settings will take listeners on an emotional journey,
+with a message as relevant today as the day the Psalms were written. 
+
+Leonard Bernstein&rsquo;s exquisite choral classic _Chichester Psalms_ includes organ, harp, percussion, and boy soprano.
+Bernstein described the music as &ldquo;forthright, songful, rhythmic and youthful.&rdquo;
+
+The ten Psalms in Shawn Kirchner&rsquo;s melodious and inspiring _Songs of Ascent_, presented here in the premier performance of its organ and harp arrangement, take us &ldquo;from estrangement to reconcilation, dispersal to reunion, and anticipation to culmination.&rdquo;
+
+Both works conclude with text from Psalm 133,
 &ldquo;Behold, how good and how pleasant it is for brethren to dwell together in unity.&rdquo;
+
