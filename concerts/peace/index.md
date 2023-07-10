@@ -9,6 +9,6 @@ resources:
 buyTickets: true
 ---
 
-Ring in the holidays with Schola Cantorum! Music and sing-alongs from many faiths and traditions,
-both familiar and new, will be offered by Schola Cantorum and special guests in a very special
-event to celebrate the holiday season and prepare us for a new year!
+Ring in the holidays with music and sing-alongs from many faiths and traditions. 
+Special guests join Schola with familiar and new favorites.
+Celebrate the holiday season and prepare for tha new year!
