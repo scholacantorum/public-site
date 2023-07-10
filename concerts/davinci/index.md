@@ -9,6 +9,11 @@ resources:
 buyTickets: true
 ---
 
-The brilliance of Leonardo da Vinci is brought to life through his words and drawings and the stunning visuals 
-of his notebooks in an unforgettable multimedia concert experience. Using cutting edge video syncing technology, 
-Schola Cantorum and our orchestra will set a new high-water mark in immersive, mesmerizing choral concertizing.
+Leonardo da Vinci&rsquo;s brilliance is brought to life through his words and drawings. 
+Using cutting-edge technology, Schola synchronizes dramatic choral and orchestral music 
+with stunning visuals of Leonardo&rsquo;s notebooks
+for an unforgettable multimedia experience.
+
+Leonardo himself, whose genius encompassed both science and art, 
+would be proud of this combination of technology and music!
+
