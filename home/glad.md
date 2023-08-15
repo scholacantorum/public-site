@@ -1,6 +1,6 @@
 ---
 title: I Was Glad!
-weight: 3
+weight: 2
 resources:
   - name: i_was_glad.png
     src: i_was_glad.png
