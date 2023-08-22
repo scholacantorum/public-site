@@ -11,4 +11,4 @@ buyTickets: true
 
 Ring in the holidays with music and sing-alongs from many faiths and traditions. 
 Special guests join Schola with familiar and new favorites.
-Celebrate the holiday season and prepare for tha new year!
+Celebrate the holiday season and prepare for the new year!

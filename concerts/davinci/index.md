@@ -10,7 +10,7 @@ buyTickets: true
 ---
 
 Leonardo da Vinci&rsquo;s brilliance is brought to life through his words and drawings. 
-Using cutting-edge technology, Schola synchronizes dramatic choral and orchestral music 
+Using cutting-edge technology, Schola synchronizes dramatic choral and orchestral music by Jocelyn Hagen 
 with stunning visuals of Leonardo&rsquo;s notebooks
 for an unforgettable multimedia experience.
 
