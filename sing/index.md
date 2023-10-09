@@ -10,10 +10,11 @@ menu:
 
 # Sing with Schola Cantorum!
 
-Historic **Schola Cantorum Silicon Valley** is preparing to welcome new singers for its 60th season!
+Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 60th season!
 
 <h2>Auditions</h2>
-<p>Schola Cantorum will next welcome new singers in August 2023. Interested singers are invited to <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1dqVpEPMtolVz3M7E9Ylnaj9d2qktplRTJU7hsLfMGhDQww/viewform" target="_blank">complete this online form</a> and attend an open rehearsal on Monday, August 28 and/or Monday, September 11 at 7:15pm at <a href="https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09db205b:0x3cb6a0075024dc76!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3604399!4d-122.09889" target="_blank">Los Altos United Methodist Church</a>. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one vocal interview/audition with the Artistic Director.</p>
+<p>Schola Cantorum will next welcome new singers in January 2024. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one vocal interview/audition with the Artistic Director. Check back with us in December for more details.
+</p>
 
 <p>Vocal interviews include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized. Here is a short video where our Artistic Director, Buddy James, discusses the audition process.</p>
 
@@ -35,10 +36,10 @@ Historic **Schola Cantorum Silicon Valley** is preparing to welcome new singers 
  <p>Schola Cantorum aspires to be as diverse as Silicon Valley. Our ranks include working professionals, artists, entrepreneurs, retirees, and college students. Schola Cantorum is a supportive and inclusive ensemble that welcomes people of all ages, ethnicities, orientations, and backgrounds.</p>
   </li>
    <li><b>When and where are rehearsals?</b>
-    <p>Weekly rehearsals are held on Monday evenings from 7:15 to approximately 10:00 pm at the <a href="https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09db205b:0x3cb6a0075024dc76!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3604399!4d-122.09889" target="_blank">Los Altos United Methodist Church</a>. There are also one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches, as well as one or two Saturday retreats, usually in September and February.</p>
+    <p>Weekly rehearsals are held on Monday evenings from 7:30 to approximately 10:00 pm at the <a href="https://www.google.com/maps/place/Los+Altos+United+Methodist+Church/@37.3604399,-122.1163995,14z/data=!4m13!1m7!3m6!1s0x808fb13b09db205b:0x3cb6a0075024dc76!2s655+Magdalena+Ave,+Los+Altos,+CA+94024!3b1!8m2!3d37.3604399!4d-122.09889!3m4!1s0x808fb13baf46a387:0xcfbef6958c3a62d!8m2!3d37.3604399!4d-122.09889" target="_blank">Los Altos United Methodist Church</a>. There are also one or two additional rehearsals during the week immediately preceding a concert, which will be announced as the concert approaches, as well as one or two Saturday retreats, usually in September and February.</p>
   </li>
   <li><b>How often does Schola perform?</b>
-    <p>Schola performs four full concerts each year and gives one or two performances of each concert. Typically, we sing a concert at the end of October/beginning of November, a holiday concert in mid-December, a concert at the beginning of March, and a final concert towards the end of May.</p>
+    <p>Schola performs four full concerts each year and gives one or two performances of each concert. Typically, we sing a concert at the end of October/beginning of November, a holiday concert in mid-December, a concert at the beginning of March, and a final concert towards the end of May or early June.</p>
   </li>
   <li><b>Where does Schola Cantorum perform?</b>
     <p>We usually perform in the northern part of Santa Clara County (such as Palo Alto and Los Altos), with occasional performances elsewhere in the Bay Area. Past venues have included Stanford Memorial Church, Mission Santa Clara, and the Cathedral Basilica of St. Joseph in San Jose.</p>
@@ -72,7 +73,7 @@ Historic **Schola Cantorum Silicon Valley** is preparing to welcome new singers 
     <p>As a 501&#40;c&#41;(3) organization, member donations are important to help us grow and thrive. The suggested donation for the opportunity to sing in Schola Cantorum is $350 per singer for the year. We strive for donations from 100% of our membership, but no singer is ever turned away for lack of funds.</p>
   </li>
   <li><b>What do we wear when we perform?</b>
-  <p>The standard performing attire is either a tuxedo with a pleated shirt and a wing collar, or a specific dress selected by Schola&rsquo;s Wardrobe Committee. Singers are expected to purchase their own concert attire, but again, no singer is ever turned away for lack of funds.</p>
+  <p>The standard performing attire is black dress pants and black button down dress shirt, or a floor length black dress. Singers are expected to purchase their own concert attire, but again, no singer is ever turned away for lack of funds.</p>
   </li>
   <li><b>How often will I need to re-audition?</b>
     <p>To maintain the musical standards of the chorus, all singers will be asked to sing privately for the Artistic Director every few years.</p>
