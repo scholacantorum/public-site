@@ -13,7 +13,7 @@ menu:
 Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 60th season!
 
 <h2>Auditions</h2>
-<p>Schola Cantorum will next welcome new singers in January 2024. Singers will have the opportunity to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one vocal interview/audition with the Artistic Director. Check back with us in December for more details.
+<p>Schola Cantorum will next welcome new singers in January 2024. Prospective singers are invited to an open rehearsal at 7:30 p.m. on Monday, January 8, 2024 to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one vocal interview/audition with the Artistic Director.
 </p>
 
 <p>Vocal interviews include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized. Here is a short video where our Artistic Director, Buddy James, discusses the audition process.</p>
