@@ -23,3 +23,4 @@ When you purchase a **_FLEXPass_** for Schola Cantorum&rsquo;s 60th Season, you&
   season concerts&mdash;you choose which ones. Bring your friends!
   
 {{% buy-tickets "Buy FLEXPass" "subscription-2023-24" %}}
+{{% youthnote %}}
