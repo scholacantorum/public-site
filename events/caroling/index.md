@@ -8,4 +8,7 @@ resources:
   title: Outreach
 ---
 
-Members of Schola Cantorum invite you to join us at the Los Altos History Museum on **Wednesday, November 15**, at **1:15 pm** for an early holiday celebration!
+Members of Schola Cantorum invite you to join us at the
+<a href="https://www.losaltoshistory.org/events/catch-the-spirit-9/"
+target="_blank">Los Altos History Museum</a>
+on **Wednesday, November 15**, at **1:15 pm** for an early holiday celebration!
