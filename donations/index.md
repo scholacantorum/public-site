@@ -16,32 +16,20 @@ aliases:
 Schola Cantorum is dedicated to providing great music to you and your community
 through concerts, kids’ educational programs, free visits to senior centers, and
 fun singing afternoons for all.  We also commission new works by local
-composers.  This keeps choral music alive and growing.
+composers. This keeps choral music alive and growing.
 
 As a nonprofit, we’re dependent upon the generosity of our donors.  And
-donations to Schola are tax deductible for most people.  So why wait?  There are
+donations to Schola are tax deductible for most people. So why wait? There are
 many ways that you can donate!
 
 {{< donationform >}}
 
 **Donate by phone.**  
-Call our office at (650) 254–1700.  If we aren’t in the office, just leave a
+Call our office at (650) 254–1700. If we aren’t in the office, just leave a
 message and a suggested time for us to return your call.
 
 **Send a check,** payable to Schola Cantorum.  
 Our address is 2218 Old Middlefield Way Suite G, Mountain View, CA 94043.
-
-**Donate via PayPal.**  
-If you wish to donate using funds in your PayPal account, use this button:
-<form action="https://www.paypal.com/donate" method="post" target="_top" style="margin-top:-1rem"><input type="hidden" name="hosted_button_id" value="8KCPPTT8JCA26" /><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="Donate via PayPal" alt="Donate via PayPal button" /></form>
-If you will be using a credit card, we ask you to use the blue “Donate Online” button above rather than PayPal, because PayPal’s processing fees are much higher.
-
-**Donate while you shop anywhere:**  
-Schola Cantorum is part of the **eScrip program**.  By joining eScrip, you
-contribute to Schola Cantorum every time you use your credit card, and it
-doesn’t cost you a penny!  Just visit [eScrip.com](http://www.escrip.com/) to
-sign up!  Schola Cantorum is registered with eScrip as “Schola Cantorum – School
-of Singing,” and Schola Cantorum’s group number is **500001336**.
 
 **Sponsor a concert:**  
 *See your name in our program!*  Schola Cantorum has a range of concert
@@ -53,18 +41,18 @@ individuals.  For concert sponsorship details, call our office at (650)
 Donating appreciated stocks and securities to Schola Cantorum can offer you a
 tax-efficient alternative way to support Schola Cantorum’s programs.  By making
 an appreciated stock donation, **you will escape any capital gains taxes on
-those stocks**.  In addition, if your tax circumstances permit, you can **deduct
+those stocks**. In addition, if your tax circumstances permit, you can **deduct
 the current market value of the gift** for income tax purposes, just as if you
-had made a cash donation.  The after-tax cost of making your charitable gift may
+had made a cash donation. The after-tax cost of making your charitable gift may
 be less with a gift of appreciated stocks than with cash.  Call our office for
 details at (650) 254–1700.
 
 **Make a final gift** with the Schola Cantorum Legacy program:  
 Do you want to be remembered for your generosity to the joy of music for all in
 Silicon Valley?  Consider using your will to give a final gift to Schola
-Cantorum.  Donations from the estates of Schola supporters have become an
+Cantorum. Donations from the estates of Schola supporters have become an
 important gift to Schola’s mission and music.  You don’t need to be wealthy to
-make a difference for Schola Cantorum.  Just call our office at (650) 254‑1700
+make a difference for Schola Cantorum. Just call our office at (650) 254‑1700
 to set up an appointment to discuss Legacy donations to Schola Cantorum.
 
 Schola Cantorum is a 501\(c)(3) non-profit organization.  Our tax ID number is
