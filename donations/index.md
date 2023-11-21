@@ -34,7 +34,8 @@ Our address is 2218 Old Middlefield Way Suite G, Mountain View, CA 94043.
 **Donate via PayPal:**  
 If you wish to donate using funds in your PayPal account, use this button:
 <form action="https://www.paypal.com/donate" method="post" target="_top" style="margin-top:-1rem"><input type="hidden" name="hosted_button_id" value="8KCPPTT8JCA26" /><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="Donate via PayPal" alt="Donate via PayPal button" /></form>
-If you will be using a credit card, we ask you to use the blue “Donate Online” button above rather than PayPal, because PayPal’s processing fees are much higher.
+If you will be using a credit card, we ask you to use the blue “Donate Online” button above rather than PayPal, 
+because PayPal’s processing fees are much higher.<p></p>
 
 **Sponsor a concert:**  
 *See your name in our program!*  Schola Cantorum has a range of concert
