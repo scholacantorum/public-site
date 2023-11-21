@@ -24,12 +24,17 @@ many ways that you can donate!
 
 {{< donationform >}}
 
-**Donate by phone.**  
+**Donate by phone:**  
 Call our office at (650) 254–1700. If we aren’t in the office, just leave a
 message and a suggested time for us to return your call.
 
 **Send a check,** payable to Schola Cantorum.  
 Our address is 2218 Old Middlefield Way Suite G, Mountain View, CA 94043.
+
+**Donate via PayPal:**  
+If you wish to donate using funds in your PayPal account, use this button:
+<form action="https://www.paypal.com/donate" method="post" target="_top" style="margin-top:-1rem"><input type="hidden" name="hosted_button_id" value="8KCPPTT8JCA26" /><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="Donate via PayPal" alt="Donate via PayPal button" /></form>
+If you will be using a credit card, we ask you to use the blue “Donate Online” button above rather than PayPal, because PayPal’s processing fees are much higher.
 
 **Sponsor a concert:**  
 *See your name in our program!*  Schola Cantorum has a range of concert
@@ -51,7 +56,7 @@ details at (650) 254–1700.
 Do you want to be remembered for your generosity to the joy of music for all in
 Silicon Valley?  Consider using your will to give a final gift to Schola
 Cantorum. Donations from the estates of Schola supporters have become an
-important gift to Schola’s mission and music.  You don’t need to be wealthy to
+important gift to Schola’s mission and music. You don’t need to be wealthy to
 make a difference for Schola Cantorum. Just call our office at (650) 254‑1700
 to set up an appointment to discuss Legacy donations to Schola Cantorum.
 
