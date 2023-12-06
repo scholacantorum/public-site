@@ -16,3 +16,5 @@ We will sing the Christmas section of _Messiah_, plus other favorite movements f
 Come join us in a jubilant celebration of the season!
 
 _For the safety of all participants, attendees will be required to comply with current masking requirements._
+
+Sponsored by Candy Pelissero & Brian Larsen, Jay Loucks, Tineke Graafland-Ehrman, and Rob & Catherine Lyman.
