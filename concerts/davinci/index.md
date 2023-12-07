@@ -17,3 +17,4 @@ for an unforgettable multimedia experience.
 Leonardo himself, whose genius encompassed both science and art, 
 would be proud of this combination of technology and music!
 
+Sponsored by David Jones & Ann Yvonne Walker and Steve Hanna.
