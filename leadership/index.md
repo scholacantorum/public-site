@@ -8,8 +8,6 @@ menu:
 resources:
 - src: asst-conductor/image.jpg
   title: Dawn Horst Reyen
-- src: exec-director/image.png
-  title: Daniel Morris
 - src: artistic-director/image.png
   title: Buddy James
 ---
