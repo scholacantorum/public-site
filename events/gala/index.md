@@ -37,5 +37,5 @@ Portrait photography by George Paganini
 </div>
 
 <div style="font-weight:bold;margin-top:1.25rem">
-Registration opens April 5, 2024
+Registration opens March 26, 2024.
 </div>
