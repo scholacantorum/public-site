@@ -7,7 +7,7 @@ layout: gala
 galaForm: true
 resources:
 - src: image.png
-  title: Messiah Sing
+  title: Rennaissance
 aliases:
 - /gala
 - /Gala
