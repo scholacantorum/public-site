@@ -11,4 +11,4 @@ buyTickets: true
 
 <a href="/concerts/celtic/">{{% imgfullwidth "celtic.png" "Celtic Celebrations" %}}</a>
 
-Don your green and join Schola Cantorum for an Irish <a href="/concerts/celtic/">_c&egrave;ilidh_</a> to celebrate this jubilant holiday!
+Don your green and join Schola Cantorum for an Irish <a href="/concerts/celtic/">_c&egrave;ili_</a> to celebrate this jubilant holiday!
