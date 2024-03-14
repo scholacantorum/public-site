@@ -29,7 +29,7 @@ Call our office at (650) 254–1700. If we aren’t in the office, just leave a
 message and a suggested time for us to return your call.
 
 **Send a check,** payable to Schola Cantorum.  
-Our address is 2218 Old Middlefield Way Suite G, Mountain View, CA 94043.
+Our address is 650-B Fremont Avenue, Suite 321, Los Altos, CA 94024.
 
 **Donate via PayPal:**  
 If you wish to donate using funds in your PayPal account, use this button:
