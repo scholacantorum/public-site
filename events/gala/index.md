@@ -15,7 +15,7 @@ aliases:
 ---
 
 <div style="line-height:1.2;text-align:center;font-family:sans-serif">
-  <h1 style="font-family:Brush Script MT,Arial,Helvetica,sans-serif">Springtime Renaissance</h1>
+  <h1 style="font-family:Brush Script MT,Arial,Helvetica,sans-serif">Springtime Renaissance Gala</h1>
   <div>
     Join us for an unforgettable evening of Italian Renaissance celebration and
     merriment at the elegant <b>Saratoga Country Club</b>.
