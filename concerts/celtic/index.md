@@ -9,6 +9,6 @@ resources:
 buyTickets: true
 ---
 
-Celebrate this jubilant holiday weekend with Schola Cantorum&rsquo;s version of a _c&egrave;ili_&mdash;a party with dancing, music, food and drink! Enjoy haunting ballads, dances, and popular songs filled with merriment. Schola Cantorum invites you to don your green and join us for this can&rsquo;t-sit-still concert celebration.
+We donned our green, sang, danced, and had delicious food afterwards to celebrate this jubilant holiday weekend with Schola Cantorum&rsquo;s version of a _c&egrave;ili_&mdash;a party with dancing, music, food and drink! There were haunting ballads, dances, and popular songs filled with merriment. 
 
 Sponsored by Beverly Hansberry and Scott McKim.
