@@ -1,14 +1,15 @@
 ---
-title: Join Us This Summer!
+title: Season 60
 weight: 1
 resources:
-  - name: summer-sings-2023.jpg
-    src: summer-sings-2023.jpg
-    title: Summer Sings 2023
+  - name: sing_for_joy.png
+    src: /home/sing_for_joy.png
+    title: Sing for Joy!
 ---
 
-<a href="/summer-sings/">{{% imgfullwidth "summer-sings-2023.jpg" "Schola Summer Sings 2023" %}}</a>
+<a href="/concerts/">{{% imgfullwidth "sing_for_joy.png" "Sing for Joy!" %}}</a>
 
-Do you love to sing? Love the choral classics? Then come join Schola this summer and sing some of the greatest classics
-in the choral repertoire, under the direction of six of the area&rsquo;s most enthusiastic and respected choral conductors.
-<a href="/summer-sings/">Buy your tickets here!</a>
+Schola celebrates its 60th season with **Sing for Joy! Psalms, Celebrations, and Inspirations**,
+featuring the uplifting messages of the Psalms, holiday
+music of many faiths, the exuberance of a St. Patrick&rsquo;s Day celebration, and a tribute to the
+genius of Leonardo da Vinci. <a href="/concerts/">Get your tickets now!</a>
