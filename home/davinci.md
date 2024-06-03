@@ -1,7 +1,7 @@
 ---
 title: The Notebooks of Leonardo da Vinci
 description: A multi-media event based on the work of Leonardo da Vinci
-weight: 3
+weight: 2
 resources:
 - src: davinci.png
   title: Notebooks
