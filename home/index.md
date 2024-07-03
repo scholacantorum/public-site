@@ -1,15 +1,17 @@
 ---
-title: Season 60
+title: Summer Sings
 weight: 1
 resources:
-  - name: sing_for_joy.png
-    src: /home/sing_for_joy.png
-    title: Sing for Joy!
+  - name: summer-sings.png
+    src: /home/summer-sings.png
+    title: Summer Sings
 ---
 
-<a href="/concerts/">{{% imgfullwidth "sing_for_joy.png" "Sing for Joy!" %}}</a>
+<a href="/summer-sings/">{{% imgfullwidth "summer-sings.png" "Summer Sings" %}}</a>
 
-Schola celebrates its 60th season with **Sing for Joy! Psalms, Celebrations, and Inspirations**,
-featuring the uplifting messages of the Psalms, holiday
-music of many faiths, the exuberance of a St. Patrick&rsquo;s Day celebration, and a tribute to the
-genius of Leonardo da Vinci. <a href="/concerts/">Get your tickets now!</a>
+**Fill your Monday nights with music and friends!**  
+Join us this summer for our annual sing-alongs of beloved choral masterworks.
+You bring the voice; we supply the scores and the accompaniment; and a variety
+of local conductors stitch it all together.  Monday nights from July 8 through
+August 12.
+<a href="/summer-sings/">Get your tickets now!</a>
