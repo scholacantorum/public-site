@@ -1,17 +1,16 @@
 ---
-title: Summer Sings
+title: 2024–2025 Season
 weight: 1
 resources:
-  - name: summer-sings.png
-    src: /home/summer-sings.png
-    title: Summer Sings
+  - name: encounters.png
+    src: /home/encounters.png
+    title: Encounters!
 ---
 
-<a href="/summer-sings/">{{% imgfullwidth "summer-sings.png" "Summer Sings" %}}</a>
+<a href="/home/Encounters.pdf" target="_blank">{{% imgfullwidth "encounters.png" "Encounters!" %}}</a>
 
-**Fill your Monday nights with music and friends!**  
-Join us this summer for our annual sing-alongs of beloved choral masterworks.
-You bring the voice; we supply the scores and the accompaniment; and a variety
-of local conductors stitch it all together.  Monday nights from July 8 through
-August 12.
-<a href="/summer-sings/">Get your tickets now!</a>
+**Save the dates for our upcoming concert season: *Encounters!***
+Featuring our 60<sup>th</sup> Anniversary concert of Orff’s *Carmina Burana* in
+October, and Mahler’s *Resurrection Symphony* in February.  Download our
+<a href="/home/Encounters.pdf" target="_blank">brochure</a> with all of the
+concert dates.  Tickets will go on sale in August.
