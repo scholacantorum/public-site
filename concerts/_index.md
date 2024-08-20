@@ -1,9 +1,9 @@
 ---
-title: 2023–2024 Season
+title: 2024–2025 Season
 description: >
   Sing for Joy! Psalms, Celebrations, and Inspirations
 ogdesc: >
-  Schola Cantorum's 2023–2024 season
+  Schola Cantorum's 2024–2025 season
 menu:
   main:
     title: Concerts

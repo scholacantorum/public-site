@@ -1,16 +1,14 @@
 ---
-title: Peace on Earth!
+title: The Heart of the Season!
 description: >
-  The 2023 Schola Cantorum Holiday Concert
+  The 2024 Schola Cantorum Holiday Concert
 weight: 2
 resources:
 - src: image.png
-  title: Peace on Earth!
+  title: The Heart of the Season!
 buyTickets: true
 ---
 
 Ring in the holidays with music and sing-alongs from many faiths and traditions. 
 Special guests join Schola with familiar and new favorites.
 Celebrate the holiday season and prepare for the new year!
-
-Sponsored by Joan & David Skurnick and Carrielynn & David Haedtler. 
