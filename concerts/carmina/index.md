@@ -10,4 +10,5 @@ buyTickets: false
 ---
 _Fortune, Empress of the World_
 
-Hear Carl Orff&rsquo;s masterwork _Carmina Burana_ performed by Schola Cantorum and the Palo Alto High School Chorus with dual pianos.
+Hear Carl Orff&rsquo;s masterwork _Carmina Burana_ performed by Schola Cantorum and Singers from the Palo Alto High School Choirs with dual pianos and percussion.
+
