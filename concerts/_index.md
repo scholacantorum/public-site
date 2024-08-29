@@ -14,7 +14,7 @@ menu:
 
 ### Enjoy the flexibility and convenience of *FLEXPass*!
 
-When you purchase a **_FLEXPass_** for Schola Cantorum&rsquo;s 60th Season, you&rsquo;ll receive these great benefits:
+When you purchase a **_FLEXPass_** for Schola Cantorum&rsquo;s 61st Season, you&rsquo;ll receive these great benefits:
 
 * **Special subscriber pricing: 17% off** at-the-door prices.
 * **Convenience:** Print your online QR Code ticket any time, or carry it on
