@@ -10,8 +10,6 @@ menu:
     weight: 1
 ---
 
-<a name="subscriptions"></a>
-
 ### Enjoy the flexibility and convenience of *FLEXPass*!
 
 When you purchase a **_FLEXPass_** for Schola Cantorum&rsquo;s 61st Season, you&rsquo;ll receive these great benefits:
@@ -23,4 +21,5 @@ When you purchase a **_FLEXPass_** for Schola Cantorum&rsquo;s 61st Season, you&
   
 {{% buy-tickets "Buy FLEXPass" "subscription-2024-25" %}}
 {{% youthnote %}}
-_but only for the three Schola Cantorum concerts._
+
+_Excludes Carmina Burana on Oct 27 and Mahler&rsquo;s Resurrection on Feb 16._
