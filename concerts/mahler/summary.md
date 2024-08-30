@@ -1,3 +1,3 @@
-Schola Cantorum is appearing in Redwood Symphony&rsquo;s performance of
-Mahler&rsquo;s Symphony No. 2 _Resurrection_.
+Schola Cantorum joins the Redwood Symphony&rsquo; for a performance of
+Mahler&rsquo;s triumphant Symphony No. 2 _Resurrection_.
 
