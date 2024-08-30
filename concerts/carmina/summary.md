@@ -1,1 +1,1 @@
-Hear Carl Orff&rsquo;s masterwork _Carmina Burana&colon; Fortune, Empress of the World_ performed by Schola Cantorum and Singers from the Palo Alto High School Choirs with dual pianos and percussion.
+Hear Carl Orff&rsquo;s masterwork _Carmina Burana&colon; Fortune, Empress of the World_ performed by Schola Cantorum and Singers from the Palo Alto High School Choirs with two pianos and percussion.
