@@ -1,14 +1,14 @@
 ---
-title: MASS&colon; A Celebration of Joy and Love!
+title: MASS&colon; A Celebration of Love and Joy!
 description: >
-  MASS&colon; A Celebration of Joy and Love!
+  MASS&colon; A Celebration of Love and Joy!
 weight: 5
 resources:
-- src: image.png
-  title: MASS&colon; A Celebration of Joy and Love!
+- src: image.jpg
+  title: MASS&colon; A Celebration of Love and Joy!
 buyTickets: true
 ---
 
 Schola concludes the year with a jubilant performance of Andr&eacute; J. Thomas&rsquo;
-_Mass&colon; A Celebration of Joy and Love!_
+_Mass&colon; A Celebration of Love and Joy!_
 The concert will also feature the world-premiere of a new work from the Schola Cantorum Poetry Contest.
