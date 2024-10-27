@@ -18,3 +18,4 @@ Come join us in a jubilant celebration of the season!
 Everyone is encouraged to sing, including the solos!  Scores will be available
 or you can bring your own.
 
+Sponsored by Joan & David Skurnick and Jo Darius. 
