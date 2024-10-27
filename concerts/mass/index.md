@@ -13,4 +13,4 @@ Schola concludes the year with a jubilant performance of Andr&eacute; J. Thomas&
 _Mass&colon; A Celebration of Love and Joy!_
 The concert will also feature the world premiere of a new work from the Schola Cantorum Poetry Contest.
 
-Sponsored by Beverly Hansberry & Scott McKim. 
+Sponsored by Beverly Hansberry &amp; Scott McKim. 
