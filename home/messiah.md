@@ -1,6 +1,6 @@
 ---
 title: Messiah Sing
-weight: 3
+weight: 2
 resources:
   - name: messiah.png
     src: /home/messiah.png
