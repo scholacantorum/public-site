@@ -9,8 +9,8 @@ resources:
 buyTickets: true
 ---
 
-Ring in the holidays with music and sing-alongs from many faiths and traditions. 
-Special guests join Schola with familiar and new favorites.
-Celebrate the holiday season and prepare for the new year!
+We rang in the holidays with music and sing-alongs from many faiths and traditions. 
+Special guests joined Schola with familiar and new favorites.
+We are ready for the new year!
 
 Sponsored by Carrielynn &amp; David Haedtler and Glenn Serre &amp; Ting Kao. 
