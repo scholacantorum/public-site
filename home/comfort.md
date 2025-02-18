@@ -2,7 +2,7 @@
 title:
 description: >
   Sounds of Comfort with West Valley College Choir
-weight: 4
+weight: 1
 resources:
 - src: /home/comfort.jpg
   title: Sounds of Comfort
