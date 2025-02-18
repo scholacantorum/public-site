@@ -9,6 +9,6 @@ resources:
 buyTickets: true
 ---
 
-Schola Cantorum joins the Redwood Symphony in a performance of
+Schola Cantorum joined the Redwood Symphony in a spectacular performance of
 Mahler&rsquo;s triumphant Symphony No. 2 _Resurrection_.
 
