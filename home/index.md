@@ -1,16 +1,17 @@
 ---
-title: Season 61
+title: April Concert
+description: >
+  Sounds of Comfort with West Valley College Choir
 weight: 1
 resources:
-  - name: encounters.png
-    src: /home/encounters.png
-    title: Encounters!
+- src: /home/comfort.jpg
+  title: Sounds of Comfort
+buyTickets: true
 ---
 
-<a href="/concerts/">Get your tickets now!</a>
+<a href="/concerts/comfort">{{% imgfullwidth "comfort.jpg" "Sounds of Comfort" %}}</a>
 
-<a href="/concerts">{{% imgfullwidth "encounters.png" "Encounters!" %}}</a>
+Join Schola Cantorum, the West Valley College Choir, and soloists for a
+moving performance of Gabriel Faur&eacute;&rsquo;s _Requiem_ accompanied by organ.
 
-Schola celebrates its 61st season with **Encounters! A Season of Collaboration & Celebration**,  featuring our 60th Anniversary concert of Orff’s Carmina Burana, holiday music of many faiths, Mahler’s Resurrection Symphony, Sounds of Comfort, and a Celebration of Love and Joy!
-
-<a href="/concerts/">Get your tickets now!</a>
+{{% buy-tickets "Sounds of Comfort" "ticket-2025-04-11" "subscription-2024-25" %}}
