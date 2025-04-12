@@ -38,6 +38,6 @@ aliases:
   </div>
   <div style="margin-top:1.25rem">
     <b>Early Bird:</b> Register by Monday, March 31 ($190)<br>
-    <b>General:</b> Register by Saturday, April 12 ($215)
+    <b>General:</b> Register by Monday, April 14 ($215)
   </div>
 </div>
