@@ -1,17 +1,18 @@
 ---
-title: April Concert
+title: May Concert
 description: >
-  Sounds of Comfort with West Valley College Choir
+  A Celebration of Love and Joy
 weight: 1
 resources:
-- src: /home/comfort.jpg
+- src: /home/mass.jpg
   title: Sounds of Comfort
 buyTickets: true
 ---
 
-<a href="/concerts/comfort">{{% imgfullwidth "comfort.jpg" "Sounds of Comfort" %}}</a>
+<a href="/concerts/mass">{{% imgfullwidth "mass.jpg" "Mass&colon; A Celebration of Love and Joy!" %}}</a>
 
-Join Schola Cantorum, the West Valley College Choir, and soloists for a
-moving performance of Gabriel Faur&eacute;&rsquo;s _Requiem_ accompanied by organ.
+Schola concludes the year with a jubilant performance of Andr&eacute; J. Thomas&rsquo;s
+_Mass&colon; A Celebration of Love and Joy!_
 
-{{% buy-tickets "Sounds of Comfort" "ticket-2025-04-11" "subscription-2024-25" %}}
+{{% buy-tickets "Mass" "ticket-2025-05-31" "subscription-2024-25" %}}
+
