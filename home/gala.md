@@ -3,7 +3,7 @@ title:
 description: >
   A Night of Music and Magic to benefit Schola Cantorum
   A Celebration of Love and Joy!
-weight: 5
+weight: 2
 resources:
 - src: gala.png
   title: A Night of Music and Magic to benefit Schola Cantorum
