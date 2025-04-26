@@ -1,5 +1,5 @@
 ---
-title: Summer Sings
+title:
 weight: 3
 resources:
   - name: summer-sings.png
