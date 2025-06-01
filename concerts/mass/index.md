@@ -9,7 +9,7 @@ resources:
 buyTickets: true
 ---
 
-Schola concludes the year with a jubilant performance of Andr&eacute; J. Thomas&rsquo;s
-_Mass&colon; A Celebration of Love and Joy!_
+Schola raised the roof with a foot-stomping, hand-clapping Gospel concert that included
+Andr&eacute; J. Thomas&rsquo;s _Mass&colon; A Celebration of Love and Joy!_, a masterful solo performance of _Ride on, King Jesus!_ and other favorites.  
 
 Sponsored by Beverly Hansberry &amp; Scott McKim. 

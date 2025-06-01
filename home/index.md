@@ -1,18 +1,19 @@
 ---
-title:
-description: >
-  A Celebration of Love and Joy
+title: 
 weight: 1
 resources:
-- src: /home/mass.jpg
-  title: Sounds of Comfort
+- src: /home/summer-sings.png
+  title: Summer Sings
 buyTickets: true
 ---
 
-<a href="/concerts/mass">{{% imgfullwidth "mass.jpg" "Mass&colon; A Celebration of Love and Joy!" %}}</a>
+<a href="/summer-sings/">{{% imgfullwidth "summer-sings.png" "Summer Sings" %}}</a>
 
-Schola concludes the year with a jubilant performance of Andr&eacute; J. Thomas&rsquo;s
-_Mass&colon; A Celebration of Love and Joy!_ on Saturday, May 31 at 7:00pm. 
+**Fill your Monday nights with music and friends!**
+Join us this summer for our annual sing-alongs of beloved choral masterworks.
+You bring the voice; we supply the scores and the accompaniment; and a variety
+of local conductors stitch it all together.  Monday nights from July 7 through
+August 11.
+<a href="/summer-sings/">Get your tickets now!</a>
 
-{{% buy-tickets "Mass" "ticket-2025-05-31" "subscription-2024-25" %}}
 
