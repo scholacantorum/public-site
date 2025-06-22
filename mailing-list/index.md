@@ -2,9 +2,9 @@
 title: Mailing Lists
 description: Subscribe to Schola Cantorum’s postal or electronic mailing lists.
 menu:
-  dropdown:
-    title: Join our Mailing List
-    weight: 50
+  main:
+    title: Subscribe
+    weight: 2
 ---
 
 # Mailing Lists
