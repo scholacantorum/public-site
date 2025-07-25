@@ -11,7 +11,7 @@ resources:
 <script type="text/javascript">
     var subdomain = 'scholacantorumsv'; //Site Subdomain
     var showID = ''; //Provide showID if you want to list one specific event
-    var sections = 'all'; //'all' = events & collections; 'events' = only events; 'collections' = only Collections; 'classes' = only Classes
+    var sections = 'collections'; //'all' = events & collections; 'events' = only events; 'collections' = only Collections; 'classes' = only Classes
     var categoryID = ''; //Provide category ID if you want to load events or Classes from a specific category
     var hideNav = 'false'; //'false' = top navigation will be shown on widget load; 'true' = navigation will be hidden
     var width = "100%"; //Setting to 100% allows widget to resize automatically

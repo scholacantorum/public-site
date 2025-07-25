@@ -1,1 +1,0 @@
-A stunning performance of Carl Orff&rsquo;s masterwork _Carmina Burana_ and Eric Whitacre's _Cloudburst_ was performed by Schola Cantorum and Singers from the Palo Alto High School Choirs with two pianos, percussion, and three amazing soloists. 

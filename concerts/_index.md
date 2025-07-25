@@ -1,25 +1,22 @@
 ---
-title: 2024–2025 Season
+title: 2025–2026 Season
 description: >
   Sing for Joy! Psalms, Celebrations, and Inspirations
 ogdesc: >
-  Schola Cantorum's 2024–2025 season
+  Schola Cantorum's 2025–2026 season
 menu:
   main:
     title: Concerts
     weight: 1
 ---
 
-### Enjoy the flexibility and convenience of *FLEXPass*!
 
-When you purchase a **_FLEXPass_** for Schola Cantorum&rsquo;s 61st Season, you&rsquo;ll receive these great benefits:
-
-* **Special subscriber pricing: 17% off** at-the-door prices.
-* **Convenience:** Print your online QR Code ticket any time, or carry it on
-  your mobile device&mdash;no waiting at will-call.
-* **Ticket Flexibility:** Each ***FLEXPass*** is good for three entries to _The Heart of the Season_, _Sounds of Comfort_, or _MASS: A Celebration of Joy and Love!_ &mdash;you choose which ones. Bring your friends!
-  
-{{% buy-tickets "Buy FLEXPass" "subscription-2024-25" %}}
-{{% youthnote %}}
-
-_Excludes Carmina Burana on Oct 27 and Mahler&rsquo;s Resurrection on Feb 16._
+<script type="text/javascript">
+    var subdomain = 'scholacantorumsv'; //Site Subdomain
+    var showID = ''; //Provide showID if you want to list one specific event
+    var sections = 'all'; //'all' = events & collections; 'events' = only events; 'collections' = only Collections; 'classes' = only Classes
+    var categoryID = ''; //Provide category ID if you want to load events or Classes from a specific category
+    var hideNav = 'false'; //'false' = top navigation will be shown on widget load; 'true' = navigation will be hidden
+    var width = "100%"; //Setting to 100% allows widget to resize automatically
+</script>
+<script type="text/javascript" src="https://scholacantorumsv.ludus.com/widget.js"></script>
