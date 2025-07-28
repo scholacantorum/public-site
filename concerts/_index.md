@@ -1,7 +1,7 @@
 ---
-title: 2025–2026 Season
+title: 2025-26 Season
 description: >
-  Sing for Joy! Psalms, Celebrations, and Inspirations
+  Rhythms & Revelations
 ogdesc: >
   Schola Cantorum's 2025–2026 season
 menu:
@@ -10,6 +10,11 @@ menu:
     weight: 1
 ---
 
+Schola Cantorum&rsquo;s 62<sup>nd</sup> season invites you on a journey through music that moves&mdash;body, heart, and spirit. From the infectious rhythms of samba to the driving energy of Appalachian bluegrass, we celebrate cultures where music pulses with life. At the heart of the season, *Elijah* and *Come From the Skies: A High Lonesome Mass* offer powerful reflections through music shaped by faith, resilience, and revelation.
+
+We round out the year with holiday cheer&mdash;from a movie-magic spin on seasonal classics to our beloved *Messiah* Sing, now in its 59<sup>th</sup> year. Whether you&rsquo;re a longtime listener or a first-time singer, we hope you&rsquo;ll find connection, curiosity, and community in every note.
+
+Feel the rhythm. Find your revelation. Get tickets now!
 
 <script type="text/javascript">
     var subdomain = 'scholacantorumsv'; //Site Subdomain
