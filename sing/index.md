@@ -67,7 +67,7 @@ Absolutely! Joining a choir is a great way to get back to singing regularly.
 Singers are expected to participate in all rehearsals and all performances for the year. We understand that illness or conflicts sometimes make participation impossible, but such cases should be rare. Singers will have the opportunity to disclose conflicts when concert dates are announced at the beginning of each season.
 
 0. **How much does it cost to sing in Schola Cantorum?**  
-As a 501&#40;c&#41;(3) organization, member donations are important to help us grow and thrive. The suggested donation for the opportunity to sing in Schola Cantorum is $350 per singer for the year. We strive for donations from 100% of our membership, but no singer is ever turned away for lack of funds.
+As a 501&#40;c&#41;(3) organization, member donations are important to help us grow and thrive. The suggested donation for the opportunity to sing in Schola Cantorum is $350 per singer for the year. We strive for donations from 100% of our membership, but no singer is ever turned away for lack of funds. In addition, singers pay a music fee of $40 per concert. 
 
 0. **What do we wear when we perform?**  
 The standard performing attire is black dress pants and black button down dress shirt, or a floor length black dress. Singers are expected to purchase their own concert attire, but again, no singer is ever turned away for lack of funds.
