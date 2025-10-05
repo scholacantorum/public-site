@@ -1,19 +1,20 @@
 ---
-title: 
+title: Rhythms and Revelations
 weight: 1
 resources:
-- src: /home/summer-sings.png
-  title: Summer Sings
+- src: /home/s62-square.png
+  title: Season 62
 buyTickets: true
 ---
 
-<a href="/summer-sings/">{{% imgfullwidth "summer-sings.png" "Summer Sings" %}}</a>
+<a href="/concerts">{{% imgfloatleft "s62-square.png" "Season 62" %}}</a>
+Schola Cantorum’s 62nd season invites you on a journey through music that moves — body, heart, and spirit.
+From the infectious rhythms of samba to the driving energy of Appalachian bluegrass,
+we celebrate cultures where music pulses with life.
+At the heart of the season, *Elijah* and *Come From the Skies: A High Lonesome Mass* offer powerful reflections through music shaped by faith, resilience, and revelation.
 
-**Fill your Monday nights with music and friends!**
-Join us this summer for our annual sing-alongs of beloved choral masterworks.
-You bring the voice; we supply the scores and the accompaniment; and a variety
-of local conductors stitch it all together.  Monday nights from July 7 through
-August 11.
-<a href="/summer-sings/">Get your tickets now!</a>
+We round out the year with holiday cheer — from a movie-magic spin on seasonal classics to our beloved *Messiah* Sing, now in its 59th year.
+Whether you’re a longtime listener or a first-time singer, we hope you’ll find connection, curiosity, and community in every note.
 
-
+Feel the rhythm. Find your revelation. Get tickets now!
+{{% buy-tickets "Buy FlexPASS Subscriptions" "subscription-2025-26" %}}
