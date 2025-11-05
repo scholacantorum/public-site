@@ -6,7 +6,7 @@ resources:
     title: Messiah Sing
 ---
 
-## Tinseltown:<br>The Holidays in Hollywood
+## Messiah Sing
 
 <div class="concertdatetime">Monday, December 15 at 7:30pm</div>
 <div class="venuename">First Congregational Church of Palo Alto</div>
