@@ -19,7 +19,7 @@ Whether you’re a longtime listener or a first-time singer, we hope you’ll fi
 Feel the rhythm. Find your revelation. Get tickets now!
 {{% buy-tickets "Buy FlexPASS Subscriptions" "subscription-2025-26" %}}
 
-### Enjoy the flexibility and convenience of _FLEXPass_!
+<div>&nbsp;</div>
 
 When you purchase a **_FLEXPass_** for Schola Cantorum’s 62nd Season, you’ll receive these great benefits:
 
@@ -29,5 +29,3 @@ When you purchase a **_FLEXPass_** for Schola Cantorum’s 62nd Season, you’ll
 - **Ticket Flexibility:** Each **_FLEXPass_** is good for four entries to any of this season's concerts.
   Use one at each concert, or all four at one concert, or any mix you choose.
   Bring your friends!
-
-<div>&nbsp;</div>
