@@ -12,7 +12,7 @@ resources:
 <div class="venuename">Los Altos United Methodist Church</div>
 <div>&nbsp;</div>
 
-{{% buy-tickets "Buy Tickets" "ticket-2025-12-14" %}}
+{{% buy-tickets "Buy Tickets" "ticket-2025-12-14" "ticket-2025-12-14-senior" %}}
 
 <div>&nbsp;</div>
 <a href="/concerts/tinseltown">{{% imgfloatleft "tinseltown.png" "Tinseltown" 150 %}}</a>

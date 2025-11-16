@@ -17,7 +17,7 @@ We round out the year with holiday cheer — from a movie-magic spin on seasonal
 Whether you’re a longtime listener or a first-time singer, we hope you’ll find connection, curiosity, and community in every note.
 
 Feel the rhythm. Find your revelation. Get tickets now!
-{{% buy-tickets "Buy FlexPASS Subscriptions" "subscription-2025-26" %}}
+{{% buy-tickets "Buy FlexPASS Subscriptions" "subscription-2025-26" "subscription-2025-26-senior" %}}
 
 <div>&nbsp;</div>
 

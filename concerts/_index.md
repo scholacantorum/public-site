@@ -20,6 +20,6 @@ When you purchase a **_FLEXPass_** for Schola Cantorum’s 62nd Season, you’ll
   Use one at each concert, or all four at one concert, or any mix you choose.
   Bring your friends!
 
-{{% buy-tickets "Buy FLEXPass Subscriptions" "subscription-2025-26" %}}
+{{% buy-tickets "Buy FLEXPass Subscriptions" "subscription-2025-26" "subscription-2025-26-senior" %}}
 
 {{% youthnote %}}
