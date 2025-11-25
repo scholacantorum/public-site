@@ -21,4 +21,6 @@ longtime Schola singer and gala auction winner, Melanie Ercoli!
 
 Raise your voice, lift your spirits, and help us kick off the season in truly glorious fashion.
 
+{{% sponsors %}} Glenn Serre & Ting Kao, Sharon & Steve Newton, and Candy Pelissero & Brian Larsen {{% /sponsors %}}
 {{% youthnote %}}
+

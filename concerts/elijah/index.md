@@ -2,8 +2,8 @@
 title: Mendelssohn's Elijah
 weight: 3
 resources:
-- src: image.png
-  title: Mendelssohn's Elijah
+  - src: image.png
+    title: Mendelssohn's Elijah
 buyTickets: true
 ---
 
@@ -18,4 +18,6 @@ in one of the most riveting sacred works ever composed.
 From whispered prayers to blazing choral climaxes, _Elijah_ is a masterwork of biblical proportions — both intimate and immense, human and holy.
 Come experience the storm, the silence, and the triumph.
 
+{{% sponsors %}} Joan & David Skurnick and Ann Yvonne Walker & David M. Jones {{% /sponsors %}}
 {{% youthnote %}}
+

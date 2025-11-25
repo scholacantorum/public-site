@@ -1,9 +1,9 @@
 ---
-title: 'Amor! 2:  Music from Brazil'
+title: "Amor! 2:  Music from Brazil"
 weight: 1
 resources:
-- src: image.png
-  title: Amor 2!
+  - src: image.png
+    title: Amor 2!
 buyTickets: true
 ---
 
@@ -18,4 +18,6 @@ highlighting the diversity of Brazil’s regional sounds and stories.
 
 Whether it’s your first foray into Brazilian music or you’ve loved it all your life, this concert promises an afternoon of joy, discovery, and irresistible rhythm.
 
+{{% sponsors %}} Kenna and Jim Fenton {{% /sponsors %}}
 {{% youthnote %}}
+

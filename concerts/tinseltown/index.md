@@ -1,9 +1,9 @@
 ---
-title: 'Tinseltown: Holidays in Hollywood'
+title: "Tinseltown: Holidays in Hollywood"
 weight: 2
 resources:
-- src: image.png
-  title: Tinseltown
+  - src: image.png
+    title: Tinseltown
 buyTickets: true
 ---
 
@@ -15,4 +15,6 @@ From timeless movie melodies to heartwarming tunes that spark seasonal nostalgia
 this program promises cozy memories, feel-good favorites, and plenty of opportunities to sing along.
 Bring the whole family, and keep your eyes peeled — there might just be a special visitor in the audience.
 
+{{% sponsors %}} Carrielynn & David Haedtler, Cathy & Steve Combs, and Joan & Edward Conger {{% /sponsors %}}
 {{% youthnote %}}
+
