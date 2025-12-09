@@ -10,7 +10,7 @@ buyTickets: true
 ---
 
 A treasured holiday tradition returns!
-Join us for Schola Cantorum’s 59th Annual Messiah Sing —
+Join us for Schola Cantorum’s 59th Annual _Messiah_ Sing —
 a joyous community celebration of Handel’s masterpiece.
 Whether you know every note or just want to soak in the music from the pews,
 all are welcome at this beloved sing-along.
@@ -20,6 +20,8 @@ And don’t miss the grand finale: the Hallelujah Chorus Reprise, led by this ye
 longtime Schola singer and gala auction winner, Melanie Ercoli!
 
 Raise your voice, lift your spirits, and help us kick off the season in truly glorious fashion.
+
+Plus: Bring a donation or non-perishables for Second Harvest Food Bank to help nourish our neighbors this holiday season.
 
 {{% sponsors %}} Glenn Serre & Ting Kao, Sharon & Steve Newton, and Candy Pelissero & Brian Larsen {{% /sponsors %}}
 {{% youthnote %}}
