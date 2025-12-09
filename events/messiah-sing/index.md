@@ -21,7 +21,7 @@ longtime Schola singer and gala auction winner, Melanie Ercoli!
 
 Raise your voice, lift your spirits, and help us kick off the season in truly glorious fashion.
 
-Plus: Bring a donation or non-perishables for Second Harvest Food Bank to help nourish our neighbors this holiday season.
+Plus: Bring donations or non-perishable food items for Second Harvest Food Bank to help nourish our neighbors this holiday season.
 
 {{% sponsors %}} Glenn Serre & Ting Kao, Sharon & Steve Newton, and Candy Pelissero & Brian Larsen {{% /sponsors %}}
 {{% youthnote %}}
