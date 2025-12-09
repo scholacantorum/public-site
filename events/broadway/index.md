@@ -9,17 +9,13 @@ resources:
 buyTickets: true
 ---
 
-Curtain up on a long-awaited return to the spotlight!
-Schola’s _Broadway Revival_ brings back a beloved tradition we haven’t staged since the BC years (Before COVID), revived with fresh energy and plenty of showbiz sparkle.
+Curtain up on a long-awaited return to the spotlight! Schola's _Broadway Revival_ brings back a beloved tradition we haven't staged since the BC years (Before COVID), revived with fresh energy and plenty of Golden Age glamour.
 
-Led by our own Associate Artistic Director and queen of the keys, **Dawn Reyen**, this family-friendly event features non-stop sing-alongs for the Broadway lover and their adoring fans (err — friends and family).
-From the hills of _The Sound of Music_ to the barber’s chair in _Sweeney Todd_, from the barricades of _Les Mis_ to the dance halls of _West Side Story_, we’re covering all the iconic moments that make Broadway, well … Broadway.
-And yes — _anything goes_: audience requests are welcome, so bring your deepest cuts and boldest dreams.
+Led by our own Associate Artistic Director and queen of the keys, **Dawn Reyen**, this family-friendly singalong celebrates the composers who defined Broadway's most beloved era. We're talking Rodgers & Hammerstein at their finest—from climbing every mountain in _The Sound of Music_ to getting to know all about you in _The King and I_, from the surrey with the fringe on top in _Oklahoma!_ to the impossibly romantic _South Pacific_. Plus other golden age gems that made Broadway the behemoth we know and love today.
 
-Whether you’re defying gravity like _Elphaba_, still flying high after seeing _Wicked: For Good_ in the fall, or channeling your inner Tevye with arms outstretched, this is your moment in the spotlight.
-Expect ballads, belters, snack breaks, and a _You Can’t Stop the Beat_-style encore that’ll have the whole house on its feet.
+This isn't a stuffy recital—it's a full-on singalong where you're the star. Audience requests are absolutely welcome, so bring your favorite classics and your biggest Broadway voice. Whether you're ready to wash that man right out of your hair, convince us that June is bustin' out all over, or belt out your favorite dream ballet, this is your moment in the spotlight.
 
-So grab your friends, bring the family, warm up those vocal cords, and remember — _don’t throw away your shot!_
+Expect soaring ballads, clever lyrics that actually rhyme, strategic snack breaks, and an encore that'll have the whole house harmonizing. So grab your friends, bring the family, warm up those vocal cords, and get ready to prove that some enchanted evening, you really can hear someone singing across a crowded room.
 
 {{% sponsors %}} Steve and Cassie Hanna {{% /sponsors %}}
 {{% youthnote %}}
