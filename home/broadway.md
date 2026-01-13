@@ -12,7 +12,7 @@ resources:
 <div class="venuename">Los Altos United Methodist Church</div>
 <div>&nbsp;</div>
 
-{{% buy-tickets "Buy Tickets" "ticket-2026-02-07" %}}
+{{% buy-tickets "Buy Tickets" "ticket-2026-02-07" "ticket-2026-02-07-senior" %}}
 
 <div>&nbsp;</div>
 <a href="/events/broadway">{{% imgfloatleft "broadway.png" "Broadway Revival" 150 %}}</a>
