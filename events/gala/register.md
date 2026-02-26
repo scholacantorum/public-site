@@ -2,10 +2,7 @@
 ---
 
 <script>
-  const stripe = Stripe()
-  const elements = stripe.elements({ mode: 'payment', currency: 'usd', amount: 100 })
-  const paymentElement = elements.create('payment', { layout: 'tabs' })
-  paymentElement.mount('#payment-element')
+  let stripe, elements, paymentElement
   function makeGuestLines() {
     const qty = parseInt(document.getElementById('gala-qty').value)
     if (!qty || qty < 1) return
@@ -26,6 +23,11 @@
     elements.update({ amount: qty * price * 100 })
   }
   window.addEventListener('load', function() {
+    const stripeKey = document.querySelector('.gala').dataset.stripeKey
+    stripe = Stripe(stripeKey)
+    elements = stripe.elements({ mode: 'payment', currency: 'usd', amount: 100 })
+    paymentElement = elements.create('payment', { layout: 'tabs', fields: { billingDetails: { address: 'if_required' } } })
+    paymentElement.mount('#payment-element')
     makeGuestLines()
     document.getElementById('gala-qty').addEventListener('input', makeGuestLines)
   })
@@ -56,7 +58,7 @@
 </div>  <div id=qtyline>
     Registering
     <input type=number id=gala-qty name=qty min=1 value=1 class=form-control style="display:inline;width:4rem">
-    guest(s) at $<span id=price></span> each:
+    guest(s) at $<span id=price>1</span> each:
   </div>
   <div id=tableqty>
     Registering a table of 10 guests for $1800:
@@ -87,6 +89,6 @@
   </div>
   <div style="font-weight:bold">Any special requests?</div>
   <textarea name=requests placeholder="Seating preferences, dietary restrictions, etc." class=form-control></textarea>
-  <div>Payment Information</div>
+  <div style="margin-top:1rem;font-weight:bold">Payment Information</div>
   <div id=payment-element></div>
 </form>
