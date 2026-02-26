@@ -67,7 +67,7 @@
     document.getElementById('guest-lines').querySelectorAll('[name=name]').forEach((name, idx) => {
       fd.set(`line${idx+1}.product`, form.dataset.product)
       fd.set(`line${idx+1}.quantity`, 1)
-      fd.set(`line${idx+1}.price`, form.dataset.price)
+      fd.set(`line${idx+1}.price`, form.dataset.price+'00')
       fd.set(`line${idx+1}.guestName`, name.value)
     })
     document.getElementById('guest-lines').querySelectorAll('[name=email]').forEach((email, idx) => {
@@ -77,9 +77,8 @@
       fd.set(`line${idx+1}.option`, entree.value)
     })
     result = await fetch('https://gala-backend.scholacantorum.org', {
-      method: 'POST',
+      method: 'POST', body: fd,
       headers: { 'Content-Type': 'multipart/form-data' },
-      body: params,
     })
     if (!result.ok) {
       console.error(result.status)
