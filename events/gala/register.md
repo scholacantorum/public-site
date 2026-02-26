@@ -33,7 +33,8 @@
     let enabled = paymentComplete && document.getElementById('gala-form').checkValidity()
     document.getElementById('paybutton').disabled = !enabled
   }
-  window.addEventListener('load', function() {
+  function startGalaPayment() {
+    if (stripe) return
     const stripeKey = document.querySelector('.gala').dataset.stripeKey
     stripe = Stripe(stripeKey)
     elements = stripe.elements({ mode: 'payment', currency: 'usd', amount: 100 })
@@ -51,7 +52,9 @@
     const form = document.getElementById('gala-form')
     form.addEventListener('input', setSubmitEnabled)
     setSubmitEnabled()
-  })
+    form.style.display = null
+    form.scrollIntoView()
+  }
 </script>
 
 <style>

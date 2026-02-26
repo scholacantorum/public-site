@@ -44,8 +44,7 @@ Lights.
       document.getElementById('gala-qty').value = 10
       document.getElementById('price').textContent = 180
       makeGuestLines()
-      document.getElementById('gala-form').style.display = null
-      document.getElementById('gala-form').scrollIntoView()
+      startGalaPayment()
     });
     ['vip', 'eb', 'reg'].forEach(tag => {
       document.getElementById(`b-${tag}`).addEventListener('click', function() {
@@ -55,8 +54,7 @@ Lights.
         document.getElementById('b-reg').disabled = tag !== 'reg'
         document.getElementById('price').textContent = tag === 'vip' ? 190 : tag === 'eb' ? 200 : 225
         document.getElementById('tableqty').style.display = 'none'
-        document.getElementById('gala-form').style.display = null
-        document.getElementById('gala-form').scrollIntoView()
+        startGalaPayment()
       })
     })
   })
