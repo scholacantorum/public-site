@@ -36,15 +36,32 @@ Lights.
     if (now >= '2026-03-09T07') document.getElementById('b-vip').disabled = true
     if (now < '2026-03-09T07' || now >= '2026-03-26T07') document.getElementById('b-eb').disabled = true
     if (now < '2026-03-26T07' || now >= '2026-04-13T07') document.getElementById('b-reg').disabled = true
-    ['table', 'vip', 'eb', 'reg'].forEach(tag => {
-      document.getElementById(`b-${tag}`).addEventListener('click') {
-        if (document.getElementById('gala-registration')) return
-        document.getElementById(`r-${tag}`).id = 'gala-registration'
-        window.dispatchEvent(new CustomEvent('gala-order'))
-      }
+    document.getElementById('b-table').addEventListener('click', function() {
+      document.getElementById('b-vip').disabled = true
+      document.getElementById('b-eb').disabled = true
+      document.getElementById('b-reg').disabled = true
+      document.getElementById('qtyline').style.display = 'none'
+      document.getElementById('gala-qty').value = 10
+      document.getElementById('price').textContent = 180
+      makeGuestLines()
+      document.getElementById('gala-form').style.display = null
+      document.getElementById('gala-form').scrollIntoView()
+    });
+    ['vip', 'eb', 'reg'].forEach(tag => {
+      document.getElementById(`b-${tag}`).addEventListener('click', function() {
+        document.getElementById('b-table').disabled = true
+        document.getElementById('b-vip').disabled = tag !== 'vip'
+        document.getElementById('b-eb').disabled = tag !== 'eb'
+        document.getElementById('b-reg').disabled = tag !== 'reg'
+        document.getElementById('price').textContent = tag === 'vip' ? 190 : tag === 'eb' ? 200 : 225
+        document.getElementById('tableqty').style.display = 'none'
+        document.getElementById('gala-form').style.display = null
+        document.getElementById('gala-form').scrollIntoView()
+      })
     })
   })
 </script>
+
 <div style="font-weight:bold">TICKET PRICING</div>
 <div style="display:grid;grid:auto/1fr max-content;gap:0.25rem;width:max-content">
   <div>
@@ -103,28 +120,3 @@ Evening wear, period-inspired, or art-inspired. Channel your favorite Impression
 **CONTACT**  
 Questions? Reach out! 
 info@ScholaCantorum.org | (650) 254-1700
-
-<div id="r-table" style="display:none"
- data-product="registration-2026-04-25-table"
- data-orders-url="{{ .Site.Params.ordersURL }}"
- data-gala-reg-url="{{ .Site.Params.galaRegURL }}"
- data-stripe-key="{{ .Site.Params.stripeKey }}"
-></div>
-<div id="r-vip" style="display:none"
- data-product="registration-2026-04-25-vip"
- data-orders-url="{{ .Site.Params.ordersURL }}"
- data-gala-reg-url="{{ .Site.Params.galaRegURL }}"
- data-stripe-key="{{ .Site.Params.stripeKey }}"
-></div>
-<div id="r-eb" style="display:none"
- data-product="registration-2026-04-25-eb"
- data-orders-url="{{ .Site.Params.ordersURL }}"
- data-gala-reg-url="{{ .Site.Params.galaRegURL }}"
- data-stripe-key="{{ .Site.Params.stripeKey }}"
-></div>
-<div id="r-reg" style="display:none"
- data-product="registration-2026-04-25"
- data-orders-url="{{ .Site.Params.ordersURL }}"
- data-gala-reg-url="{{ .Site.Params.galaRegURL }}"
- data-stripe-key="{{ .Site.Params.stripeKey }}"
-></div>
