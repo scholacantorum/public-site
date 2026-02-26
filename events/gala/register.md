@@ -106,7 +106,10 @@
     form.dataset.product = product
     const stripeKey = document.querySelector('.gala').dataset.stripeKey
     stripe = Stripe(stripeKey)
-    elements = stripe.elements({ mode: 'payment', currency: 'usd', amount: 100 })
+    elements = stripe.elements({
+      mode: 'payment', currency: 'usd', amount: 100,
+      paymentMethodCreation: 'manual',
+    })
     paymentElement = elements.create('payment', {
       layout: 'tabs',
       fields: { billingDetails: { address: 'if_required' } },
