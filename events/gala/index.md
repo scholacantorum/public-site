@@ -59,35 +59,35 @@ Lights.
 <div style="font-weight:bold">TICKET PRICING</div>
 <div style="display:grid;grid:auto/1fr max-content;gap:0.25rem;width:max-content">
   <div>
-    <div>Table Sponsor   <i>$1800 per table for 10</i></div>
+    <div style="font-weight:bold">Table Sponsor   <i>$1800 per table for 10</i></div>
     <div style="margin-left:2rem">
+      <div style="font-style:italic">Available until March 25 or until 5 sold</div>
       <div>+ Complimentary signature cocktails</div>
       <div>+ Sneak peek at Auction offerings</div>
       <div>+ VIP table location</div>
-      <div style="font-style:italic">Available until March 25 or until 5 sold</div>
     </div>
   </div>
   <div><button id=b-table class="btn btn-primary" disabled>Buy</button></div>
   <div>
-    <div>VIP Ticket   <i>$190 per person</i></div>
+    <div style="font-weight:bold">VIP Ticket   <i>$190 per person</i></div>
     <div style="margin-left:2rem">
+      <div style="font-style:italic">Available until March 8</div>
       <div>+ Complimentary signature cocktail</div>
       <div>+ Sneak peek at Auction offerings</div>
       <div>+ VIP table location</div>
-      <div style="font-style:italic">Available until March 8</div>
     </div>
   </div>
   <div><button id=b-vip class="btn btn-primary" disabled>Buy</button></div>
   <div>
-    <div>Early Bird   <i>$200 per person</i></div>
+    <div style="font-weight:bold">Early Bird   <i>$200 per person</i></div>
     <div style="margin-left:2rem">
-      <div>+ Complimentary signature cocktail</div>
       <div style="font-style:italic">Available March 9 to 25</div>
+      <div>+ Complimentary signature cocktail</div>
     </div>
   </div>
   <div><button id=b-eb class="btn btn-primary" disabled>Buy</button></div>
   <div>
-    <div>Regular   <i>$225 per person</i></div>
+    <div style="font-weight:bold">Regular   <i>$225 per person</i></div>
     <div style="margin-left:2rem">
       <div style="font-style:italic">Available March 26 to April 12</div>
     </div>
