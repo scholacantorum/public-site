@@ -78,7 +78,6 @@
     })
     result = await fetch('https://gala-backend.scholacantorum.org/register', {
       method: 'POST', body: fd,
-      headers: { 'Content-Type': 'multipart/form-data' },
     })
     if (!result.ok) {
       console.error(result.status)

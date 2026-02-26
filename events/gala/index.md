@@ -32,10 +32,10 @@ Lights.
 <script>
   window.addEventListener('load', function() {
     const now = new Date().toISOString()
-    if (now >= '2026-03-26T07') document.getElementById('b-table').disabled = true
-    if (now >= '2026-03-09T07') document.getElementById('b-vip').disabled = true
-    if (now < '2026-03-09T07' || now >= '2026-03-26T07') document.getElementById('b-eb').disabled = true
-    if (now < '2026-03-26T07' || now >= '2026-04-13T07') document.getElementById('b-reg').disabled = true
+    if (now < '2026-03-26T07') document.getElementById('b-table').disabled = false
+    if (now < '2026-03-09T07') document.getElementById('b-vip').disabled = false
+    if (now >= '2026-03-09T07' && now < '2026-03-26T07') document.getElementById('b-eb').disabled = false
+    if (now >= '2026-03-26T07' && now < '2026-04-13T07') document.getElementById('b-reg').disabled = false
     document.getElementById('b-table').addEventListener('click', function() {
       document.getElementById('b-vip').disabled = true
       document.getElementById('b-eb').disabled = true
@@ -67,7 +67,7 @@ Lights.
       <div style="font-style:italic">Available until March 25 or until 5 sold</div>
     </div>
   </div>
-  <div><button id=b-table class="btn btn-primary">Buy</button></div>
+  <div><button id=b-table class="btn btn-primary" disabled>Buy</button></div>
   <div>
     <div>VIP Ticket   <i>$190 per person</i></div>
     <div style="margin-left:2rem">
@@ -77,7 +77,7 @@ Lights.
       <div style="font-style:italic">Available until March 8</div>
     </div>
   </div>
-  <div><button id=b-vip class="btn btn-primary">Buy</button></div>
+  <div><button id=b-vip class="btn btn-primary" disabled>Buy</button></div>
   <div>
     <div>Early Bird   <i>$200 per person</i></div>
     <div style="margin-left:2rem">
@@ -85,14 +85,14 @@ Lights.
       <div style="font-style:italic">Available March 9 to 25</div>
     </div>
   </div>
-  <div><button id=b-eb class="btn btn-primary">Buy</button></div>
+  <div><button id=b-eb class="btn btn-primary" disabled>Buy</button></div>
   <div>
     <div>Regular   <i>$225 per person</i></div>
     <div style="margin-left:2rem">
       <div style="font-style:italic">Available March 26 to April 12</div>
     </div>
   </div>
-  <div><button id=b-reg class="btn btn-primary">Buy</button></div>
+  <div><button id=b-reg class="btn btn-primary" disabled>Buy</button></div>
 </div>
 
 <div style="margin-top:1rem;font-weight:bold">THE EVENING INCLUDES</div>
