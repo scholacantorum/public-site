@@ -4,7 +4,8 @@
 <script>
   let stripe, elements, paymentElement, paymentComplete
   function makeGuestLines() {
-    const qty = parseInt(document.getElementById('gala-qty').value)
+    const form = document.getElementById('gala-form')
+    const qty = parseInt(form.qty.value)
     if (!qty || qty < 1) return
     const grid = document.getElementById('guest-lines')
     if (grid.childElementCount === 4*qty) return
@@ -25,7 +26,7 @@
       }
       grid.appendChild(row)
     }
-    const price = parseInt(document.getElementById('price').textContent)
+    const price = parseInt(form.dataset.price)
     elements.update({ amount: qty * price * 100 })
     document.getElementById('total').textContent = qty*price
   }
@@ -42,14 +43,12 @@
       return
     }
     const form = evt.target
-    result = await stripe.createConfirmationToken({
+    result = await stripe.createPaymentMethod({
       elements: elements,
       params: {
-        payment_method_data: {
-          billing_details: {
-            email: form.querySelector('[name=email]').value,
-            name: form.querySelector('[name=name]').value,
-          }
+        billing_details: {
+          email: form.querySelector('[name=email]').value,
+          name: form.querySelector('[name=name]').value,
         }
       }
     })
@@ -57,17 +56,36 @@
       console.error(result.error)
       return
     }
-    form.token.value = result.confirmationToken.id
-    const params = new URLSearchParams(form)
+    const fd = new FormData()
+    fd.set('source', 'public')
+    fd.set('name', form.querySelector('[name=name]').value)
+    fd.set('email', form.querySelector('[name=email]').value)
+    fd.set('payment1.type', result.paymentMethod.type)
+    fd.set('payment1.subtype', result.paymentMethod.card?.wallet?.type || 'manual')
+    fd.set('payment1.method', result.paymentMethod.id)
+    fd.set('payment1.amount', 100*parseInt(document.getElementById('total').textContent))
+    document.getElementById('guest-lines').querySelectorAll('[name=name]').forEach((name, idx) => {
+      fd.set(`line${idx+1}.product`, form.dataset.product)
+      fd.set(`line${idx+1}.quantity`, 1)
+      fd.set(`line${idx+1}.price`, form.dataset.price)
+      fd.set(`line${idx+1}.guestName`, name.value)
+    })
+    document.getElementById('guest-lines').querySelectorAll('[name=email]').forEach((email, idx) => {
+      fd.set(`line${idx+1}.guestEmail`, email.value)
+    })
+    document.getElementById('guest-lines').querySelectorAll('[name=entree]').forEach((entree, idx) => {
+      fd.set(`line${idx+1}.option`, entree.value)
+    })
     result = await fetch('https://gala-backend.scholacantorum.org', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body: params.toString(),
+      headers: { 'Content-Type': 'multipart/form-data' },
+      body: params,
     })
     if (!result.ok) {
       console.error(result.status)
       return
     }
+    // TODO handle errors
     document.getElementById('confirm').style.display = null
     document.getElementById('gala-form').style.display = 'none'
     document.getElementById('b-table').disabled = true
@@ -75,8 +93,17 @@
     document.getElementById('b-eb').disabled = true
     document.getElementById('b-reg').disabled = true
   }
-  function startGalaPayment() {
+  function startGalaPayment(product, price, qty) {
     if (stripe) return
+    const form = document.getElementById('gala-form')
+    if (qty) {
+      document.getElementById('qtyline').style.display = 'none'
+      form.qty.value = qty
+    } else {
+      document.getElementById('tableqty').style.display = 'none'
+    }
+    form.dataset.price = price
+    form.dataset.product = product
     const stripeKey = document.querySelector('.gala').dataset.stripeKey
     stripe = Stripe(stripeKey)
     elements = stripe.elements({ mode: 'payment', currency: 'usd', amount: 100 })
@@ -91,7 +118,6 @@
     })
     makeGuestLines()
     document.getElementById('gala-qty').addEventListener('input', makeGuestLines)
-    const form = document.getElementById('gala-form')
     form.addEventListener('input', setSubmitEnabled)
     setSubmitEnabled()
     form.style.display = null

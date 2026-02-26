@@ -40,11 +40,7 @@ Lights.
       document.getElementById('b-vip').disabled = true
       document.getElementById('b-eb').disabled = true
       document.getElementById('b-reg').disabled = true
-      document.getElementById('qtyline').style.display = 'none'
-      document.getElementById('gala-qty').value = 10
-      document.getElementById('price').textContent = 180
-      document.getElementById('product').value = 'registration-2026-04-25-table'
-      startGalaPayment()
+      startGalaPayment('registration-2026-04-25-table', 180, 10)
     });
     ['vip', 'eb', 'reg'].forEach(tag => {
       document.getElementById(`b-${tag}`).addEventListener('click', function() {
@@ -52,10 +48,9 @@ Lights.
         document.getElementById('b-vip').disabled = tag !== 'vip'
         document.getElementById('b-eb').disabled = tag !== 'eb'
         document.getElementById('b-reg').disabled = tag !== 'reg'
-        document.getElementById('price').textContent = tag === 'vip' ? 190 : tag === 'eb' ? 200 : 225
-        document.getElementById('product').value = `registration-2026-04-25${tag === 'reg' ? '' : ('-'+tag)}`
-        document.getElementById('tableqty').style.display = 'none'
-        startGalaPayment()
+        startGalaPayment(
+          `registration-2026-04-25${tag === 'reg' ? '' : ('-'+tag)}`,
+          tag === 'vip' ? 190 : tag === 'eb' ? 200 : 225)
       })
     })
   })
