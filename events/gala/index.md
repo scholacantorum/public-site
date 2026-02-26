@@ -57,7 +57,7 @@ Lights.
 </script>
 
 <div style="font-weight:bold">TICKET PRICING</div>
-<div style="display:grid;grid:auto/1fr max-content;gap:0.25rem;width:max-content">
+<div style="display:grid;grid:auto/1fr max-content;gap:0.5rem;width:max-content">
   <div>
     <div style="font-weight:bold">Table Sponsor   <i>$1800 per table for 10</i></div>
     <div style="margin-left:2rem">
