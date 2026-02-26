@@ -76,7 +76,7 @@
     document.getElementById('guest-lines').querySelectorAll('[name=entree]').forEach((entree, idx) => {
       fd.set(`line${idx+1}.option`, entree.value)
     })
-    result = await fetch('https://gala-backend.scholacantorum.org', {
+    result = await fetch('https://gala-backend.scholacantorum.org/register', {
       method: 'POST', body: fd,
       headers: { 'Content-Type': 'multipart/form-data' },
     })
