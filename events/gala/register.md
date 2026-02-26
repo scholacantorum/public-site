@@ -83,7 +83,11 @@
       console.error(result.status)
       return
     }
-    // TODO handle errors
+    const order = await result.json()
+    if (order.error) {
+      document.getElementById('error').textContent = order.error
+      return
+    }
     document.getElementById('confirm').style.display = null
     document.getElementById('gala-form').style.display = 'none'
     document.getElementById('b-table').disabled = true
@@ -194,5 +198,6 @@
   <div style="margin-top:1rem;font-weight:bold">Payment Information</div>
   <div id=payment-element></div>
   <button type=submit id=paybutton class="btn btn-primary" style="margin-top:1rem">Pay $<span id=total></span></button>
+  <div id=error style="margin-top:1rem;color:red"></div>
   <div style="height:8rem"></div>
 </form>
