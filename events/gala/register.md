@@ -2,7 +2,7 @@
 ---
 
 <script>
-  let stripe, elements, paymentElement
+  let stripe, elements, paymentElement, paymentComplete
   function makeGuestLines() {
     const qty = parseInt(document.getElementById('gala-qty').value)
     if (!qty || qty < 1) return
@@ -16,20 +16,41 @@
     }
     while (grid.childElementCount < 4*qty) {
       const row = document.getElementById('guestline').content.cloneNode(true)
-      row.firstElementChild.textContent = (grid.childElementCount === 0) ? 'Host' : `Guest #${grid.childElementCount/4}`
+      if (grid.childElementCount === 0) {
+        row.firstElementChild.textContent = 'Host'
+        row.querySelector('[name=name]').required = true
+        row.querySelector('[name=email]').required = true
+      } else {
+        row.firstElementChild.textContent = `Guest #${grid.childElementCount/4}`
+      }
       grid.appendChild(row)
     }
     const price = parseInt(document.getElementById('price').textContent)
     elements.update({ amount: qty * price * 100 })
+    document.getElementById('total').textContent = qty*price
+  }
+  function setSubmitEnabled() {
+    let enabled = paymentComplete && document.getElementById('gala-form').checkValidity()
+    document.getElementById('paybutton').disabled = !enabled
   }
   window.addEventListener('load', function() {
     const stripeKey = document.querySelector('.gala').dataset.stripeKey
     stripe = Stripe(stripeKey)
     elements = stripe.elements({ mode: 'payment', currency: 'usd', amount: 100 })
-    paymentElement = elements.create('payment', { layout: 'tabs', fields: { billingDetails: { address: 'if_required' } } })
+    paymentElement = elements.create('payment', {
+      layout: 'tabs',
+      fields: { billingDetails: { address: 'if_required' } },
+    })
     paymentElement.mount('#payment-element')
+    paymentElement.on('change', evt => {
+      paymentComplete = evt.complete
+      setSubmitEnabled()
+    })
     makeGuestLines()
     document.getElementById('gala-qty').addEventListener('input', makeGuestLines)
+    const form = document.getElementById('gala-form')
+    form.addEventListener('input', setSubmitEnabled)
+    setSubmitEnabled()
   })
 </script>
 
@@ -91,4 +112,5 @@
   <textarea name=requests placeholder="Seating preferences, dietary restrictions, etc." class=form-control></textarea>
   <div style="margin-top:1rem;font-weight:bold">Payment Information</div>
   <div id=payment-element></div>
+  <button type=submit id=paybutton class="btn btn-primary" style="margin-top:1rem">Pay $<span id=total></span></button>
 </form>
