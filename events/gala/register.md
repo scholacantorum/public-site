@@ -60,6 +60,7 @@
     fd.set('source', 'public')
     fd.set('name', form.querySelector('[name=name]').value)
     fd.set('email', form.querySelector('[name=email]').value)
+    fd.set('cNote', form.requests.value)
     fd.set('payment1.type', result.paymentMethod.type)
     fd.set('payment1.subtype', result.paymentMethod.card?.wallet?.type || 'manual')
     fd.set('payment1.method', result.paymentMethod.id)
