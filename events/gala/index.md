@@ -43,7 +43,7 @@ Lights.
       document.getElementById('qtyline').style.display = 'none'
       document.getElementById('gala-qty').value = 10
       document.getElementById('price').textContent = 180
-      makeGuestLines()
+      document.getElementById('product').value = 'registration-2026-04-25-table'
       startGalaPayment()
     });
     ['vip', 'eb', 'reg'].forEach(tag => {
@@ -53,6 +53,7 @@ Lights.
         document.getElementById('b-eb').disabled = tag !== 'eb'
         document.getElementById('b-reg').disabled = tag !== 'reg'
         document.getElementById('price').textContent = tag === 'vip' ? 190 : tag === 'eb' ? 200 : 225
+        document.getElementById('product').value = `registration-2026-04-25${tag === 'reg' ? '' : ('-'+tag)}`
         document.getElementById('tableqty').style.display = 'none'
         startGalaPayment()
       })

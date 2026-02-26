@@ -33,6 +33,48 @@
     let enabled = paymentComplete && document.getElementById('gala-form').checkValidity()
     document.getElementById('paybutton').disabled = !enabled
   }
+  async function submitRegistration(evt) {
+    evt.preventDefault()
+    if (document.getElementById('paybutton').disabled) return
+    let result = await elements.submit()
+    if (result.error) {
+      console.error(result.error)
+      return
+    }
+    const form = evt.target
+    result = await stripe.createConfirmationToken({
+      elements: elements,
+      params: {
+        payment_method_data: {
+          billing_details: {
+            email: form.querySelector('[name=email]').value,
+            name: form.querySelector('[name=name]').value,
+          }
+        }
+      }
+    })
+    if (result.error) {
+      console.error(result.error)
+      return
+    }
+    form.token.value = result.confirmationToken.id
+    const params = new URLSearchParams(form)
+    result = await fetch('https://gala-backend.scholacantorum.org', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: params.toString(),
+    })
+    if (!result.ok) {
+      console.error(result.status)
+      return
+    }
+    document.getElementById('confirm').style.display = null
+    document.getElementById('gala-form').style.display = 'none'
+    document.getElementById('b-table').disabled = true
+    document.getElementById('b-vip').disabled = true
+    document.getElementById('b-eb').disabled = true
+    document.getElementById('b-reg').disabled = true
+  }
   function startGalaPayment() {
     if (stripe) return
     const stripeKey = document.querySelector('.gala').dataset.stripeKey
@@ -54,6 +96,7 @@
     setSubmitEnabled()
     form.style.display = null
     form.scrollIntoView()
+    form.addEventListener('submit', submitRegistration)
   }
 </script>
 
@@ -73,13 +116,21 @@
   }
 </style>
 
-<form id=gala-form style="display:none">
-<hr class=w-100>
-<div style="font-weight:bold;margin-block:0.75rem">REGISTRATION</div>
 <div id=confirm style="display:none">
-  Thank you for your registration.  A receipt has been mailed to you.
-  We look forward to seeing you at the gala.
-</div>  <div id=qtyline>
+  <hr class=w-100>
+  <div style="font-weight:bold;margin-block:0.75rem">REGISTRATION</div>
+  <div>
+    Thank you for your registration.  A receipt has been mailed to you.
+    We look forward to seeing you at the gala.
+  </div>
+</div>
+
+<form id=gala-form style="display:none">
+  <input type=hidden id=product name=product>
+  <input type=hidden name=token>
+  <hr class=w-100>
+  <div style="font-weight:bold;margin-block:0.75rem">REGISTRATION</div>
+  <div id=qtyline>
     Registering
     <input type=number id=gala-qty name=qty min=1 value=1 class=form-control style="display:inline;width:4rem">
     guest(s) at $<span id=price>1</span> each:
@@ -116,4 +167,5 @@
   <div style="margin-top:1rem;font-weight:bold">Payment Information</div>
   <div id=payment-element></div>
   <button type=submit id=paybutton class="btn btn-primary" style="margin-top:1rem">Pay $<span id=total></span></button>
+  <div style="height:8rem"></div>
 </form>
