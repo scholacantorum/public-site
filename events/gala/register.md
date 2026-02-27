@@ -151,7 +151,7 @@
 <div id=confirm style="display:none">
   <hr class=w-100>
   <div style="font-weight:bold;margin-block:0.75rem">REGISTRATION</div>
-  <div>
+  <div style="font-size:1.25rem;font-weight:bold;color:#0454a3">
     Thank you for your registration.  A receipt has been mailed to you.
     We look forward to seeing you at the gala.
   </div>
@@ -200,5 +200,5 @@
   <div id=payment-element></div>
   <button type=submit id=paybutton class="btn btn-primary" style="margin-top:1rem">Pay $<span id=total></span></button>
   <div id=error style="margin-top:1rem;color:red"></div>
-  <div style="height:8rem"></div>
 </form>
+<div style="height:8rem"></div>
