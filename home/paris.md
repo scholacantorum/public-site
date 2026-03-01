@@ -1,6 +1,6 @@
 ---
 title:
-weight: 3
+weight: 2
 resources:
   - src: paris.png
     title: Paris After Dark
