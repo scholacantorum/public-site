@@ -22,3 +22,6 @@ an epic oratorio brimming with drama, power, and divine revelation.
 With full orchestra, stunning soloists, and nearly a hundred voices strong,
 this concert brings to life the prophet’s struggle against doubt, drought, and despair
 in one of the most riveting sacred works ever composed.
+
+From whispered prayers to blazing choral climaxes, _Elijah_ is a masterwork of biblical proportions — both intimate and immense, human and holy.
+Come experience the storm, the silence, and the triumph.
