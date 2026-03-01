@@ -107,6 +107,7 @@
     }
     form.dataset.price = price
     form.dataset.product = product
+    document.getElementById('price').textContent = price
     const stripeKey = document.querySelector('.gala').dataset.stripeKey
     stripe = Stripe(stripeKey)
     elements = stripe.elements({
