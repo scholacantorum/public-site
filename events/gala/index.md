@@ -33,11 +33,9 @@ Lights.
   window.addEventListener('load', function() {
     const now = new Date().toISOString()
     if (now < '2026-03-26T07') document.getElementById('b-table').disabled = false
-    if (now < '2026-03-09T07') document.getElementById('b-vip').disabled = false
     if (now >= '2026-03-09T07' && now < '2026-03-26T07') document.getElementById('b-eb').disabled = false
     if (now >= '2026-03-26T07' && now < '2026-04-13T07') document.getElementById('b-reg').disabled = false
     document.getElementById('b-table').addEventListener('click', function() {
-      document.getElementById('b-vip').disabled = true
       document.getElementById('b-eb').disabled = true
       document.getElementById('b-reg').disabled = true
       startGalaPayment('registration-2026-04-25-table', 180, 10)
@@ -45,12 +43,11 @@ Lights.
     ['vip', 'eb', 'reg'].forEach(tag => {
       document.getElementById(`b-${tag}`).addEventListener('click', function() {
         document.getElementById('b-table').disabled = true
-        document.getElementById('b-vip').disabled = tag !== 'vip'
         document.getElementById('b-eb').disabled = tag !== 'eb'
         document.getElementById('b-reg').disabled = tag !== 'reg'
         startGalaPayment(
           `registration-2026-04-25${tag === 'reg' ? '' : ('-'+tag)}`,
-          tag === 'vip' ? 190 : tag === 'eb' ? 200 : 225)
+          tag === 'eb' ? 200 : 225)
       })
     })
   })
@@ -68,16 +65,6 @@ Lights.
     </div>
   </div>
   <div><button id=b-table class="btn btn-primary" disabled>Buy</button></div>
-  <div>
-    <div style="font-weight:bold">VIP Ticket   <i>$190 per person</i></div>
-    <div style="margin-left:2rem">
-      <div style="font-style:italic">Available until March 8</div>
-      <div>+ Complimentary signature cocktail</div>
-      <div>+ Sneak peek at Auction offerings</div>
-      <div>+ VIP table location</div>
-    </div>
-  </div>
-  <div><button id=b-vip class="btn btn-primary" disabled>Buy</button></div>
   <div>
     <div style="font-weight:bold">Early Bird   <i>$200 per person</i></div>
     <div style="margin-left:2rem">

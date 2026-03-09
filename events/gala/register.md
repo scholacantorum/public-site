@@ -92,7 +92,6 @@
     document.getElementById('confirm').style.display = null
     document.getElementById('gala-form').style.display = 'none'
     document.getElementById('b-table').disabled = true
-    document.getElementById('b-vip').disabled = true
     document.getElementById('b-eb').disabled = true
     document.getElementById('b-reg').disabled = true
   }
@@ -171,6 +170,10 @@
   <div id=tableqty>
     Registering a table of 10 guests for $1800:
   </div>
+  <div id=note style="font-size:0.875rem;font-style:italic">
+    If you don't have names or entree choices yet, that’s OK.
+    Email them to us by April 12.
+  </div>
   <div id=guestinfo style="margin-block:1rem;display:grid;align-items:baseline;gap:0.25rem">
     <div class=widehead></div>
     <div class=widehead style="font-weight:bold">Name</div>
@@ -189,11 +192,6 @@
         <option value="vegan">Curry Fried Rice (vegan)</option>
       </select></div>
     </template>
-    <div id=notespace></div>
-    <div id=note style="font-size:0.875rem;font-style:italic">
-      If you don't have names or entree choices yet, that’s OK.
-      Email them to us by April 12.
-    </div>
   </div>
   <div style="font-weight:bold">Any special requests?</div>
   <textarea name=requests placeholder="Seating preferences, dietary restrictions, etc." class=form-control></textarea>
