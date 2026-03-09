@@ -40,7 +40,7 @@ Lights.
       document.getElementById('b-reg').disabled = true
       startGalaPayment('registration-2026-04-25-table', 180, 10)
     });
-    ['vip', 'eb', 'reg'].forEach(tag => {
+    ['eb', 'reg'].forEach(tag => {
       document.getElementById(`b-${tag}`).addEventListener('click', function() {
         document.getElementById('b-table').disabled = true
         document.getElementById('b-eb').disabled = tag !== 'eb'
