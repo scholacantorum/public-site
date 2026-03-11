@@ -85,7 +85,7 @@ Lights.
 <div style="margin-top:1rem;font-weight:bold">THE EVENING INCLUDES</div>
 <ul style="margin:0 0 1rem 0">
   <li>Master of Ceremonies: Jeff Applebaum</li>
-  <li>Entertainment: Le Cancan Bijou &amp; DJ Frank Morales</li>
+  <li>Entertainment: Dancers and DJ</li>
   <li>Photography: George Paganini</li>
   <li>Complimentary Wine &amp; Champagne</li>
   <li>Signature Cocktail</li>
