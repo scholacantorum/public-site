@@ -12,7 +12,7 @@ resources:
 <div class="venuename">Saratoga Country Club</div>
 <div>&nbsp;</div>
 
-<a href="/gala" class="btn btn-primary">Register</a>
+<a href="/gala" class="btn btn-primary">Register</a> by April 12
 
 <div>&nbsp;</div>
 <a href="/events/gala">{{% imgfloatleft "paris.png" "Paris After Dark" 150 %}}</a>
