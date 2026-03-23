@@ -37,9 +37,11 @@
   async function submitRegistration(evt) {
     evt.preventDefault()
     if (document.getElementById('paybutton').disabled) return
+    document.getElementById('paybutton').disabled = true
     let result = await elements.submit()
     if (result.error) {
       console.error(result.error)
+      document.getElementById('paybutton').disabled = false
       return
     }
     const form = evt.target
@@ -54,6 +56,7 @@
     })
     if (result.error) {
       console.error(result.error)
+      document.getElementById('paybutton').disabled = false
       return
     }
     const fd = new FormData()
@@ -82,11 +85,13 @@
     })
     if (!result.ok) {
       console.error(result.status)
+      document.getElementById('paybutton').disabled = false
       return
     }
     const order = await result.json()
     if (order.error) {
       document.getElementById('error').textContent = order.error
+      document.getElementById('paybutton').disabled = false
       return
     }
     document.getElementById('confirm').style.display = null
