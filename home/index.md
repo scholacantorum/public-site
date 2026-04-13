@@ -2,24 +2,21 @@
 title:
 weight: 1
 resources:
-  - src: paris.png
-    title: Paris After Dark
+  - src: appalachia.png
+    title: Appalachia
 ---
 
-## Paris After Dark
+## Echoes of Appalachia
 
-<div class="concertdatetime">Saturday, April 25 at 6:00pm</div>
-<div class="venuename">Saratoga Country Club</div>
+<div class="concertdatetime">Saturday, May 16 at 7:30pm</div>
+<div class="venuename">Valley Presbyterian Church, Portola Valley</div>
 <div>&nbsp;</div>
 
-<a href="/gala" class="btn btn-primary">Register</a> by April 12
+{{% buy-tickets "Echoes of Appalachia" "ticket-2026-05-16" "ticket-2026-05-16-senior" %}}
 
 <div>&nbsp;</div>
-<a href="/events/gala">{{% imgfloatleft "paris.png" "Paris After Dark" 150 %}}</a>
+<a href="/concerts/appalachia">{{% imgfloatleft "appalachia.png" "Appalachia" 150 %}}</a>
 
-A Night of Elegance to benefit _Schola Cantorum_.
-
-Transport yourself to turn-of-the-century Paris—a golden age of art, music, and
-joie de vivre. Join Schola Cantorum Silicon Valley for an enchanting evening of
-lively entertainment, fine dining, and the unmistakable sparkle of the City of
-Lights.
+A journey through the musical landscapes of Earth’s oldest mountain range.
+With haunting harmonies, aching beauty, and fierce spiritual depth,
+**Echoes of Appalachia** invites you into the heart of a region whose music is as layered and resilient as its history.

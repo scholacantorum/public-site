@@ -29,58 +29,7 @@ joie de vivre. Join Schola Cantorum Silicon Valley for an enchanting evening of
 lively entertainment, fine dining, and the unmistakable sparkle of the City of
 Lights.
 
-<script>
-  window.addEventListener('load', function() {
-    const now = new Date().toISOString()
-    if (now < '2026-03-26T07') document.getElementById('b-table').disabled = false
-    if (now >= '2026-03-09T07' && now < '2026-03-26T07') document.getElementById('b-eb').disabled = false
-    if (now >= '2026-03-26T07' && now < '2026-04-13T07') document.getElementById('b-reg').disabled = false
-    document.getElementById('b-table').addEventListener('click', function() {
-      document.getElementById('b-eb').disabled = true
-      document.getElementById('b-reg').disabled = true
-      startGalaPayment('registration-2026-04-25-table', 180, 10)
-    });
-    ['eb', 'reg'].forEach(tag => {
-      document.getElementById(`b-${tag}`).addEventListener('click', function() {
-        document.getElementById('b-table').disabled = true
-        document.getElementById('b-eb').disabled = tag !== 'eb'
-        document.getElementById('b-reg').disabled = tag !== 'reg'
-        startGalaPayment(
-          `registration-2026-04-25${tag === 'reg' ? '' : ('-'+tag)}`,
-          tag === 'eb' ? 200 : 225)
-      })
-    })
-  })
-</script>
-
-<div style="font-weight:bold">TICKET PRICING</div>
-<div style="display:grid;grid:auto/1fr max-content;gap:0.5rem;width:max-content">
-  <div>
-    <div style="font-weight:bold">Table Sponsor   <i>$1800 per table for 10</i></div>
-    <div style="margin-left:2rem">
-      <div style="font-style:italic">Available until March 25 or until 5 sold</div>
-      <div>+ Complimentary signature cocktails</div>
-      <div>+ Sneak peek at Auction offerings</div>
-      <div>+ VIP table location</div>
-    </div>
-  </div>
-  <div><button id=b-table class="btn btn-primary" disabled>Buy</button></div>
-  <div>
-    <div style="font-weight:bold">Early Bird   <i>$200 per person</i></div>
-    <div style="margin-left:2rem">
-      <div style="font-style:italic">Available March 9 to 25</div>
-      <div>+ Complimentary signature cocktail</div>
-    </div>
-  </div>
-  <div><button id=b-eb class="btn btn-primary" disabled>Buy</button></div>
-  <div>
-    <div style="font-weight:bold">Regular   <i>$225 per person</i></div>
-    <div style="margin-left:2rem">
-      <div style="font-style:italic">Available March 26 to April 12</div>
-    </div>
-  </div>
-  <div><button id=b-reg class="btn btn-primary" disabled>Buy</button></div>
-</div>
+<p style="color:red">Registration for this event has closed.</p>
 
 <div style="margin-top:1rem;font-weight:bold">THE EVENING INCLUDES</div>
 <ul style="margin:0 0 1rem 0">
