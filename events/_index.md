@@ -1,7 +1,7 @@
 ---
 title: Community Events
 description: Community Events
-menu:
+xmenu:
   main:
     title: Events
     weight: 2

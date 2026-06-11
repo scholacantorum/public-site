@@ -1,6 +1,6 @@
 ---
 title: Concerts
-ogdesc: Schola Cantorum's 2025–2026 season
+ogdesc: Schola Cantorum's 2026–2027 season
 menu:
   main:
     title: Concerts
@@ -9,6 +9,7 @@ menu:
 
 <a id=subscription></a>
 
+<!--
 ### Enjoy the flexibility and convenience of _FLEXPass_!
 
 When you purchase a **_FLEXPass_** for Schola Cantorum’s 62nd Season, you’ll receive these great benefits:
@@ -23,3 +24,4 @@ When you purchase a **_FLEXPass_** for Schola Cantorum’s 62nd Season, you’ll
 {{% buy-tickets "Buy FLEXPass Subscriptions" "subscription-2025-26" "subscription-2025-26-senior" %}}
 
 {{% youthnote %}}
+-->

@@ -2,21 +2,23 @@
 title:
 weight: 1
 resources:
-  - src: appalachia.png
-    title: Appalachia
+  - src: summer.png
+    title: Summer Sings
 ---
 
-## Echoes of Appalachia
+## [Summer Sings](/summer-sings)
 
-<div class="concertdatetime">Saturday, May 16 at 7:30pm</div>
-<div class="venuename">Valley Presbyterian Church, Portola Valley</div>
+<div class="concertdatetime">Mondays, July 6 through August 10, at 7:30pm</div>
+<div class="venuename">Los Altos United Methodist Church</div>
 <div>&nbsp;</div>
 
-{{% buy-tickets "Echoes of Appalachia" "ticket-2026-05-16" "ticket-2026-05-16-senior" %}}
+{{% buy-tickets "Summer Sings" "summer-sings-2026" "ticket-2026-07-06" "ticket-2026-07-13" "ticket-2026-07-20" "ticket-2026-07-27" "ticket-2026-08-03" "ticket-2026-08-10" %}}
 
 <div>&nbsp;</div>
-<a href="/concerts/appalachia">{{% imgfloatleft "appalachia.png" "Appalachia" 150 %}}</a>
+<a href="/summer-sings">{{% imgfloatleft "summer.png" "Summer Sings" 150 %}}</a>
 
-A journey through the musical landscapes of Earth’s oldest mountain range.
-With haunting harmonies, aching beauty, and fierce spiritual depth,
-**Echoes of Appalachia** invites you into the heart of a region whose music is as layered and resilient as its history.
+**Fill your Monday nights with music and friends!**  
+Fill your Monday nights this summer with music and friends!
+Join us for our annual summer sing-alongs of beloved choral masterworks.
+You bring the voice; we supply the scores and the accompaniment.
+Superb Bay Area conductors and pianists keep the music flowing.
