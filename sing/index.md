@@ -14,9 +14,9 @@ Historic **Schola Cantorum Silicon Valley** welcomes new singers for its 63rd se
 
 ## Auditions
 
-Schola Cantorum will next welcome new singers in August 2026. Interested singers are invited to complete <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1dqVpEPMtolVz3M7E9Ylnaj9d2qktplRTJU7hsLfMGhDQww/viewform" target="_blank">this online form</a> and attend an open rehearsal to meet members of the choir and experience the joy and energy of Schola Cantorum. Singers who are interested in joining will then be invited to schedule a one-on-one vocal interview/audition with the Artistic Director.
+Schola’s Artistic Director, Buddy James, prefers to use the term “vocal interview”. He encourages interested singers to complete  <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1dqVpEPMtolVz3M7E9Ylnaj9d2qktplRTJU7hsLfMGhDQww/viewform" target="_blank"> this online form</a> - Buddy will reach out to schedule a mutually convenient time to meet one-on-one. 
 
-Vocal interviews include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred and it does not need to be memorized. Here is a short video where our Artistic Director, Buddy James, discusses the audition process.
+Vocal interviews include scales, pitch-matching, sight-reading exercises, and a one-minute unaccompanied excerpt of a song. An aria, art song, folksong, or musical theater selection is preferred, and it does not need to be memorized. Here is a short video where Buddy discusses the interview process.
 
 <iframe id="audition-video" width="560" height="315" src="https://www.youtube.com/embed/V7l6XKY8YyI?rel=0" title="Audition Process" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
