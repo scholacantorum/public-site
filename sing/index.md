@@ -20,7 +20,9 @@ Vocal interviews include scales, pitch-matching, sight-reading exercises, and a 
 
 <iframe id="audition-video" width="560" height="315" src="https://www.youtube.com/embed/V7l6XKY8YyI?rel=0" title="Audition Process" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Singers will be notified of the outcome of their auditions prior to the second rehearsal. Singers who successfully pass their vocal interview will be invited to an information session an hour prior to the second rehearsal.
+Singers will be notified of the outcome of their interview shortly afterwards. Singers who successfully pass their vocal interview will be invited to an information session an hour prior to the first rehearsal of the season.
+
+Please note that Schola’s 63rd concert season is a departure from the norm mentioned in the FAQs, below. See the Concerts page for the details on the programs, times and places of our five concerts. In addition, we will also be appearing in Redwood Symphony’s Stravinsky Festival in April.
 
 ### Why should I sing with Schola Cantorum?
 
