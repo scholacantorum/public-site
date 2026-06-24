@@ -26,7 +26,7 @@ After its premiere, a writer for The Times called it “a classic of new America
 
 The best-known, most performed section of the work is the haunting a cappella _O nata lux_. The Latin text translates as “O light born of light, / Jesus, redeemer of the world, / deign in mercy to accept / the offering of praise and prayers.” The music is harmonically opulent and Lauridsen luxuriates in the power of the choral sound.
 
-OUR SUMMER SING ARTISTS
+## OUR SUMMER SING ARTISTS
 
 {{% imgfloatleft "james.png" %}}
 **Buddy James**, conductor, began as Artistic Director of Schola Cantorum with its 2019–2020 season. He is also Professor of Music at California State University, East Bay where he serves as Chair of the Department of Music and the Coordinator of Choral and Vocal Studies and was the Founding Director of the School of Arts and Media. He has taught at the University of Southern California, the University of California at Berkeley and Irvine, Whittier College, Elizabethtown College, and Millersville University, where he was named Person of the Year in 2004. 
