@@ -18,7 +18,7 @@ resources:
 <a href="/summer-sings">{{% imgfloatleft "summer.png" "Summer Sings" 150 %}}</a>
 
 **Fill your Monday nights with music and friends!**  
-Fill your Monday nights this summer with music and friends!
+
 Join us for our annual summer sing-alongs of beloved choral masterworks.
 You bring the voice; we supply the scores and the accompaniment.
 Superb Bay Area conductors and pianists keep the music flowing.
