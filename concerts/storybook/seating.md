@@ -3,4 +3,4 @@ datetime: 2026-12-06 17:00:00
 venue: laumc
 ---
 
-{{% buy-tickets "A Storybook Holiday" "ticket-2026-12-06" "ticket-2026-12-06-senior" "subscription-2026-27" "subscription-2026-27-senior" %}}
+{{% buy-tickets "A Storybook Holiday" "ticket-2026-12-06" "ticket-2026-12-06-senior" "subscription-2026-27" %}}
