@@ -9,19 +9,17 @@ menu:
 
 <a id=subscription></a>
 
-<!--
 ### Enjoy the flexibility and convenience of _FLEXPass_!
 
-When you purchase a **_FLEXPass_** for Schola Cantorum’s 62nd Season, you’ll receive these great benefits:
+When you purchase a **_FLEXPass_** for Schola Cantorum’s 63nd Season, you’ll receive these great benefits:
 
 - **Special subscriber pricing: 30% off** at-the-door prices.
 - **Convenience:** Print your online QR Code ticket any time, or carry it on
   your mobile device — no waiting at will-call.
-- **Ticket Flexibility:** Each **_FLEXPass_** is good for four entries to any of this season's concerts.
-  Use one at each concert, or all four at one concert, or any mix you choose.
+- **Ticket Flexibility:** Each **_FLEXPass_** is good for five entries to any of this season's concerts.
+  Use one at each concert, or all five at one concert, or any mix you choose.
   Bring your friends!
 
-{{% buy-tickets "Buy FLEXPass Subscriptions" "subscription-2025-26" "subscription-2025-26-senior" %}}
+{{% buy-tickets "Buy FLEXPass Subscriptions" "subscription-2026-27" "subscription-2026-27-senior" %}}
 
 {{% youthnote %}}
--->
