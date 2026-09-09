@@ -17,6 +17,9 @@ Schola Cantorum's 55th Season Will Be Gregory Wait's Last
 
 # Press Releases
 
+[September 10, 2026](2026-09-10.pdf): Schola Cantorum Silicon Valley Announces
+Fourth Poetry to Music Contest for High School Students
+
 [June 23, 2025](2025-06-23.pdf): Schola Cantorum Unveils New Brand Identity Reflecting a
 Joyful, Evolving Community
 

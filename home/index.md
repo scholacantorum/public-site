@@ -2,23 +2,16 @@
 title:
 weight: 1
 resources:
-  - src: summer.png
-    title: Summer Sings
+  - src: season63.png
+    title: Season 63
 ---
 
-## [Summer Sings](/summer-sings)
+## [Season 63:](/concerts) The Poet Sings
 
-<div class="concertdatetime">Mondays, July 6 through August 10, at 7:30pm</div>
-<div class="venuename">Los Altos United Methodist Church</div>
-<div>&nbsp;</div>
+<a href="/concerts"><img src="/home/season63.png" alt="Season 63"></a>
 
-{{% buy-tickets "Summer Sings" "summer-sings-2026" "ticket-2026-07-06" "ticket-2026-07-13" "ticket-2026-07-20" "ticket-2026-07-27" "ticket-2026-08-03" "ticket-2026-08-10" %}}
+This season, our 63rd, Schola Cantorum delves into the union between poetry and music inherent in almost all choral works. We’ll explore how music, lyrics, and voices create works of art greater than the sum of their parts.
 
-<div>&nbsp;</div>
-<a href="/summer-sings">{{% imgfloatleft "summer.png" "Summer Sings" 150 %}}</a>
+From telling stories (***Broadway Sings*** and ***El Mesías***), to celebrating holidays and families (***A Storybook Holiday***) to the monumental (Mozart’s ***Requiem***) to the personal (***The Poet Speaks***), we cover a vast range of choral literature. It’s united by the propulsive combination of music and words - melodies, harmonies and poetry.
 
-**Fill your Monday nights with music and friends!**  
-
-Join us for our annual summer sing-alongs of beloved choral masterworks.
-You bring the voice; we supply the scores and the accompaniment.
-Superb Bay Area conductors and pianists keep the music flowing.
+We cap off our season with an as-yet to be commissioned work to be premiered at ***The Poet Speaks*** concert, based on this fall’s winning poem from our 4th Poetry to Music competition.
