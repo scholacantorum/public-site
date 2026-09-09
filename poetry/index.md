@@ -63,7 +63,7 @@ competition will be deemed to be acceptance of these conditions.
    evaluation of the poems will be partially based upon their ability to be
    adapted into a choral composition.
 5. All entries must be submitted online, through
-   [this form](https://forms.gle/ipxLLhWzNPtbp9um8). No late entries will be
+   [this form](https://forms.gle/cCLsKtmsdbiEEbmY9). No late entries will be
    accepted. Entries received after the deadline will be disqualified. No postal
    entries are accepted.
 6. Each entry must be the entrant&rsquo;s/author&rsquo;s original work. Should an entry be
@@ -108,5 +108,5 @@ competition will be deemed to be acceptance of these conditions.
 ## Contest Entry Form
 
 To submit your poem to the contest, use [this
-form](https://forms.gle/ipxLLhWzNPtbp9um8). If you have questions, send email
+form](https://forms.gle/cCLsKtmsdbiEEbmY9). If you have questions, send email
 to [poetrycontest@scholacantorum.org](mailto:poetrycontest@scholacantorum.org).
