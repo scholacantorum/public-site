@@ -1,6 +1,6 @@
 ---
 title: "The Poet Speaks: from Shakespeare to Tomorrow"
-weight: 5
+weight: 6
 resources:
   - src: image.png
     title: The Poet Speaks
