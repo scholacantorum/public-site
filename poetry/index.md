@@ -11,14 +11,14 @@ aliases:
 We offer an opportunity for young local poets to hear their words put to music
 by renowned composer [Maria Thompson Corley](https://mariacorley.com) and
 performed by Schola Cantorum under the direction of Schola’s Artistic
-Director, Buddy James. Schola is one of the Bay Area’s premier choirs, now in
+Director, Dr. Buddy James. Schola is one of the Bay Area’s premier choirs, now in
 its 63rd season. The contest is a contemporary venture of artistic collaboration
 and community, open to high school students who live or attend school in Santa
 Clara County.
 
-* 2026&ndash;2027 theme: Belonging – finding your place in the world.
+* 2026&ndash;2027 theme: _Belonging_ – finding your place in the world.
 * **Prizes**: $600 First Place; $350 Second Place; $250 Third Place. While only the
-  first place poem will be set to music and performed at a live concert, all
+  <u>first place</u> poem will be set to music and performed at a live concert, all
   prize winners will be featured in Schola Cantorum’s publicity materials,
   programs, and on our website.
 * The contest will be judged by a panel including the Santa Clara County Poet
@@ -27,7 +27,7 @@ Clara County.
   January 2027. The three winning poems will be announced at Schola’s spring
   concert on Saturday, May 23, 2027. The title of this Schola concert is *The
   Poet Speaks*, and it will feature significant choral compositions inspired by
-  the poetry of William Shakespeare, Dylan Thimas, Sara Teasdale, Rainer Maria
+  the poetry of William Shakespeare, Dylan Thomas, Sara Teasdale, Rainer Maria
   Rilke, among others.
 
 
@@ -59,7 +59,7 @@ competition will be deemed to be acceptance of these conditions.
 3. No entrant may win more than one prize.
 4. All poems must have a title (which will be the title of the newly
    commissioned choral work) and be 20 lines or less — title and spaces between
-   stanzas do not count. Any rhyme scheme is allowed except free verse. The
+   stanzas do not count. **Any rhyme scheme is allowed *except* free verse.** The
    evaluation of the poems will be partially based upon their ability to be
    adapted into a choral composition.
 5. All entries must be submitted online, through
