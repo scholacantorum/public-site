@@ -1,9 +1,9 @@
 ---
-title: "Mozart’s Requiem"
+title: "Mozart and Brahms: Sacred Masterworks"
 weight: 4
 resources:
   - src: image.png
-    title: Mozart’s Requiem
+    title: Mozart and Brahms
 buyTickets: true
 ---
 
