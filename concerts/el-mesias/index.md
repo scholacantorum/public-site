@@ -38,6 +38,6 @@ _Presentaremos esta nueva interpretación con una orquesta completa y solistas
 extraordinarios, y les invitaremos a un espacio imponente: la Catedral Basílica
 de San José. Un espacio tan grandioso como_ El Mesías _de Händel._
 
-{{% sponsors "The Steinhilber Family; Glenn Serre and Ting Kao" %}}
+{{%sponsors%}}The Steinhilber Family; Glenn Serre and Ting Kao{{%/sponsors%}}
 {{% youthnote %}}
 
