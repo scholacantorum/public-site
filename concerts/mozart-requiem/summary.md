@@ -1,3 +1,1 @@
-Come hear some of the most powerful and achingly beautiful music ever written
-for human voices. This monumental work was Mozart’s last. Written on his
-deathbed, it explores the heights and depths of the human experience.
+Choir and full orchestra unite for our season’s grandest evening: Mozart’s soaring, unfinished _Requiem_, his final masterpiece, paired with Brahms’s radiant _Geistliches Lied_. Two sacred masterworks, one glorious sound you’ll feel as much as hear.  

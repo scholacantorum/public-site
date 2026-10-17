@@ -1,3 +1,1 @@
-A perfect holiday outing for the whole family. Schola sings the best of holiday
-music, from your childhood standards to your grandchildrens’ standards, with
-plenty of opportunities to sing along. 
+A perfect holiday outing for the whole family! Schola sings childhood favorites spanning generations, with plenty of chances to sing along. Even more joy than last year’s Tinseltown celebration! 
