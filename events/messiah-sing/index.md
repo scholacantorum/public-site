@@ -13,3 +13,5 @@ resources:
 It’s a great venue for Schola’s *Messiah Sing*, worthy of the Baroque-scale full orchestra, with continuo, and the hundreds of choral singers and soloists — why, of course, that’s all of you! You sing the choruses and you sing the solos.
 
 Tickets, through the [MVCPA box office](https://www.mvcpa.com/visit/ticket-services), will go on sale this fall.
+
+{{% sponsor "Ann Yvonne Walker and David Jones" %}}

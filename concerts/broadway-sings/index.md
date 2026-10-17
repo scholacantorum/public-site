@@ -18,5 +18,6 @@ getting through TSA lines or the expense of a Manhattan hotel.
 
 If you love Broadway, this season opener has it all.
 
+{{% sponsor "Kenna and Jim Fenton" %}}
 {{% youthnote %}}
 
