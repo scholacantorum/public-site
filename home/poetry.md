@@ -1,6 +1,6 @@
 ---
 title: Poetry Contest
-weight: 2
+weight: 3
 resources:
   - src: poetry.png
     title: Poetry Contest
@@ -8,7 +8,4 @@ resources:
 
 <a href="/poetry"><img src="/home/poetry.png" alt="Poetry Contest"></a>
 
-Schola Cantorum is offering Santa Clara County students in grades 9 to 12 the
-opportunity to hear their original poem turned into a choral piece by acclaimed
-composer Maria Thompson Corley. The world premiere will be sung at our *The Poet
-Speaks* concert on May 23, 2027. See [contest information](/poetry).
+**Calling all teen poets!** Santa Clara County students in grades 9–12 can submit an original poem on ***Belonging: finding your place in the world***. Acclaimed composer Maria Thompson Corley will set the winner for choir, premiering at _The Poet Speaks_ on May 23, 2027. Free to enter. **Deadline: Mon., Nov. 16, 11pm PT.** [Contest details](/poetry)
