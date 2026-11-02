@@ -13,4 +13,4 @@ in Spanish! With acclaimed soloists and orchestra at the Basilica in San Jose.
 [Sunday, November 15](/concerts/el-mesias)  
 _Escucha la_ Parte 1 _de la obra coral más popular de todos los tiempos de una
 forma nueva y original:  ¡en español! Con solistas y orquesta de renombre en la
-Basílica de San José.  [Domingo el 15 de noviembre](/concerts/el-mesias)
+Basílica de San José._  [_Domingo el 15 de noviembre_](/concerts/el-mesias)
