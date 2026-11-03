@@ -13,10 +13,9 @@ debut in Dublin in 1742. There have been formal performances, countless
 _Messiah_ Sings, and now you can appreciate it a whole new way – in Spanish!
 
 Schola will present Part 1 of the _Messiah_ (the Advent and Christmas part) in a
-new Spanish translation – we believe we will present the West Coast premiere of
-_El Mesías_. The tunes are all the same, but the language shift will challenge
-your sense of familiarity. You truly will hear it as you’ve never heard it
-before.
+new Spanish translation – the Bay Area premiere of _El Mesías_. The tunes are
+all the same, but the language shift will challenge your sense of familiarity.
+You truly will hear it as you’ve never heard it before.
 
 We will perform this new interpretation with a full orchestra, fabulous
 soloists, and we’ll invite you into an astounding space – the Cathedral Basilica
@@ -29,8 +28,8 @@ sesiones de canto participativo_ (Messiah Sings), _y ahora puede disfrutarla de
 una forma totalmente nueva: ¡en español!_
 
 _Schola presentará la primera parte de_ El Mesías _(la parte dedicada al Adviento
-y la Navidad) en una nueva traducción al español; creemos que será el estreno en
-la Costa Oeste de esta versión.  Las melodías son las mismas, pero el cambio de
+y la Navidad) en una nueva traducción al español; será el estreno en el Área de
+la Bahía de esta versión.  Las melodías son las mismas, pero el cambio de
 idioma pondrá a prueba su sensación de familiaridad. Realmente lo escuchará como
 nunca antes._
 
