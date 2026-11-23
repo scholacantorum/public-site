@@ -18,8 +18,6 @@ resources:
 
 {{% buy-tickets "A Storybook Holiday" "ticket-2026-12-06" "ticket-2026-12-06-senior" "subscription-2026-27" %}}
 
-    </div>
-  </div>
-</div>
+</div></div></div>
 
 A perfect holiday outing for the whole family! Schola sings the best of holiday music from childhood favorites spanning generations, with plenty of opportunities to sing along.
