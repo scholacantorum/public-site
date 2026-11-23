@@ -15,7 +15,9 @@ resources:
       <div class=venuename>Los Altos</div>
     </div>
     <div class=concerttickets>
+
       {{% buy-tickets "A Storybook Holiday" "ticket-2026-12-06" "ticket-2026-12-06-senior" "subscription-2026-27" %}}
+
     </div>
   </div>
 </div>
